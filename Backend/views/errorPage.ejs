@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <%- include('./partials/head') %>
+</head>
+<body class="bg-gray-100">
+  <%- include('./partials/navbar') %>
+
+  <main class="container mx-auto mt-16 max-w-xl bg-white p-6 rounded shadow-md">
+    <%- include('./partials/errors', { validationErrors: [{ msg: errorMessage }] }) %>
+    <a href="/" class="text-red-500 hover:underline mt-4 inline-block">← Go back to home</a>
+  </main>
+</body>
+</html>

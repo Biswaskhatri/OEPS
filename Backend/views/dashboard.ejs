@@ -1,0 +1,72 @@
+<!-- views/dashboard.ejs -->
+<%- include('../partials/head') %>
+<title>Dashboard</title>
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col">
+  <%- include('../partials/navbar') %>
+
+  <main class="flex-grow container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-semibold mb-6 text-center text-gray-800">Welcome, <%= user.firstName %>!</h1>
+
+    <!-- Summary Cards -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+      <div class="bg-white shadow p-6 rounded-lg text-center">
+        <p class="text-gray-500">Total Tests Taken</p>
+        <p class="text-2xl font-bold"><%= stats.totalTests %></p>
+      </div>
+      <div class="bg-white shadow p-6 rounded-lg text-center">
+        <p class="text-gray-500">Average Score</p>
+        <p class="text-2xl font-bold"><%= stats.averageScore %> %</p>
+      </div>
+      <div class="bg-white shadow p-6 rounded-lg text-center">
+        <p class="text-gray-500">Best Score</p>
+        <p class="text-2xl font-bold"><%= stats.bestScore %> %</p>
+      </div>
+      <div class="bg-white shadow p-6 rounded-lg text-center">
+        <p class="text-gray-500">Weakest Subject</p>
+        <p class="text-2xl font-bold text-red-600"><%= stats.weakestSubject %></p>
+      </div>
+      <div class="bg-white shadow p-6 rounded-lg text-center">
+        <p class="text-gray-500">Your Rank</p>
+        <p class="text-2xl font-bold"><%= stats.rank %> / <%= stats.totalUsers %></p>
+      </div>
+      <div class="bg-white shadow p-6 rounded-lg text-center">
+        <p class="text-gray-500">Percentile</p>
+        <p class="text-2xl font-bold text-green-600"><%= stats.percentile %>th</p>
+      </div>
+    </div>
+
+    <!-- Recent Test Table -->
+    <div class="bg-white shadow p-6 rounded-lg">
+      <h2 class="text-xl font-semibold mb-4">Recent Tests</h2>
+      <div class="overflow-x-auto">
+        <table class="w-full text-left border-collapse">
+          <thead>
+            <tr>
+              <th class="py-2 px-4 border-b">Date</th>
+              <th class="py-2 px-4 border-b">Score</th>
+              <th class="py-2 px-4 border-b">Correct</th>
+              <th class="py-2 px-4 border-b">Incorrect</th>
+              <th class="py-2 px-4 border-b">Not Attempted</th>
+            </tr>
+          </thead>
+          <tbody>
+            <% recentTests.forEach(test => { %>
+              <tr>
+                <td class="py-2 px-4 border-b"><%= test.date %></td>
+                <td class="py-2 px-4 border-b"><%= test.score %> %</td>
+                <td class="py-2 px-4 border-b"><%= test.correct %></td>
+                <td class="py-2 px-4 border-b"><%= test.incorrect %></td>
+                <td class="py-2 px-4 border-b"><%= test.unattempted %></td>
+              </tr>
+            <% }) %>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <%- include('../partials/footer') %>
+</body>
+</html>
+ 

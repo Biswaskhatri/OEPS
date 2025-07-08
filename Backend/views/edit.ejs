@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>View Question</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 p-6">
+  <div class="max-w-3xl mx-auto bg-white p-6 rounded-lg shadow-md">
+    <h1 class="text-2xl font-bold text-yellow-600 text-center mb-6">Edit or Delete Question</h1>
+
+    <form method="POST" action="/questions/edit/<%= question._id %>" class="grid grid-cols-2 gap-4 mb-6">
+      <input name="question_id" value="<%= question.question_id %>" class="p-2 border rounded" required />
+      <input name="question_text" value="<%= question.question_text %>" class="p-2 border rounded" required />
+      <input name="options[A]" value="<%= question.options.A %>" class="p-2 border rounded" required />
+      <input name="options[B]" value="<%= question.options.B %>" class="p-2 border rounded" required />
+      <input name="options[C]" value="<%= question.options.C %>" class="p-2 border rounded" required />
+      <input name="options[D]" value="<%= question.options.D %>" class="p-2 border rounded" required />
+      <select name="correct_answer" required class="p-2 border rounded">
+        <option value="A" <%= question.correct_answer === 'A' ? 'selected' : '' %>>A</option>
+        <option value="B" <%= question.correct_answer === 'B' ? 'selected' : '' %>>B</option>
+       <option value="C" <%= question.correct_answer === 'C' ? 'selected' : '' %>>C</option>
+        <option value="D" <%= question.correct_answer === 'D' ? 'selected' : '' %>>D</option>
+      </select>
+
+      <select name="subject" required class="p-2 border rounded">
+        <option value="">-- Select Subject --</option>
+        <option value="Physics" <%= question && question.subject === 'Physics' ? 'selected' : '' %>>Physics</option>
+        <option value="Chemistry" <%= question && question.subject === 'Chemistry' ? 'selected' : '' %>>Chemistry</option>
+        <option value="Math" <%= question && question.subject === 'Math' ? 'selected' : '' %>>Math</option>
+        <option value="English" <%= question && question.subject === 'English' ? 'selected' : '' %>>English</option>
+        <option value="Computer" <%= question && question.subject === 'Computer' ? 'selected' : '' %>>Computer</option>
+      </select>
+
+      <select name="difficulty" required class="p-2 border rounded">
+        <option value="">-- Select Difficulty --</option>
+        <option value="Basic" <%= question && question.difficulty === 'Basic' ? 'selected' : '' %>>Basic</option>
+        <option value="Intermediate" <%= question && question.difficulty === 'Intermediate' ? 'selected' : '' %>>Intermediate</option>
+        <option value="Hard" <%= question && question.difficulty === 'Hard' ? 'selected' : '' %>>Hard</option>
+      </select>
+
+      <input name="topic" value="<%= question.topic %>" class="p-2 border rounded"  />
+      <button class="col-span-2 bg-yellow-500 text-white py-2 rounded hover:bg-yellow-600">Update Question</button>
+    </form>
+
+    <form method="POST" action="/questions/delete/<%= question._id %>">
+      <button class="w-full bg-red-600 text-white py-2 rounded hover:bg-red-700">Delete Question</button>
+    </form>
+  </div>
+</body>
+</html>

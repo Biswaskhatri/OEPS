@@ -1,0 +1,3273 @@
+[
+  {
+    "question_id": "CHEM001",
+    "question_text": "What is the chemical formula for water?",
+    "options": {
+      "A": "H2O2",
+      "B": "CO2",
+      "C": "H2O",
+      "D": "NH3"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "General Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM002",
+    "question_text": "Which gas is released when an acid reacts with a metal?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Hydrogen",
+      "C": "Nitrogen",
+      "D": "Carbon Dioxide"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM003",
+    "question_text": "What is the pH value of a neutral solution?",
+    "options": {
+      "A": "0",
+      "B": "7",
+      "C": "14",
+      "D": "Less than 7"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM004",
+    "question_text": "Name the gas responsible for the greenhouse effect.",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon Dioxide",
+      "D": "Argon"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Environmental Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM005",
+    "question_text": "What is the common name for sodium chloride?",
+    "options": {
+      "A": "Baking soda",
+      "B": "Washing soda",
+      "C": "Common salt",
+      "D": "Bleaching powder"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM006",
+    "question_text": "Which element is the most abundant in the Earth's atmosphere?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Argon",
+      "D": "Carbon"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Non-Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM007",
+    "question_text": "What is the phenomenon of rusting an example of?",
+    "options": {
+      "A": "Reduction",
+      "B": "Oxidation",
+      "C": "Neutralization",
+      "D": "Decomposition"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Chemical Reactions and Equations (Class 10)"
+  },
+  {
+    "question_id": "CHEM008",
+    "question_text": "Which type of bond is formed when electrons are shared between atoms?",
+    "options": {
+      "A": "Ionic bond",
+      "B": "Covalent bond",
+      "C": "Metallic bond",
+      "D": "Hydrogen bond"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Chemical Bonding (Class 10)"
+  },
+  {
+    "question_id": "CHEM009",
+    "question_text": "What is the main component of natural gas?",
+    "options": {
+      "A": "Ethane",
+      "B": "Propane",
+      "C": "Methane",
+      "D": "Butane"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM010",
+    "question_text": "Which acid is present in vinegar?",
+    "options": {
+      "A": "Citric acid",
+      "B": "Lactic acid",
+      "C": "Acetic acid",
+      "D": "Sulphuric acid"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM011",
+    "question_text": "What is the atomic number of Oxygen?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "16"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Atomic Structure (Class 10)"
+  },
+  {
+    "question_id": "CHEM012",
+    "question_text": "Which metal is liquid at room temperature?",
+    "options": {
+      "A": "Iron",
+      "B": "Gold",
+      "C": "Mercury",
+      "D": "Copper"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM013",
+    "question_text": "What is the formula for glucose?",
+    "options": {
+      "A": "C6H12O6",
+      "B": "CH4",
+      "C": "C2H5OH",
+      "D": "C12H22O11"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM014",
+    "question_text": "Which halogen is a liquid at room temperature?",
+    "options": {
+      "A": "Fluorine",
+      "B": "Chlorine",
+      "C": "Bromine",
+      "D": "Iodine"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Non-Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM015",
+    "question_text": "What is the product of the reaction between an acid and a base?",
+    "options": {
+      "A": "Gas and Water",
+      "B": "Salt and Water",
+      "C": "Only Salt",
+      "D": "Only Water"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM016",
+    "question_text": "The process of converting vegetable oil into vegetable ghee is called:",
+    "options": {
+      "A": "Oxidation",
+      "B": "Reduction",
+      "C": "Hydrogenation",
+      "D": "Saponification"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM017",
+    "question_text": "Which of the following is an inert gas?",
+    "options": {
+      "A": "Oxygen",
+      "B": "Chlorine",
+      "C": "Neon",
+      "D": "Nitrogen"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Periodic Table (Class 10)"
+  },
+  {
+    "question_id": "CHEM018",
+    "question_text": "What is the valency of carbon in organic compounds?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM019",
+    "question_text": "Which of the following is a strong acid?",
+    "options": {
+      "A": "Acetic acid",
+      "B": "Formic acid",
+      "C": "Hydrochloric acid",
+      "D": "Citric acid"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM020",
+    "question_text": "What is the common term for a solution that can dissolve more solute at a given temperature?",
+    "options": {
+      "A": "Saturated solution",
+      "B": "Unsaturated solution",
+      "C": "Supersaturated solution",
+      "D": "Dilute solution"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "States of Matter (Class 10)"
+  },
+  {
+    "question_id": "CHEM021",
+    "question_text": "What is the function of a catalyst in a chemical reaction?",
+    "options": {
+      "A": "To increase the temperature",
+      "B": "To decrease the temperature",
+      "C": "To change the reaction rate",
+      "D": "To change the products"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Chemical Reactions and Equations (Class 10)"
+  },
+  {
+    "question_id": "CHEM022",
+    "question_text": "Which type of oxide is generally formed by non-metals?",
+    "options": {
+      "A": "Basic oxide",
+      "B": "Acidic oxide",
+      "C": "Amphoteric oxide",
+      "D": "Neutral oxide"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Non-Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM023",
+    "question_text": "What is the main property that distinguishes one element from another?",
+    "options": {
+      "A": "Mass number",
+      "B": "Number of neutrons",
+      "C": "Atomic number",
+      "D": "Number of electrons"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Atomic Structure (Class 10)"
+  },
+  {
+    "question_id": "CHEM024",
+    "question_text": "Which of the following is a property of acids?",
+    "options": {
+      "A": "Bitter taste",
+      "B": "Slippery feel",
+      "C": "Sour taste",
+      "D": "Turns red litmus blue"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM025",
+    "question_text": "The process of electroplating is based on which effect of electric current?",
+    "options": {
+      "A": "Heating effect",
+      "B": "Magnetic effect",
+      "C": "Chemical effect",
+      "D": "Luminous effect"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electrochemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM026",
+    "question_text": "Which part of an atom contains protons and neutrons?",
+    "options": {
+      "A": "Electron cloud",
+      "B": "Orbit",
+      "C": "Nucleus",
+      "D": "Shell"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Atomic Structure (Class 10)"
+  },
+  {
+    "question_id": "CHEM027",
+    "question_text": "What is the general formula for alkanes?",
+    "options": {
+      "A": "CnH2n",
+      "B": "CnH2n+2",
+      "C": "CnH2n-2",
+      "D": "CnH2nO"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM028",
+    "question_text": "Which gas is produced during photosynthesis?",
+    "options": {
+      "A": "Carbon Dioxide",
+      "B": "Oxygen",
+      "C": "Nitrogen",
+      "D": "Hydrogen"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Environmental Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM029",
+    "question_text": "What is the common method for separating insoluble solids from liquids?",
+    "options": {
+      "A": "Distillation",
+      "B": "Evaporation",
+      "C": "Filtration",
+      "D": "Sublimation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "States of Matter (Class 10)"
+  },
+  {
+    "question_id": "CHEM030",
+    "question_text": "Which of the following elements is a metalloid?",
+    "options": {
+      "A": "Sodium",
+      "B": "Silicon",
+      "C": "Chlorine",
+      "D": "Iron"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Periodic Table (Class 10)"
+  },
+  {
+    "question_id": "CHEM031",
+    "question_text": "The decomposition of vegetable matter into compost is an example of what type of reaction?",
+    "options": {
+      "A": "Exothermic reaction",
+      "B": "Endothermic reaction",
+      "C": "Displacement reaction",
+      "D": "Combination reaction"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Chemical Reactions and Equations (Class 10)"
+  },
+  {
+    "question_id": "CHEM032",
+    "question_text": "Which of the following is used as an antacid?",
+    "options": {
+      "A": "Sodium bicarbonate",
+      "B": "Sulphuric acid",
+      "C": "Sodium chloride",
+      "D": "Calcium carbonate"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Acids, Bases, and Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM033",
+    "question_text": "What is the chemical symbol for gold?",
+    "options": {
+      "A": "Ag",
+      "B": "Au",
+      "C": "Fe",
+      "D": "Pb"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM034",
+    "question_text": "The process of burning a substance in the presence of oxygen is called:",
+    "options": {
+      "A": "Reduction",
+      "B": "Decomposition",
+      "C": "Combustion",
+      "D": "Neutralization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Chemical Reactions and Equations (Class 10)"
+  },
+  {
+    "question_id": "CHEM035",
+    "question_text": "Which non-metal is a good conductor of electricity?",
+    "options": {
+      "A": "Sulphur",
+      "B": "Phosphorus",
+      "C": "Graphite",
+      "D": "Iodine"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Non-Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM036",
+    "question_text": "What is the process of coating iron with a layer of zinc called?",
+    "options": {
+      "A": "Electroplating",
+      "B": "Anodizing",
+      "C": "Galvanization",
+      "D": "Tinning"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM037",
+    "question_text": "Which type of reaction involves the exchange of ions between two compounds?",
+    "options": {
+      "A": "Combination reaction",
+      "B": "Decomposition reaction",
+      "C": "Single displacement reaction",
+      "D": "Double displacement reaction"
+    },
+    "correct_answer": "D",
+    "difficulty": "Basic",
+    "topic": "Chemical Reactions and Equations (Class 10)"
+  },
+  {
+    "question_id": "CHEM038",
+    "question_text": "What is the chemical name for laughing gas?",
+    "options": {
+      "A": "Nitrogen dioxide",
+      "B": "Nitrous oxide",
+      "C": "Ammonia",
+      "D": "Nitric oxide"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Chemistry of Non-Metals (Class 10)"
+  },
+  {
+    "question_id": "CHEM039",
+    "question_text": "Which of the following is a synthetic fiber?",
+    "options": {
+      "A": "Cotton",
+      "B": "Wool",
+      "C": "Nylon",
+      "D": "Silk"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Applied Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM040",
+    "question_text": "The gas used in fire extinguishers is:",
+    "options": {
+      "A": "Oxygen",
+      "B": "Nitrogen",
+      "C": "Carbon dioxide",
+      "D": "Hydrogen"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Environmental Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM041",
+    "question_text": "What is the phenomenon called when a solid directly changes into a gas without passing through the liquid state?",
+    "options": {
+      "A": "Evaporation",
+      "B": "Condensation",
+      "C": "Sublimation",
+      "D": "Melting"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "States of Matter (Class 10)"
+  },
+  {
+    "question_id": "CHEM042",
+    "question_text": "Which element has the atomic symbol 'K'?",
+    "options": {
+      "A": "Potassium",
+      "B": "Krypton",
+      "C": "Calcium",
+      "D": "Cobalt"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Periodic Table (Class 10)"
+  },
+  {
+    "question_id": "CHEM043",
+    "question_text": "What is the primary product when methane undergoes complete combustion?",
+    "options": {
+      "A": "Carbon monoxide and water",
+      "B": "Carbon and water",
+      "C": "Carbon dioxide and water",
+      "D": "Hydrogen and carbon dioxide"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM044",
+    "question_text": "Which type of radiation is stopped by a thick sheet of lead?",
+    "options": {
+      "A": "Alpha radiation",
+      "B": "Beta radiation",
+      "C": "Gamma radiation",
+      "D": "All of the above"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Nuclear Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM045",
+    "question_text": "The main component of LPG (Liquefied Petroleum Gas) is:",
+    "options": {
+      "A": "Methane",
+      "B": "Ethane",
+      "C": "Propane and Butane",
+      "D": "Hydrogen"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM046",
+    "question_text": "Which process is used to remove impurities from crude oil?",
+    "options": {
+      "A": "Filtration",
+      "B": "Distillation",
+      "C": "Sedimentation",
+      "D": "Decantation"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Applied Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM047",
+    "question_text": "An atom with a net positive or negative charge is called an:",
+    "options": {
+      "A": "Molecule",
+      "B": "Isotope",
+      "C": "Ion",
+      "D": "Allotrope"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Atomic Structure (Class 10)"
+  },
+  {
+    "question_id": "CHEM048",
+    "question_text": "Which of the following is a non-renewable source of energy?",
+    "options": {
+      "A": "Solar energy",
+      "B": "Wind energy",
+      "C": "Coal",
+      "D": "Hydropower"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Environmental Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM049",
+    "question_text": "The process of making soap is known as:",
+    "options": {
+      "A": "Hydrogenation",
+      "B": "Esterification",
+      "C": "Saponification",
+      "D": "Fermentation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Organic Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM050",
+    "question_text": "Which gas is responsible for the depletion of the ozone layer?",
+    "options": {
+      "A": "Carbon dioxide",
+      "B": "Methane",
+      "C": "Chlorofluorocarbons (CFCs)",
+      "D": "Nitrous oxide"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Environmental Chemistry (Class 10)"
+  },
+  {
+  "question_id": "CHEM051",
+  "question_text": "Balance the following chemical equation: NH₃ + O₂ → NO + H₂O",
+  "options": {
+    "A": "2 NH₃ + 3 O₂ → 2 NO + 3 H₂O",
+    "B": "4 NH₃ + 3 O₂ → 4 NO + 6 H₂O",
+    "C": "4 NH₃ + 5 O₂ → 4 NO + 6 H₂O",
+    "D": "3 NH₃ + 3 O₂ → 3 NO + 3 H₂O"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Reactions and Equations (Class 10/11)"
+},
+
+ {
+  "question_id": "CHEM052",
+  "question_text": "Calculate the molar mass of sulphuric acid (H₂SO₄). (Given atomic masses: H=1, S=32, O=16)",
+  "options": {
+    "A": "96 g/mol",
+    "B": "97 g/mol",
+    "C": "98 g/mol",
+    "D": "99 g/mol"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Stoichiometry (Class 10/11)"
+}
+ ,
+  {
+  "question_id": "CHEM053",
+  "question_text": "Why do ionic compounds generally have high melting and boiling points?",
+  "options": {
+    "A": "Because they are made of small molecules",
+    "B": "Due to weak intermolecular forces",
+    "C": "Due to strong electrostatic forces between oppositely charged ions",
+    "D": "Because they have covalent bonds"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Bonding (Class 10/11)"
+}
+,
+  {
+    "question_id": "CHEM054",
+    "question_text": "A solution contains 20 g of NaOH in 500 mL of solution. Calculate the molarity of the solution. (Atomic mass: Na=23, O=16, H=1)",
+    "options": {
+      "A": "0.5 M",
+      "B": "1.0 M",
+      "C": "1.5 M",
+      "D": "2.0 M"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Solutions (Class 11)"
+  },
+  {
+  "question_id": "CHEM055",
+  "question_text": "Which of the following best explains Le Chatelier's Principle?",
+  "options": {
+    "A": "A system at equilibrium remains unaffected by external changes.",
+    "B": "The rate of reaction is proportional to the concentration of products.",
+    "C": "A system at equilibrium shifts to oppose any change imposed on it.",
+    "D": "Only pressure changes affect chemical equilibrium."
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Equilibrium (Class 11)"
+}
+,
+{
+  "question_id": "CHEM056",
+  "question_text": "Which statement correctly distinguishes between oxidation and reduction in terms of electron transfer?",
+  "options": {
+    "A": "Oxidation is gain of electrons, reduction is loss of electrons",
+    "B": "Both oxidation and reduction involve loss of electrons",
+    "C": "Oxidation is loss of electrons, reduction is gain of electrons",
+    "D": "Oxidation and reduction do not involve electron transfer"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Redox Reactions (Class 10/11)"
+}
+,
+  {
+  "question_id": "CHEM057",
+  "question_text": "What is the electronic configuration of Calcium (atomic number 20), and what does it indicate about its position in the periodic table?",
+  "options": {
+    "A": "1s² 2s² 2p⁶ 3s² 3p⁶ 4s²; Group 2, Period 4",
+    "B": "1s² 2s² 2p⁶ 3s² 3p⁶ 3d²; Group 3, Period 4",
+    "C": "1s² 2s² 2p⁶ 3s² 3p⁴ 4s²; Group 6, Period 4",
+    "D": "1s² 2s² 2p⁶ 3s² 3p⁶; Group 8, Period 3"
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Atomic Structure & Periodic Table (Class 10/11)"
+}
+,
+  {
+  "question_id": "CHEM058",
+  "question_text": "Which of the following represents the balanced equation and optimal conditions for the industrial preparation of ammonia (Haber's process)?",
+  "options": {
+    "A": "N₂ + 3H₂ → 2NH₃; 100°C, 10 atm, iron catalyst",
+    "B": "N₂ + H₂ → NH₃; 400°C, 200 atm, platinum catalyst",
+    "C": "N₂ + 3H₂ → 2NH₃; 450°C, 200 atm, iron catalyst",
+    "D": "2N₂ + 3H₂ → 2NH₃; 300°C, 100 atm, nickel catalyst"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Chemistry of Non-Metals (Class 10/11)"
+}
+,
+  {
+  "question_id": "CHEM059",
+  "question_text": "Which of the following best defines a buffer solution and its function?",
+  "options": {
+    "A": "A solution that changes pH easily; example: NaCl",
+    "B": "A solution that resists changes in pH upon dilution only; example: H₂SO₄",
+    "C": "A solution that resists changes in pH when small amounts of acid or base are added; example: CH₃COOH + CH₃COONa",
+    "D": "A solution that increases pH on adding acid; example: HCl"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Ionic Equilibrium (Class 12)"
+}
+,
+  {
+  "question_id": "CHEM060",
+  "question_text": "Which of the following correctly describes sp³ hybridisation in methane (CH₄)?",
+  "options": {
+    "A": "One s and two p orbitals mix to form three hybrid orbitals",
+    "B": "One s and three p orbitals mix to form four equivalent hybrid orbitals arranged tetrahedrally",
+    "C": "Methane has planar structure due to sp² hybridisation",
+    "D": "sp³ hybridisation forms a linear molecule"
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Bonding (Class 11)"
+}
+,
+  {
+    "question_id": "CHEM061",
+    "question_text": "Calculate the volume occupied by 1.6 g of methane (CH4) at STP. (Molar volume at STP = 22.4 L/mol, Atomic masses: C=12, H=1)",
+    "options": {
+      "A": "1.12 L",
+      "B": "2.24 L",
+      "C": "0.56 L",
+      "D": "4.48 L"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mole Concept (Class 10/11)"
+  },
+  {
+  "question_id": "CHEM062",
+  "question_text": "Which of the following correctly differentiates between sigma (σ) and pi (π) bonds?",
+  "options": {
+    "A": "Sigma bonds are weaker and formed by sidewise overlap; pi bonds are stronger and formed by head-on overlap",
+    "B": "Sigma bonds are formed by head-on overlap; pi bonds are formed by sidewise overlap",
+    "C": "Sigma bonds only occur in double bonds; pi bonds occur in single bonds",
+    "D": "Both sigma and pi bonds have the same strength and overlap"
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Bonding (Class 11)"
+}
+,
+  {
+  "question_id": "CHEM063",
+  "question_text": "Why is diamond hard and an electrical insulator, while graphite is soft and a good electrical conductor?",
+  "options": {
+    "A": "Diamond has metallic bonds; graphite has ionic bonds",
+    "B": "Diamond has layered structure; graphite has tetrahedral structure",
+    "C": "Diamond has strong covalent bonds in 3D; graphite has delocalized electrons in layers",
+    "D": "Both have similar bonding but different crystal sizes"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Allotropes of Carbon (Class 10/11)"
+}
+,
+  {
+  "question_id": "CHEM064",
+  "question_text": "Which of the following is the correct sequence of steps in the Contact Process for manufacturing sulphuric acid?",
+  "options": {
+    "A": "Combustion of SO₂ → Absorption in water → Oxidation to SO₃",
+    "B": "Burning S → Oxidation of SO₂ to SO₃ → Absorption of SO₃ in water or H₂SO₄",
+    "C": "Electrolysis of H₂SO₄ → Oxidation of SO₃ → Collection",
+    "D": "Dissolution of SO₂ in acid → Neutralization with base → Oxidation"
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Applied Chemistry (Class 12)"
+}
+,
+  {
+  "question_id": "CHEM065",
+  "question_text": "Which statement correctly describes the working of a Daniell cell?",
+  "options": {
+    "A": "Zinc is reduced and copper is oxidized, producing current",
+    "B": "Electrons flow from copper to zinc through the wire",
+    "C": "Zinc is oxidized at the anode and copper is reduced at the cathode",
+    "D": "The salt bridge blocks electron flow between half-cells"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Electrochemistry (Class 12)"
+}
+,{
+  "question_id": "CHEM066",
+  "question_text": "Which of the following best describes the trend of effective nuclear charge (Z_eff) in the periodic table?",
+  "options": {
+    "A": "Z_eff decreases across a period and increases down a group",
+    "B": "Z_eff increases across a period and decreases down a group",
+    "C": "Z_eff remains constant in a period and a group",
+    "D": "Z_eff decreases across a period and remains constant down a group"
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Periodic Table (Class 11)"
+}
+,{
+  "question_id": "CHEM067",
+  "question_text": "What is electronegativity and how does it vary in the periodic table?",
+  "options": {
+    "A": "It is the energy required to remove an electron; increases down a group",
+    "B": "It is the tendency to lose electrons; decreases across a period",
+    "C": "It is the tendency to attract bonding electrons; increases across a period and decreases down a group",
+    "D": "It is the energy to gain an electron; constant across a period"
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Periodic Table (Class 11)"
+}
+,
+  {
+    "question_id": "CHEM068",
+    "question_text": "A first-order reaction has a half-life of 20 minutes. Calculate the time required for 75% completion of the reaction.",
+    "options": {
+      "A": "10 minutes",
+      "B": "20 minutes",
+      "C": "30 minutes",
+      "D": "40 minutes"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Chemical Kinetics (Class 12)"
+  },
+  {
+    "question_id": "CHEM069",
+    "question_text": "What is molarity and molality? Discuss their dependence on temperature.",
+    "difficulty": "Intermediate",
+    "topic": "Solutions (Class 11)"
+  },
+  
+  {
+    "question_id": "CHEM070",
+    "question_text": "Which of the following best describes the common ion effect?",
+    "options": {
+      "A": "Decrease in solubility of a salt by adding a solution with a common ion",
+      "B": "Increase in solubility of salt with the same ion",
+      "C": "Effect caused only by heating the solution",
+      "D": "A reaction that involves no ions"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Ionic Equilibrium (Class 12)"
+  },
+  {
+    "question_id": "CHEM071",
+    "question_text": "Which statement correctly describes the preparation of ethanol from ethene?",
+    "options": {
+      "A": "Ethene reacts with water in the presence of H₂SO₄ at 300°C and 60 atm",
+      "B": "Ethene is oxidized using KMnO₄",
+      "C": "Ethene is treated with NaOH at room temperature",
+      "D": "Ethene reacts with Cl₂ in sunlight"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Organic Chemistry (Alcohols) (Class 12)"
+  },
+  {
+    "question_id": "CHEM072",
+    "question_text": "Which of the following shows correct conversions?\n(a) Ethanol to Ethene\n(b) Ethanoic acid to Ethane",
+    "options": {
+      "A": "(a) Dehydration using conc. H₂SO₄\n(b) Reduction using NaBH₄",
+      "B": "(a) Oxidation using KMnO₄\n(b) Reduction using H₂/Ni",
+      "C": "(a) Dehydration using conc. H₂SO₄\n(b) Reduction using Na + H₂O",
+      "D": "(a) Hydration using H₂O\n(b) Substitution using NaOH"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Organic Chemistry (Class 12)"
+  },
+  {
+    "question_id": "CHEM073",
+    "question_text": "How are primary, secondary, and tertiary alcohols distinguished using Victor Meyer's method?",
+    "options": {
+      "A": "By their color in litmus test",
+      "B": "By their reaction with HCl",
+      "C": "By producing different colored compounds (red, blue, no color)",
+      "D": "By their boiling points only"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Organic Chemistry (Alcohols) (Class 12)"
+  },
+  {
+    "question_id": "CHEM074",
+    "question_text": "Which of the following best defines isomerism and gives examples of structural isomers?",
+    "options": {
+      "A": "Same molecular formula, same structure — CH₃OH and C₂H₅OH",
+      "B": "Same structure but different boiling points — CH₄ and CH₃OH",
+      "C": "Same molecular formula, different structural arrangement — C₄H₁₀ (n-butane and isobutane)",
+      "D": "Same molecular weight only"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Organic Chemistry (Class 11)"
+  },
+  {
+    "question_id": "CHEM075",
+    "question_text": "What does Faraday's First Law of Electrolysis state?",
+    "options": {
+      "A": "The amount of substance deposited is independent of charge",
+      "B": "The amount of substance deposited is proportional to the volume of solution",
+      "C": "The amount of substance deposited is proportional to the charge passed",
+      "D": "No substance is deposited in electrolysis"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electrochemistry (Class 12)"
+  },
+
+
+  {
+    "question_id": "CHEM076",
+    "question_text": "A student titrates 25 mL of an unknown HCl solution with 0.1 M NaOH solution. If 20 mL of NaOH is required to reach the endpoint, calculate the molarity of the HCl solution.",
+    "options": {
+      "A": "0.05 M",
+      "B": "0.08 M",
+      "C": "0.10 M",
+      "D": "0.125 M"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Volumetric Analysis (Class 11)"
+  },
+ {
+  "question_id": "CHEM077",
+  "question_text": "Describe the process of refining copper by electrolytic method.",
+  "options": {
+    "A": "Copper is refined by heating with charcoal to remove impurities.",
+    "B": "Copper is refined by dissolving impure copper in acid and electroplating.",
+    "C": "Impure copper acts as anode and pure copper as cathode in electrolytic cell; copper ions deposit on cathode while impurities fall off.",
+    "D": "Copper is refined by mixing with zinc and heating to form brass."
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Chemistry of Heavy Metals (Class 12)"
+},
+{
+  "question_id": "CHEM078",
+  "question_text": "Explain why transition metals exhibit variable oxidation states and form colored compounds.",
+  "options": {
+    "A": "Due to incomplete filling of inner d-orbitals and involvement of different numbers of electrons in bonding.",
+    "B": "Because of completely filled s-orbitals.",
+    "C": "Due to the presence of only one oxidation state.",
+    "D": "Because they form ionic compounds only."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Transition Metals (Class 12)"
+},
+{
+  "question_id": "CHEM079",
+  "question_text": "What is a covalent bond? Explain the formation of a nitrogen molecule ($\\text{N}_2$) using Lewis dot structure.",
+  "options": {
+    "A": "A covalent bond is formed by sharing of electrons; nitrogen shares three pairs of electrons forming a triple bond.",
+    "B": "A covalent bond is formed by transfer of electrons.",
+    "C": "A covalent bond is formed by ionic attraction.",
+    "D": "A covalent bond is formed by sharing of protons."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Bonding (Class 10/11)"
+},
+{
+  "question_id": "CHEM080",
+  "question_text": "Define ionization energy. How does it vary across a period and down a group in the periodic table?",
+  "options": {
+    "A": "Ionization energy is the energy required to remove an electron; it increases across a period and decreases down a group.",
+    "B": "Ionization energy decreases across a period and increases down a group.",
+    "C": "Ionization energy remains constant across periods and groups.",
+    "D": "Ionization energy is unrelated to electron removal."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Periodic Table (Class 11)"
+},
+{
+  "question_id": "CHEM081",
+  "question_text": "What is the role of cryolite in the electrolytic extraction of aluminium?",
+  "options": {
+    "A": "Cryolite increases the melting point of aluminium oxide.",
+    "B": "Cryolite acts as a flux, lowering the melting point of alumina to reduce energy consumption.",
+    "C": "Cryolite reacts with aluminium to form an alloy.",
+    "D": "Cryolite prevents the formation of impurities."
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Chemistry of Heavy Metals (Class 10/11)"
+},
+{
+  "question_id": "CHEM082",
+  "question_text": "Explain the difference between saturated and unsaturated hydrocarbons with examples.",
+  "options": {
+    "A": "Saturated hydrocarbons have single bonds only; e.g., methane. Unsaturated hydrocarbons have double or triple bonds; e.g., ethene, ethyne.",
+    "B": "Saturated hydrocarbons have double bonds; unsaturated have single bonds.",
+    "C": "Saturated hydrocarbons are aromatic; unsaturated are aliphatic.",
+    "D": "Saturated hydrocarbons contain oxygen; unsaturated do not."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Organic Chemistry (Class 10/11)"
+}
+,
+  {
+    "question_id": "CHEM083",
+    "question_text": "Calculate the pH of a 0.001 M HCl solution.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Ionic Equilibrium (Class 12)"
+  },
+ {
+  "question_id": "CHEM084",
+  "question_text": "State the law of mass action.",
+  "options": {
+    "A": "Forward and reverse rates are equal at equilibrium.",
+    "B": "Concentration ratio of products to reactants is constant at equilibrium.",
+    "C": "Reactants and products have equal concentration at equilibrium.",
+    "D": "Reaction stops at equilibrium."
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Equilibrium (Class 11)"
+}
+,
+{
+  "question_id": "CHEM085",
+  "question_text": "Describe the main steps involved in the manufacture of cement.",
+  "options": {
+    "A": "Mixing of limestone and clay, heating in a kiln, grinding to powder, and adding gypsum.",
+    "B": "Crushing of sand, mixing with water, and drying.",
+    "C": "Melting of cement materials and casting into blocks.",
+    "D": "Mixing of lime and sand without heating."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Applied Chemistry (Class 12)"
+},
+{
+  "question_id": "CHEM086",
+  "question_text": "Explain the concept of resonance with respect to the benzene molecule.",
+  "options": {
+    "A": "Resonance is the delocalization of electrons over alternate bonds, making benzene more stable than any one structure.",
+    "B": "Resonance is the rapid interconversion of benzene with other hydrocarbons.",
+    "C": "Resonance means benzene has only single bonds.",
+    "D": "Resonance refers to the vibration of benzene molecules."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Organic Chemistry (Class 12)"
+},
+{
+  "question_id": "CHEM087",
+  "question_text": "Write the balanced chemical equation for the reaction of ethanol with sodium metal and name the products.",
+  "options": {
+    "A": "2C2H5OH + 2Na → 2C2H5ONa + H2; products are sodium ethoxide and hydrogen gas.",
+    "B": "C2H5OH + NaCl → C2H5Cl + NaOH; products are ethyl chloride and sodium hydroxide.",
+    "C": "C2H5OH + Na → C2H5H + NaOH; products are ethane and sodium hydroxide.",
+    "D": "C2H5OH + O2 → CO2 + H2O; products are carbon dioxide and water."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Organic Chemistry (Alcohols) (Class 12)"
+},
+{
+  "question_id": "CHEM088",
+  "question_text": "How does an increase in temperature affect the rate of a chemical reaction? Explain using collision theory.",
+  "options": {
+    "A": "Increasing temperature increases kinetic energy, causing more frequent and energetic collisions, thus increasing reaction rate.",
+    "B": "Increasing temperature decreases particle movement and reduces reaction rate.",
+    "C": "Temperature has no effect on reaction rate.",
+    "D": "Increasing temperature decreases the number of collisions."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Kinetics (Class 12)"
+},
+{
+  "question_id": "CHEM089",
+  "question_text": "Differentiate between an ideal solution and a non-ideal solution.",
+  "options": {
+    "A": "Ideal solutions follow Raoult's law exactly; non-ideal solutions deviate due to intermolecular interactions.",
+    "B": "Ideal solutions have a fixed boiling point; non-ideal solutions boil at variable temperatures.",
+    "C": "Ideal solutions contain only one component; non-ideal have many.",
+    "D": "Ideal solutions do not mix; non-ideal solutions mix completely."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Solutions (Class 12)"
+},
+{
+  "question_id": "CHEM090",
+  "question_text": "Explain why metals are good conductors of electricity.",
+  "options": {
+    "A": "Because of the presence of free-moving valence electrons that carry charge.",
+    "B": "Because metals have tightly bound electrons.",
+    "C": "Because metals have ionic bonds that allow electron flow.",
+    "D": "Because metals have many protons."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Bonding (Class 10/11)"
+}
+,
+  {
+  "question_id": "CHEM091",
+  "question_text": "What is radioactivity?",
+  "options": {
+    "A": "Emission of particles from unstable nuclei.",
+    "B": "Absorption of light by atoms.",
+    "C": "Chemical reaction producing heat.",
+    "D": "Mixing of elements."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Nuclear Chemistry (Class 10/11)"
+},
+{
+  "question_id": "CHEM092",
+  "question_text": "Describe the main principles of modern periodic law.",
+  "options": {
+    "A": "Properties of elements are a periodic function of their atomic numbers.",
+    "B": "Elements are arranged by increasing atomic mass.",
+    "C": "Elements are grouped by their discovery date.",
+    "D": "Elements have random properties."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Periodic Table (Class 10/11)"
+},
+{
+  "question_id": "CHEM093",
+  "question_text": "Write the IUPAC names for the following compounds:\n(a) CH3CH2COOH\n(b) CH3COCH3",
+  "options": {
+    "A": "(a) Propanoic acid; (b) Propanone",
+    "B": "(a) Ethanoic acid; (b) Propanol",
+    "C": "(a) Propanol; (b) Propene",
+    "D": "(a) Butanoic acid; (b) Butanone"
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Organic Chemistry (Nomenclature) (Class 11)"
+},
+{
+  "question_id": "CHEM094",
+  "question_text": "Explain why pure water does not conduct electricity, but tap water does.",
+  "options": {
+    "A": "Pure water lacks ions; tap water contains dissolved salts that provide ions for conduction.",
+    "B": "Pure water has many ions; tap water does not.",
+    "C": "Pure water is acidic; tap water is basic.",
+    "D": "Pure water is a conductor; tap water is an insulator."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Electrochemistry (Class 10)"
+},
+{
+  "question_id": "CHEM095",
+  "question_text": "What are allotropes?",
+  "options": {
+    "A": "Different forms of the same element.",
+    "B": "Compounds of different elements.",
+    "C": "Isotopes of an element.",
+    "D": "Mixtures of elements."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Allotropes (Class 10/11)"
+},
+{
+  "question_id": "CHEM096",
+  "question_text": "Describe the laboratory preparation of hydrogen gas.",
+  "options": {
+    "A": "Reacting zinc with dilute sulfuric acid produces hydrogen gas.",
+    "B": "Heating water produces hydrogen gas.",
+    "C": "Electrolysis of salt water produces hydrogen gas.",
+    "D": "Combustion of hydrogen produces hydrogen gas."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Chemistry of Non-Metals (Class 10)"
+}
+,
+  {
+    "question_id": "CHEM097",
+    "question_text": "A sample of gas occupies 10 L at 27°C and 750 mmHg pressure. What will be its volume at STP?",
+    "options": {
+      "A": "8.5 L",
+      "B": "9.0 L",
+      "C": "9.5 L",
+      "D": "10.0 L"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Gaseous State (Class 11)"
+  },
+  {
+  "question_id": "CHEM098",
+  "question_text": "Differentiate between an orbit and an orbital.",
+  "options": {
+    "A": "Orbit is a fixed path of electrons; orbital is a region with high probability of finding an electron.",
+    "B": "Orbit is a region; orbital is a fixed path.",
+    "C": "Both are the same.",
+    "D": "Orbit relates to protons; orbital relates to electrons."
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Atomic Structure (Class 11)"
+},
+{
+  "question_id": "CHEM099",
+  "question_text": "Why is concentrated sulphuric acid used as a dehydrating agent?",
+  "options": {
+    "A": "Because it reacts to form water.",
+    "B": "Because it absorbs water and removes it from substances.",
+    "C": "Because it dilutes quickly in water.",
+    "D": "Because it is a strong acid only."
+  },
+  "correct_answer": "B",
+  "difficulty": "Intermediate",
+  "topic": "Chemistry of Non-Metals (Class 12)"
+},
+{
+  "question_id": "CHEM100",
+  "question_text": "What is Hess's Law of Constant Heat Summation?",
+  "options": {
+    "A": "Heat is always absorbed.",
+    "B": "Heat change depends on reaction path.",
+    "C": "Total enthalpy change is the same regardless of reaction path.",
+    "D": "Heat is not conserved."
+  },
+  "correct_answer": "C",
+  "difficulty": "Intermediate",
+  "topic": "Thermodynamics (Class 12)"
+},
+{
+  "question_id": "CHEM101",
+  "question_text": "What is the integrated rate law for a first-order reaction?",
+  "options": {
+    "A": "[A] = kt + [A]₀",
+    "B": "ln[A] = -kt + ln[A]₀",
+    "C": "1/[A] = kt + 1/[A]₀",
+    "D": "[A] = [A]₀ e^(kt)"
+  },
+  "correct_answer": "B",
+  "difficulty": "Hard",
+  "topic": "Chemical Kinetics (Class 12)"
+},
+{
+  "question_id": "CHEM102",
+  "question_text": "Calculate the vapor pressure of a glucose solution given: 18g glucose in 100g water; vapor pressure of pure water at 293 K = 17.535 mm Hg.",
+  "options": {
+    "A": "17.00 mm Hg",
+    "B": "18.00 mm Hg",
+    "C": "15.50 mm Hg",
+    "D": "16.67 mm Hg"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Solutions (Colligative Properties) (Class 12)"
+},
+{
+  "question_id": "CHEM103",
+  "question_text": "What is the relationship between pH and pOH at 25°C?",
+  "options": {
+    "A": "pH + pOH = 7",
+    "B": "pH − pOH = 14",
+    "C": "pH × pOH = 14",
+    "D": "pH + pOH = 14"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Ionic Equilibrium (Class 12)"
+},
+{
+  "question_id": "CHEM104",
+  "question_text": "Which statement correctly describes the SN1 reaction?",
+  "options": {
+    "A": "Bimolecular, no intermediate, inversion of configuration.",
+    "B": "Unimolecular, involves carbocation intermediate, racemization occurs.",
+    "C": "Bimolecular, carbocation intermediate, retention occurs.",
+    "D": "Unimolecular, no intermediate, inversion occurs."
+  },
+  "correct_answer": "B",
+  "difficulty": "Hard",
+  "topic": "Organic Chemistry (Haloalkanes) (Class 12)"
+},
+{
+  "question_id": "CHEM105",
+  "question_text": "Calculate standard cell potential (E°cell) for: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s); E°Zn²⁺/Zn = -0.76 V, E°Cu²⁺/Cu = +0.34 V. Is reaction spontaneous?",
+  "options": {
+    "A": "E°cell = -1.10 V; non-spontaneous",
+    "B": "E°cell = 0 V; no reaction",
+    "C": "E°cell = +0.42 V; spontaneous",
+    "D": "E°cell = +1.10 V; spontaneous"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Electrochemistry (Class 12)"
+},
+{
+  "question_id": "CHEM106",
+  "question_text": "What does Ostwald's dilution law explain?",
+  "options": {
+    "A": "Relation between boiling point and pressure.",
+    "B": "Relation between ionic radius and charge.",
+    "C": "Relation between degree of dissociation and concentration of weak electrolytes.",
+    "D": "Relation between volume and temperature."
+  },
+  "correct_answer": "C",
+  "difficulty": "Hard",
+  "topic": "Ionic Equilibrium (Class 12)"
+},
+{
+  "question_id": "CHEM107",
+  "question_text": "Hydrogen bonding affects the physical properties of water by:",
+  "options": {
+    "A": "No effect.",
+    "B": "Decreasing boiling point.",
+    "C": "Increasing boiling point and surface tension.",
+    "D": "Decreasing surface tension."
+  },
+  "correct_answer": "C",
+  "difficulty": "Hard",
+  "topic": "Chemical Bonding (Class 11/12)"
+},
+{
+  "question_id": "CHEM108",
+  "question_text": "What causes real gases to deviate from ideal behavior?",
+  "options": {
+    "A": "Perfect elasticity of collisions.",
+    "B": "Zero molecular volume.",
+    "C": "High temperature and low pressure.",
+    "D": "Intermolecular forces and finite molecular volume."
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "States of Matter (Gases) (Class 11)"
+},
+{
+  "question_id": "CHEM109",
+  "question_text": "Williamson's synthesis is used to prepare:",
+  "options": {
+    "A": "Ketones",
+    "B": "Alcohols",
+    "C": "Ethers",
+    "D": "Alkanes"
+  },
+  "correct_answer": "C",
+  "difficulty": "Hard",
+  "topic": "Organic Chemistry (Ethers) (Class 12)"
+},
+{
+  "question_id": "CHEM110",
+  "question_text": "Calculate mole fraction of urea in 10% (w/w) aqueous solution (molar mass = 60 g/mol).",
+  "options": {
+    "A": "0.10",
+    "B": "0.50",
+    "C": "0.20",
+    "D": "0.028"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Solutions (Class 11)"
+},
+{
+  "question_id": "CHEM111",
+  "question_text": "Activation energy is:",
+  "options": {
+    "A": "Energy released by reaction.",
+    "B": "Energy of reactants.",
+    "C": "Energy of products.",
+    "D": "Minimum energy needed for reaction to occur."
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Chemical Kinetics (Class 12)"
+},
+{
+  "question_id": "CHEM112",
+  "question_text": "Second law of thermodynamics states:",
+  "options": {
+    "A": "Entropy decreases in spontaneous process.",
+    "B": "Temperature is constant.",
+    "C": "Entropy of an isolated system always increases.",
+    "D": "Energy is conserved."
+  },
+  "correct_answer": "C",
+  "difficulty": "Hard",
+  "topic": "Thermodynamics (Class 12)"
+},
+{
+  "question_id": "CHEM113",
+  "question_text": "Which is a type of isomerism in coordination compounds?",
+  "options": {
+    "A": "Geometrical isomerism",
+    "B": "Optical isomerism",
+    "C": "Linkage isomerism",
+    "D": "All of the above"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Coordination Compounds (Class 12)"
+},
+{
+  "question_id": "CHEM114",
+  "question_text": "Calculate freezing point depression for 1.0 g solute (molar mass 100 g/mol) in 50 g water (Kf=1.86 K kg/mol).",
+  "options": {
+    "A": "0.0186 K",
+    "B": "0.0744 K",
+    "C": "0.186 K",
+    "D": "0.0372 K"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Solutions (Colligative Properties) (Class 12)"
+},
+{
+  "question_id": "CHEM115",
+  "question_text": "Which reaction involves aldol condensation?",
+  "options": {
+    "A": "Combustion of aldehydes.",
+    "B": "Oxidation of ketones.",
+    "C": "Two aldehydes/ketones combine forming β-hydroxy aldehyde/ketone.",
+    "D": "Reduction of aldehydes."
+  },
+  "correct_answer": "C",
+  "difficulty": "Hard",
+  "topic": "Organic Chemistry (Aldehydes & Ketones) (Class 12)"
+},
+
+  {
+  "question_id": "CHEM116",
+  "question_text": "Explain the principles and applications of acid-base volumetric titration.",
+  "options": {
+    "A": "Determining solution concentration by neutralization; used in quality control.",
+    "B": "Measuring boiling points of acids and bases.",
+    "C": "Calculating molar mass from titration volume.",
+    "D": "Using indicators to change solution color permanently."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Volumetric Analysis (Class 11/12)"
+},
+{
+  "question_id": "CHEM117",
+  "question_text": "State Kohlrausch's Law of independent ion migration with explanation.",
+  "options": {
+    "A": "Total conductivity is sum of individual ion conductivities at infinite dilution.",
+    "B": "All ions migrate at the same speed in an electric field.",
+    "C": "Conductivity depends only on ion concentration.",
+    "D": "Ion migration causes no change in solution resistance."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Electrochemistry (Class 12)"
+},
+{
+  "question_id": "CHEM118",
+  "question_text": "Outline methods to prepare aniline from nitrobenzene.",
+  "options": {
+    "A": "Oxidation of nitrobenzene.",
+    "B": "Catalytic reduction using tin and hydrochloric acid.",
+    "C": "Electrophilic substitution on nitrobenzene.",
+    "D": "Mixing nitrobenzene with benzene."
+  },
+  "correct_answer": "B",
+  "difficulty": "Hard",
+  "topic": "Organic Chemistry (Amines) (Class 12)"
+},
+{
+  "question_id": "CHEM119",
+  "question_text": "Define lattice energy and explain the Born-Haber cycle for NaCl formation.",
+  "options": {
+    "A": "Energy released when ions form lattice; Born-Haber cycle is energy balance for ionic compound formation.",
+    "B": "Energy absorbed to break ionic bonds.",
+    "C": "Energy for melting ionic compounds.",
+    "D": "Energy required to vaporize ions."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Chemical Bonding (Class 11)"
+},
+{
+  "question_id": "CHEM120",
+  "question_text": "Discuss factors affecting gas solubility in liquids.",
+  "options": {
+    "A": "Pressure, temperature, and nature of gas and solvent.",
+    "B": "Only temperature affects solubility.",
+    "C": "Volume and density are main factors.",
+    "D": "Solubility is constant for all gases."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Solutions (Class 12)"
+},
+{
+  "question_id": "CHEM121",
+  "question_text": "Derive the relation between standard Gibbs free energy change and equilibrium constant.",
+  "options": {
+    "A": "ΔG° = -RT ln K",
+    "B": "ΔG° = RT ln K",
+    "C": "ΔG° = 0 at equilibrium",
+    "D": "ΔG° = K/RT"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Thermodynamics (Class 12)"
+},
+{
+  "question_id": "CHEM122",
+  "question_text": "Explain Schottky and Frenkel defects with examples.",
+  "options": {
+    "A": "Schottky: vacancy defects; Frenkel: ion displaced to interstitial site.",
+    "B": "Both are vacancy defects.",
+    "C": "Both involve interstitial ions only.",
+    "D": "Neither affects ionic solids."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Solid State (Class 12)"
+},
+{
+  "question_id": "CHEM123",
+  "question_text": "Describe benzoic acid preparation from toluene and electrophilic substitution mechanism in benzene.",
+  "options": {
+    "A": "Oxidation of toluene to benzoic acid; substitution involves carbocation intermediate.",
+    "B": "Reduction of toluene; radical substitution.",
+    "C": "Addition reaction to benzene ring.",
+    "D": "No reaction occurs."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Organic Chemistry (Carboxylic Acids) (Class 12)"
+},
+{
+  "question_id": "CHEM124",
+  "question_text": "Write cell reactions, calculate EMF, and cell notation for Ag/Ag+ and Zn/Zn2+ voltaic cell. (Given $E^\\circ_{\\text{Ag}^+/\\text{Ag}}=+0.80V$, $E^\\circ_{\\text{Zn}^{2+}/\\text{Zn}}=-0.76V$)",
+  "options": {
+    "A": "EMF = 1.56 V; Zn → Zn²⁺ + 2e⁻; Ag⁺ + e⁻ → Ag; Cell notation Zn|Zn²⁺||Ag⁺|Ag",
+    "B": "EMF = 0.04 V; Ag oxidation; Zn reduction.",
+    "C": "EMF = 1.56 V; Ag oxidation; Zn reduction.",
+    "D": "EMF = 0.76 V; Zn and Ag react directly."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Electrochemistry (Class 12)"
+},
+{
+  "question_id": "CHEM125",
+  "question_text": "How is ozone depleted in the stratosphere? What are the effects?",
+  "options": {
+    "A": "By CFCs releasing Cl radicals; causes increased UV radiation.",
+    "B": "By water vapor absorption; no effect.",
+    "C": "By oxygen molecules only; causes acid rain.",
+    "D": "By methane release; causes global warming."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Environmental Chemistry (Class 11/12)"
+},
+{
+  "question_id": "CHEM126",
+  "question_text": "Explain van der Waals forces and their effect on boiling points.",
+  "options": {
+    "A": "Weak intermolecular forces; higher forces raise boiling points.",
+    "B": "Strong ionic bonds; lower boiling points.",
+    "C": "No forces affect boiling point.",
+    "D": "Van der Waals forces break covalent bonds."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "States of Matter (Class 11)"
+},
+{
+  "question_id": "CHEM127",
+  "question_text": "Describe DNA and RNA structure; explain protein primary, secondary, and tertiary structures.",
+  "options": {
+    "A": "DNA double helix; RNA single strand; proteins fold into 3D shapes.",
+    "B": "DNA single strand; RNA double helix; proteins linear only.",
+    "C": "Both DNA and RNA are proteins.",
+    "D": "Proteins have no structure."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Biomolecules (Class 12)"
+},
+{
+  "question_id": "CHEM128",
+  "question_text": "Write notes with examples on:\n(a) Kolbe's Reaction\n(b) Reimer-Tiemann Reaction\n(c) Wurtz Reaction",
+  "options": {
+    "A": "Kolbe's: Electrolysis of sodium salt; Reimer-Tiemann: formylation of phenols; Wurtz: coupling of alkyl halides.",
+    "B": "Kolbe's: Oxidation; Reimer-Tiemann: reduction; Wurtz: substitution.",
+    "C": "All are polymerization reactions.",
+    "D": "No reactions involve these."
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Organic Chemistry (Named Reactions) (Class 12)"
+},
+
+  {
+  "question_id": "CHEM129",
+  "question_text": "Calculate the normality of a solution containing 4.9 g of H2SO4 dissolved in 250 mL of solution. (Atomic masses: H=1, S=32, O=16)",
+  "options": {
+    "A": "0.20 N",
+    "B": "0.40 N",
+    "C": "0.50 N",
+    "D": "0.25 N"
+  },
+  "correct_answer": "B",
+  "difficulty": "Hard",
+  "topic": "Volumetric Analysis (Class 11)"
+},
+{
+  "question_id": "CHEM130",
+  "question_text": "Calculate the molarity of a solution prepared by dissolving 11.7 g of NaOH in 500 mL of solution. (Atomic masses: Na=23, O=16, H=1)",
+  "options": {
+    "A": "0.50 M",
+    "B": "0.60 M",
+    "C": "0.30 M",
+    "D": "0.70 M"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Solutions (Class 11)"
+},
+{
+  "question_id": "CHEM131",
+  "question_text": "Calculate the percentage composition of oxygen in potassium chlorate (KClO3). (Atomic masses: K=39, Cl=35.5, O=16)",
+  "options": {
+    "A": "53.4%",
+    "B": "40.0%",
+    "C": "48.6%",
+    "D": "55.0%"
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Calculations (Class 11)"
+},
+{
+  "question_id": "CHEM132",
+  "question_text": "Calculate the volume of CO2 gas at STP produced when 10 g of calcium carbonate decomposes. (Atomic masses: Ca=40, C=12, O=16; Molar volume at STP = 22.4 L)",
+  "options": {
+    "A": "4.48 L",
+    "B": "5.60 L",
+    "C": "2.24 L",
+    "D": "3.36 L"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Gas Laws (Class 11)"
+},
+{
+  "question_id": "CHEM133",
+  "question_text": "Determine the empirical formula of a compound containing 40% carbon, 6.7% hydrogen, and 53.3% oxygen by mass.",
+  "options": {
+    "A": "CH2O",
+    "B": "C2H4O2",
+    "C": "CH3O",
+    "D": "C3H6O3"
+  },
+  "correct_answer": "A",
+  "difficulty": "Intermediate",
+  "topic": "Chemical Calculations (Class 11)"
+},
+{
+  "question_id": "CHEM134",
+  "question_text": "Calculate the molar mass of a gas if 2.5 g occupies 1.12 L at STP. (Molar volume at STP = 22.4 L)",
+  "options": {
+    "A": "50 g/mol",
+    "B": "44.6 g/mol",
+    "C": "56 g/mol",
+    "D": "60 g/mol"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Gas Laws (Class 11)"
+}
+,
+{
+  "question_id": "CHEM135",
+  "question_text": "Calculate the molarity of sulfuric acid solution if 25 mL of it neutralizes 30 mL of 0.2 M NaOH.",
+  "options": {
+    "A": "0.12 M",
+    "B": "0.24 M",
+    "C": "0.30 M",
+    "D": "0.48 M"
+  },
+  "correct_answer": "D",
+  "difficulty": "Hard",
+  "topic": "Volumetric Analysis (Class 11)"
+},
+{
+  "question_id": "CHEM136",
+  "question_text": "Calculate the enthalpy change (ΔH) for the combustion of 2 moles of methane, given ΔHf°(CO2) = -393.5 kJ/mol, ΔHf°(H2O) = -285.8 kJ/mol, ΔHf°(CH4) = -74.8 kJ/mol.",
+  "options": {
+    "A": "-890 kJ",
+    "B": "-1650 kJ",
+    "C": "-1870 kJ",
+    "D": "-1500 kJ"
+  },
+  "correct_answer": "B",
+  "difficulty": "Hard",
+  "topic": "Thermodynamics (Class 12)"
+},
+{
+  "question_id": "CHEM137",
+  "question_text": "Determine the volume of oxygen gas (at STP) required to completely react with 5 g of propane (C3H8). (Molar mass C=12, H=1; Molar volume = 22.4 L)",
+  "options": {
+    "A": "11.2 L",
+    "B": "33.6 L",
+    "C": "44.8 L",
+    "D": "22.4 L"
+  },
+  "correct_answer": "C",
+  "difficulty": "Hard",
+  "topic": "Gas Laws (Class 11)"
+},
+{
+  "question_id": "CHEM138",
+  "question_text": "Calculate the degree of dissociation of acetic acid if a 0.1 M solution has conductivity of 1.28 × 10⁻³ S cm⁻¹. Molar conductivity at infinite dilution = 390 S cm² mol⁻¹.",
+  "options": {
+    "A": "0.032",
+    "B": "0.082",
+    "C": "0.128",
+    "D": "0.050"
+  },
+  "correct_answer": "B",
+  "difficulty": "Hard",
+  "topic": "Ionic Equilibrium (Class 12)"
+},
+{
+  "question_id": "CHEM139",
+  "question_text": "Calculate the pH of a solution prepared by mixing 50 mL of 0.1 M HCl and 50 mL of 0.1 M NaOH.",
+  "options": {
+    "A": "7",
+    "B": "1",
+    "C": "13",
+    "D": "6"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Ionic Equilibrium (Class 12)"
+},
+{
+  "question_id": "CHEM140",
+  "question_text": "Calculate the equilibrium constant (Kc) for the reaction N2 + 3H2 ⇌ 2NH3 at 500 K if ΔG° = -33 kJ/mol.",
+  "options": {
+    "A": "1.4 × 10⁶",
+    "B": "3.2 × 10³",
+    "C": "5.8 × 10⁴",
+    "D": "7.5 × 10⁷"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Chemical Equilibrium (Class 12)"
+},
+{
+  "question_id": "CHEM141",
+  "question_text": "Calculate the boiling point elevation of a solution containing 2 moles of a non-volatile solute in 500 g of water. (Kb for water = 0.52 K kg/mol)",
+  "options": {
+    "A": "2.08 °C",
+    "B": "4.16 °C",
+    "C": "1.04 °C",
+    "D": "0.52 °C"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Colligative Properties (Class 12)"
+},
+{
+  "question_id": "CHEM142",
+  "question_text": "Calculate the pH of a 0.01 M solution of a weak acid with Ka = 1.8 × 10⁻⁵.",
+  "options": {
+    "A": "2.13",
+    "B": "3.0",
+    "C": "4.5",
+    "D": "5.0"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Ionic Equilibrium (Class 12)"
+},
+{
+  "question_id": "CHEM143",
+  "question_text": "Calculate the standard cell potential for the reaction: Zn + 2H⁺ → Zn²⁺ + H₂, given E°(Zn²⁺/Zn) = -0.76 V and E°(H⁺/H₂) = 0.00 V.",
+  "options": {
+    "A": "0.76 V",
+    "B": "1.52 V",
+    "C": "0.00 V",
+    "D": "-0.76 V"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Electrochemistry (Class 12)"
+},
+
+ 
+ {
+  "question_id": "CHEM144",
+  "question_text": "Derive the integrated rate law for a second-order reaction and interpret the meaning of its rate constant.",
+  "options": {
+    "A": "1/[A] = kt + 1/[A]₀; k indicates reaction speed with units L mol⁻¹ s⁻¹",
+    "B": "ln[A] = -kt + ln[A]₀; k in s⁻¹",
+    "C": "[A] = [A]₀ - kt; k in mol L⁻¹",
+    "D": "Rate is independent of concentration; k is unitless"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Chemical Kinetics (Class 12)"
+},
+
+  {
+  "question_id": "CHEM145",
+  "question_text": "Explain the van't Hoff equation derivation",
+  "options": {
+    "A": "ln(K₂/K₁) = -ΔH°/R (1/T₂ - 1/T₁)",
+    "B": "K = e^(ΔH°/RT)",
+    "C": "ΔG° = -RT ln K",
+    "D": "ΔH° = RT ln K"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Thermodynamics (Class 12)"
+},
+  {
+  "question_id": "CHEM146",
+  "question_text": "Derive the general relation between equilibrium constants Kp and Kc for gaseous reactions.",
+  "options": {
+    "A": "Kp = Kc(RT)^(Δn) ",
+    "B": "Kp = Kc + RT",
+    "C": "Kp = Kc/R",
+    "D": "Kp = Kc^(RT)"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Chemical Equilibrium (Class 11)"
+},
+  {
+    "question_id": "CHEM147",
+    "question_text": "Derive the Henderson-Hasselbalch equation for buffer solutions.",
+  "options": {
+    "A": "pH = pKa + log([A⁻]/[HA])",
+    "B": "pH = pKa - log([A⁻]/[HA])",
+    "C": "pH = log([HA]/[A⁻])",
+    "D": "pH = pKa only"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Ionic Equilibrium (Class 12)"
+},
+  {
+    "question_id": "CHEM148",
+    "question_text": "Derive the Nernst equation relating electrode potential to ion concentration.",
+  "options": {
+    "A": "E = E° - (RT/nF) ln Q; electrode potential depends on reaction quotient",
+    "B": "E = E° + RT ln Q",
+    "C": "E = RT/nF; independent of Q",
+    "D": "E = E° only; no concentration dependence"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Electrochemistry (Class 12)"
+},
+  {
+    "question_id": "CHEM149",
+    "question_text": "Derive the Clausius-Clapeyron equation and explain its application to calculate enthalpy of vaporization.",
+  "options": {
+    "A": "ln P = -ΔHvap/RT + C; relates vapor pressure to temperature",
+    "B": "ln P = ΔHvap/RT + C",
+    "C": "P = RT/ΔHvap",
+    "D": "P independent of temperature"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Thermodynamics (Class 12)"
+},
+  {
+    "question_id": "CHEM150",
+    "question_text": "Derive the formula relating the rate constant of a first-order reaction to its half-life.",
+  "options": {
+    "A": "t₁/₂ = 0.693/k",
+    "B": "t₁/₂ = k/0.693",
+    "C": "t₁/₂ = 1/2k",
+    "D": "t₁/₂ = k²"
+  },
+  "correct_answer": "A",
+  "difficulty": "Hard",
+  "topic": "Chemical Kinetics (Class 12)"
+},
+  
+  {
+    "question_id": "CHEM151",
+    "question_text": "A reaction has a rate constant k = 2.3 x 10^-5 s^-1. What is its order of reaction?",
+    "options": {
+      "A": "Zero order",
+      "B": "First order",
+      "C": "Second order",
+      "D": "Cannot be determined from units alone"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics (+2)"
+  },
+  {
+    "question_id": "CHEM152",
+    "question_text": "Why does a rise in temperature increase the rate of an exothermic reaction, even though it shifts equilibrium towards reactants?",
+    "options": {
+      "A": "It increases activation energy.",
+      "B": "It decreases activation energy.",
+      "C": "It increases the number of effective collisions.",
+      "D": "It decreases the equilibrium constant."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics & Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM153",
+    "question_text": "What is the primary role of concentrated H2SO4 in the esterification reaction?",
+    "options": {
+      "A": "Oxidizing agent",
+      "B": "Reducing agent",
+      "C": "Dehydrating agent and catalyst",
+      "D": "Solvent"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM154",
+    "question_text": "Which of the following noble gases is known to form compounds, thus deviating from the octet rule?",
+    "options": {
+      "A": "Helium",
+      "B": "Neon",
+      "C": "Argon",
+      "D": "Xenon"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "P-block Elements (+2)"
+  },
+  {
+    "question_id": "CHEM155",
+    "question_text": "If a solution has a pH of 9 at 25 degrees Celsius, what is its pOH?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "14"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Ionic Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM156",
+    "question_text": "What is the primary reason transition metals exhibit variable oxidation states?",
+    "options": {
+      "A": "Large atomic size",
+      "B": "Small ionization energy",
+      "C": "Involvement of both (n-1)d and ns electrons",
+      "D": "High electronegativity"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "D-block Elements (+2)"
+  },
+  {
+    "question_id": "CHEM157",
+    "question_text": "What is the major product when propene reacts with HBr in the presence of a peroxide?",
+    "options": {
+      "A": "1-Bromopropane",
+      "B": "2-Bromopropane",
+      "C": "1,2-Dibromopropane",
+      "D": "Propane"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Haloalkanes) (+2)"
+  },
+  {
+    "question_id": "CHEM158",
+    "question_text": "How does the boiling point of a primary alcohol compare to a tertiary alcohol with the same number of carbon atoms?",
+    "options": {
+      "A": "Primary < Tertiary",
+      "B": "Primary > Tertiary",
+      "C": "Primary = Tertiary",
+      "D": "No general trend"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Alcohols) (+2)"
+  },
+  {
+    "question_id": "CHEM159",
+    "question_text": "For the reaction 2A(g) <=> B(g) + C(g), if Kp = 1.0 atm, how does Kc relate to Kp at 298 K? (R = 0.0821 L atm mol^-1 K^-1)",
+    "options": {
+      "A": "Kc = Kp * (RT)^1",
+      "B": "Kc = Kp / (RT)^1",
+      "C": "Kc = Kp * (RT)^-1",
+      "D": "Kc = Kp * (RT)^0"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Chemical Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM160",
+    "question_text": "Which type of solid is characterized by very high melting points, hardness, and electrical insulation due to strong covalent bonds extending throughout the entire structure?",
+    "options": {
+      "A": "Molecular solid",
+      "B": "Ionic solid",
+      "C": "Metallic solid",
+      "D": "Covalent network solid"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Solid State (+2)"
+  },
+  {
+    "question_id": "CHEM161",
+    "question_text": "What is the hybridization of the carbon atom in a carbonyl group (C=O)?",
+    "options": {
+      "A": "sp",
+      "B": "sp2",
+      "C": "sp3",
+      "D": "dsp2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Bonding) (+2)"
+  },
+  {
+    "question_id": "CHEM162",
+    "question_text": "In the Haber process, N2(g) + 3H2(g) <=> 2NH3(g), what happens to the equilibrium if the pressure is increased?",
+    "options": {
+      "A": "Shifts left, less NH3",
+      "B": "Shifts right, more NH3",
+      "C": "No effect",
+      "D": "Equilibrium constant decreases"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Chemical Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM163",
+    "question_text": "Explain why H2O is a liquid at room temperature while H2S is a gas, despite sulfur being below oxygen in the periodic table.",
+    "options": {
+      "A": "H2S has stronger London dispersion forces.",
+      "B": "H2O has stronger dipole-dipole forces.",
+      "C": "H2O forms hydrogen bonds.",
+      "D": "H2S has a higher molar mass."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Bonding (+2)"
+  },
+  {
+    "question_id": "CHEM164",
+    "question_text": "Which of the following organic compounds is the most acidic?",
+    "options": {
+      "A": "Ethanol",
+      "B": "Phenol",
+      "C": "Ethanoic acid",
+      "D": "Water"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Acidity) (+2)"
+  },
+  {
+    "question_id": "CHEM165",
+    "question_text": "What is the effect of adding a common ion (e.g., Cl- to AgCl solution) on the solubility of a sparingly soluble salt?",
+    "options": {
+      "A": "Increases solubility",
+      "B": "Decreases solubility",
+      "C": "No effect",
+      "D": "First increases, then decreases"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Ionic Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM166",
+    "question_text": "Which specific organic functional group is identified by a positive Tollen's reagent test?",
+    "options": {
+      "A": "Ketone",
+      "B": "Alcohol",
+      "C": "Aldehyde",
+      "D": "Carboxylic acid"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Tests) (+2)"
+  },
+  {
+    "question_id": "CHEM167",
+    "question_text": "Which law of thermodynamics states that the total entropy of an isolated system can only increase over time, or remain constant in ideal cases?",
+    "options": {
+      "A": "First Law",
+      "B": "Second Law",
+      "C": "Third Law",
+      "D": "Hess's Law"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Thermodynamics (+2)"
+  },
+  {
+    "question_id": "CHEM168",
+    "question_text": "A metal crystallizes in a body-centered cubic (BCC) lattice. How many atoms are effectively present per unit cell?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Solid State (+2)"
+  },
+  {
+    "question_id": "CHEM169",
+    "question_text": "What is the main reason for the high electrical conductivity of metals?",
+    "options": {
+      "A": "Presence of fixed cations",
+      "B": "Presence of localized electrons",
+      "C": "Presence of delocalized valence electrons",
+      "D": "Strong covalent bonds"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Bonding (+2)"
+  },
+  {
+    "question_id": "CHEM170",
+    "question_text": "Which of the following polymers is a thermosetting plastic?",
+    "options": {
+      "A": "Polyethylene",
+      "B": "PVC",
+      "C": "Bakelite",
+      "D": "Nylon"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Polymers (+2)"
+  },
+  {
+    "question_id": "CHEM171",
+    "question_text": "How many sigma and pi bonds are present in propyne (CH3-C CCH)?",
+    "options": {
+      "A": "6 sigma, 1 pi",
+      "B": "5 sigma, 2 pi",
+      "C": "6 sigma, 2 pi",
+      "D": "7 sigma, 1 pi"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Bonding) (+2)"
+  },
+  {
+    "question_id": "CHEM172",
+    "question_text": "Which type of intermolecular force is responsible for the relatively high boiling point of alcohols compared to alkanes of similar molar mass?",
+    "options": {
+      "A": "London Dispersion Forces",
+      "B": "Dipole-Dipole forces",
+      "C": "Hydrogen bonding",
+      "D": "Ionic bonding"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Properties) (+2)"
+  },
+  {
+    "question_id": "CHEM173",
+    "question_text": "Which of the following compounds will give a positive iodoform test?",
+    "options": {
+      "A": "Propan-1-ol",
+      "B": "Propan-2-ol",
+      "C": "Ethanal",
+      "D": "Both B and C"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Tests) (+2)"
+  },
+  {
+    "question_id": "CHEM174",
+    "question_text": "If the activation energy of a reaction is very high, what can be inferred about its reaction rate at a given temperature?",
+    "options": {
+      "A": "Very fast rate",
+      "B": "Very slow rate",
+      "C": "No effect on rate",
+      "D": "First fast, then slow"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics (+2)"
+  },
+  {
+    "question_id": "CHEM175",
+    "question_text": "What is the primary function of a salt bridge in an electrochemical (voltaic) cell?",
+    "options": {
+      "A": "To transfer electrons",
+      "B": "To complete the circuit",
+      "C": "To maintain electrical neutrality",
+      "D": "To prevent mixing of electrolytes"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electrochemistry (+2)"
+  },
+  {
+    "question_id": "CHEM176",
+    "question_text": "Which type of isomerism is shown by [Co(NH3)5Br]SO4 and [Co(NH3)5SO4]Br?",
+    "options": {
+      "A": "Geometrical isomerism",
+      "B": "Linkage isomerism",
+      "C": "Ionization isomerism",
+      "D": "Hydrate isomerism"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Coordination Compounds (+2)"
+  },
+  {
+    "question_id": "CHEM177",
+    "question_text": "When a non-volatile solute is added to a solvent, what happens to its vapor pressure at a given temperature?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains same",
+      "D": "First increases, then decreases"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Solutions (Colligative Properties) (+2)"
+  },
+  {
+    "question_id": "CHEM178",
+    "question_text": "What is the common term for the substance used to treat acid indigestion, which neutralizes excess stomach acid?",
+    "options": {
+      "A": "Acids",
+      "B": "Bases",
+      "C": "Antacids",
+      "D": "Salts"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Acids, Bases & Salts (Class 10)"
+  },
+  {
+    "question_id": "CHEM179",
+    "question_text": "What is the chemical formula of the major organic product formed when ethene reacts with cold, dilute, alkaline KMnO4 (Baeyer's reagent)?",
+    "options": {
+      "A": "CH3CH3",
+      "B": "CH3CH2OH",
+      "C": "HOCH2CH2OH",
+      "D": "CH3COOH"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Alkenes) (+2)"
+  },
+  {
+    "question_id": "CHEM180",
+    "question_text": "Which factor primarily influences the basicity of amines?",
+    "options": {
+      "A": "Electronegativity of nitrogen",
+      "B": "Presence of lone pair on nitrogen",
+      "C": "Availability of lone pair and stability of conjugate acid",
+      "D": "Molecular size"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Amines) (+2)"
+  },
+  {
+    "question_id": "CHEM181",
+    "question_text": "If the half-life of a radioactive isotope is 10 years, how many half-lives would pass in 30 years?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Nuclear Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM182",
+    "question_text": "What is the catalyst commonly used in the industrial hydrogenation of vegetable oils to produce vegetable ghee?",
+    "options": {
+      "A": "Iron",
+      "B": "Vanadium pentoxide",
+      "C": "Finely divided Nickel",
+      "D": "Platinum"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Applied) (+2)"
+  },
+  {
+    "question_id": "CHEM183",
+    "question_text": "What is the oxidation state of sulfur in H2SO4?",
+    "options": {
+      "A": "+2",
+      "B": "+4",
+      "C": "+6",
+      "D": "-2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Redox Reactions (+2)"
+  },
+  {
+    "question_id": "CHEM184",
+    "question_text": "Why is phenol more acidic than ethanol?",
+    "options": {
+      "A": "Due to inductive effect of benzene ring",
+      "B": "Due to resonance stabilization of phenoxide ion",
+      "C": "Due to stronger hydrogen bonding in phenol",
+      "D": "Due to steric hindrance"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Acidity) (+2)"
+  },
+  {
+    "question_id": "CHEM185",
+    "question_text": "Which colligative property is most commonly used to determine the molar mass of macromolecules like proteins and polymers due to its significant magnitude at room temperature?",
+    "options": {
+      "A": "Relative lowering of vapor pressure",
+      "B": "Elevation in boiling point",
+      "C": "Depression in freezing point",
+      "D": "Osmotic pressure"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Solutions (Colligative Properties) (+2)"
+  },
+  {
+    "question_id": "CHEM186",
+    "question_text": "Which named reaction involves the conversion of an aldehyde or ketone into an imine using a primary amine?",
+    "options": {
+      "A": "Aldol condensation",
+      "B": "Cannizzaro reaction",
+      "C": "Schiff base formation",
+      "D": "Perkin reaction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Named Reactions) (+2)"
+  },
+  {
+    "question_id": "CHEM187",
+    "question_text": "How many d-electrons are present in Fe3+ ion? (Atomic number of Fe = 26)",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "D-block Elements (+2)"
+  },
+  {
+    "question_id": "CHEM188",
+    "question_text": "Which type of intermolecular forces are dominant in non-polar molecules like CH4?",
+    "options": {
+      "A": "Hydrogen bonding",
+      "B": "Dipole-dipole forces",
+      "C": "London dispersion forces",
+      "D": "Ionic forces"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "States of Matter (+2)"
+  },
+  {
+    "question_id": "CHEM189",
+    "question_text": "What is the byproduct formed along with soap during the saponification reaction (hydrolysis of fat/oil with alkali)?",
+    "options": {
+      "A": "Ethanol",
+      "B": "Glycerol",
+      "C": "Fatty acid",
+      "D": "Carbon dioxide"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Applied) (+2)"
+  },
+  {
+    "question_id": "CHEM190",
+    "question_text": "Which of the following factors does NOT affect the rate of a chemical reaction?",
+    "options": {
+      "A": "Temperature",
+      "B": "Concentration of reactants",
+      "C": "Surface area of reactants",
+      "D": "Overall Gibbs Free Energy Change of reaction"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics (+2)"
+  },
+  {
+    "question_id": "CHEM191",
+    "question_text": "If the standard reduction potential of an electrode is positive, what does it signify about the tendency of the species to get reduced?",
+    "options": {
+      "A": "Low tendency",
+      "B": "High tendency",
+      "C": "No tendency",
+      "D": "Tendency to get oxidized"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electrochemistry (+2)"
+  },
+  {
+    "question_id": "CHEM192",
+    "question_text": "Which of the following is a zwitterionic compound?",
+    "options": {
+      "A": "Glucose",
+      "B": "Amino acid",
+      "C": "Fatty acid",
+      "D": "Urea"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Biomolecules (+2)"
+  },
+  {
+    "question_id": "CHEM193",
+    "question_text": "What is the common name for the reaction where an aldehyde with no alpha-hydrogen undergoes self-oxidation and reduction?",
+    "options": {
+      "A": "Aldol condensation",
+      "B": "Cannizzaro reaction",
+      "C": "Perkin reaction",
+      "D": "Reimer-Tiemann reaction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Named Reactions) (+2)"
+  },
+  {
+    "question_id": "CHEM194",
+    "question_text": "Why do aqueous solutions of transition metal ions often appear colored?",
+    "options": {
+      "A": "Due to d-d transitions",
+      "B": "Due to charge transfer",
+      "C": "Due to s-p transitions",
+      "D": "Due to their metallic nature"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Coordination Compounds (+2)"
+  },
+  {
+    "question_id": "CHEM195",
+    "question_text": "Which of the following is a strong electrolyte?",
+    "options": {
+      "A": "Acetic acid",
+      "B": "Ammonia solution",
+      "C": "Sodium chloride",
+      "D": "Glucose solution"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Ionic Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM196",
+    "question_text": "What is the general formula for a saturated cyclic hydrocarbon?",
+    "options": {
+      "A": "CnH2n+2",
+      "B": "CnH2n",
+      "C": "CnH2n-2",
+      "D": "CnH2n-6"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM197",
+    "question_text": "Which noble gas is used in fluorescent lights and advertising signs?",
+    "options": {
+      "A": "Helium",
+      "B": "Neon",
+      "C": "Argon",
+      "D": "Krypton"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "P-block Elements (+2)"
+  },
+  {
+    "question_id": "CHEM198",
+    "question_text": "What is the major product when benzene reacts with methyl chloride in the presence of anhydrous AlCl3?",
+    "options": {
+      "A": "Chlorobenzene",
+      "B": "Toluene",
+      "C": "Benzene sulfonic acid",
+      "D": "Phenol"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Benzene) (+2)"
+  },
+  {
+    "question_id": "CHEM199",
+    "question_text": "According to VSEPR theory, what is the electron domain geometry around the central atom in an SF6 molecule?",
+    "options": {
+      "A": "Tetrahedral",
+      "B": "Trigonal bipyramidal",
+      "C": "Octahedral",
+      "D": "Square planar"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Bonding (+2)"
+  },
+  {
+    "question_id": "CHEM200",
+    "question_text": "Which of the following is an example of a condensation polymer?",
+    "options": {
+      "A": "Polyethylene",
+      "B": "PVC",
+      "C": "Nylon 6,6",
+      "D": "Teflon"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Polymers (+2)"
+  },
+  {
+    "question_id": "CHEM201",
+    "question_text": "What type of reaction mechanism is typically followed by haloalkanes for substitution reactions, favoring tertiary haloalkanes and polar protic solvents?",
+    "options": {
+      "A": "SN1",
+      "B": "SN2",
+      "C": "E1",
+      "D": "E2"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Haloalkanes) (+2)"
+  },
+  {
+    "question_id": "CHEM202",
+    "question_text": "If a reaction's Gibbs Free Energy change (delta G) is negative, what does it imply about the reaction?",
+    "options": {
+      "A": "Non-spontaneous",
+      "B": "At equilibrium",
+      "C": "Spontaneous",
+      "D": "Requires activation energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Thermodynamics (+2)"
+  },
+  {
+    "question_id": "CHEM203",
+    "question_text": "Which noble gas has the highest ionization energy?",
+    "options": {
+      "A": "Radon",
+      "B": "Xenon",
+      "C": "Neon",
+      "D": "Helium"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "P-block Elements (+2)"
+  },
+  {
+    "question_id": "CHEM204",
+    "question_text": "What is the common term for the maximum amount of solute that can be dissolved in a given amount of solvent at a specific temperature?",
+    "options": {
+      "A": "Molarity",
+      "B": "Molality",
+      "C": "Solubility",
+      "D": "Concentration"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Solutions (Class 11)"
+  },
+  {
+    "question_id": "CHEM205",
+    "question_text": "Identify the type of isomerism exhibited by [Co(en)3]Cl3 and [Co(en)2Cl2]Cl.",
+    "options": {
+      "A": "Geometrical",
+      "B": "Optical",
+      "C": "Coordination",
+      "D": "Ionization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Coordination Compounds (+2)"
+  },
+  {
+    "question_id": "CHEM206",
+    "question_text": "Which of the following is true for an ideal solution?",
+    "options": {
+      "A": "Delta H_mix is positive",
+      "B": "Delta V_mix is positive",
+      "C": "It obeys Raoult's Law",
+      "D": "It forms an azeotrope"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Solutions (+2)"
+  },
+  {
+    "question_id": "CHEM207",
+    "question_text": "What is the change in oxidation state of Manganese in the conversion of KMnO4 to MnSO4?",
+    "options": {
+      "A": "From +7 to +2",
+      "B": "From +7 to +4",
+      "C": "From +6 to +2",
+      "D": "From +5 to +2"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Redox Reactions (+2)"
+  },
+  {
+    "question_id": "CHEM208",
+    "question_text": "Which principle states that electrons fill degenerate orbitals singly before pairing up?",
+    "options": {
+      "A": "Pauli Exclusion Principle",
+      "B": "Aufbau Principle",
+      "C": "Hund's Rule of Maximum Multiplicity",
+      "D": "Heisenberg Uncertainty Principle"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Atomic Structure (+2)"
+  },
+  {
+    "question_id": "CHEM209",
+    "question_text": "What is the common industrial name for the process of converting an aldehyde or ketone into a hydrocarbon using a hindered base like LiAlH4?",
+    "options": {
+      "A": "Clemmensen Reduction",
+      "B": "Wolff-Kishner Reduction",
+      "C": "Cannizzaro Reaction",
+      "D": "Aldol Condensation"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Named Reactions) (+2)"
+  },
+  {
+    "question_id": "CHEM210",
+    "question_text": "Which of the following is a primary amine?",
+    "options": {
+      "A": "(CH3)3N",
+      "B": "(CH3)2NH",
+      "C": "CH3NH2",
+      "D": "C6H5N(CH3)2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Amines) (+2)"
+  },
+  {
+    "question_id": "CHEM211",
+    "question_text": "What is the phenomenon called when light scattering occurs from colloidal particles, making the path of light visible?",
+    "options": {
+      "A": "Brownian movement",
+      "B": "Electrophoresis",
+      "C": "Tyndall effect",
+      "D": "Coagulation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Surface Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM212",
+    "question_text": "Which of the following elements has the highest electronegativity?",
+    "options": {
+      "A": "Cl",
+      "B": "Br",
+      "C": "F",
+      "D": "I"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Periodic Table (+2)"
+  },
+  {
+    "question_id": "CHEM213",
+    "question_text": "What is the effect of a positive catalyst on the activation energy and reaction rate?",
+    "options": {
+      "A": "Increases E_a, increases rate",
+      "B": "Decreases E_a, decreases rate",
+      "C": "Decreases E_a, increases rate",
+      "D": "Increases E_a, decreases rate"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics (+2)"
+  },
+  {
+    "question_id": "CHEM214",
+    "question_text": "Which type of crystalline defect is caused by the migration of an ion from its lattice site to an interstitial site?",
+    "options": {
+      "A": "Schottky defect",
+      "B": "Frenkel defect",
+      "C": "Vacancy defect",
+      "D": "Interstitial defect"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Solid State (+2)"
+  },
+  {
+    "question_id": "CHEM215",
+    "question_text": "What type of intermolecular force allows DNA strands to form a double helix structure?",
+    "options": {
+      "A": "Ionic bonds",
+      "B": "Covalent bonds",
+      "C": "Hydrogen bonds",
+      "D": "Metallic bonds"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Biomolecules (+2)"
+  },
+  {
+    "question_id": "CHEM216",
+    "question_text": "If a chemical reaction has a very small equilibrium constant (K << 1), what does it imply about the extent of the reaction?",
+    "options": {
+      "A": "The reaction goes to completion.",
+      "B": "The reaction hardly proceeds.",
+      "C": "Reactants and products are in equal amounts.",
+      "D": "The reaction rate is very fast."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Chemical Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM217",
+    "question_text": "Name the process of converting vegetable oil into vanaspati ghee.",
+    "options": {
+      "A": "Saponification",
+      "B": "Esterification",
+      "C": "Hydrogenation",
+      "D": "Polymerization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Applied Chemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM218",
+    "question_text": "Which of the following organic compounds is aromatic?",
+    "options": {
+      "A": "Cyclohexane",
+      "B": "Cyclohexene",
+      "C": "Benzene",
+      "D": "Hexane"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM219",
+    "question_text": "What is the oxidation number of chromium (Cr) in K2Cr2O7?",
+    "options": {
+      "A": "+2",
+      "B": "+3",
+      "C": "+6",
+      "D": "+7"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Redox Reactions (+2)"
+  },
+  {
+    "question_id": "CHEM220",
+    "question_text": "Which colligative property is used to calculate the molar mass from osmotic pressure measurements?",
+    "options": {
+      "A": "Elevation in boiling point",
+      "B": "Depression in freezing point",
+      "C": "Osmotic pressure itself",
+      "D": "Relative lowering of vapor pressure"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Solutions (Colligative Properties) (+2)"
+  },
+  {
+    "question_id": "CHEM221",
+    "question_text": "What type of reaction is characterized by the formation of a carbon-carbon bond between two carbonyl compounds, typically involving an enolate ion?",
+    "options": {
+      "A": "Cannizzaro reaction",
+      "B": "Aldol condensation",
+      "C": "Haloform reaction",
+      "D": "Wittig reaction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Named Reactions) (+2)"
+  },
+  {
+    "question_id": "CHEM222",
+    "question_text": "What is the change in hybridization of carbon when ethene (C2H4) is converted to ethane (C2H6)?",
+    "options": {
+      "A": "sp2 to sp",
+      "B": "sp2 to sp3",
+      "C": "sp to sp2",
+      "D": "sp3 to sp2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Bonding) (+2)"
+  },
+  {
+    "question_id": "CHEM223",
+    "question_text": "Which of the following conditions is most favorable for the synthesis of ammonia by the Haber process?",
+    "options": {
+      "A": "High temperature, high pressure",
+      "B": "Low temperature, low pressure",
+      "C": "High temperature, low pressure",
+      "D": "Low temperature, high pressure"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Applied Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM224",
+    "question_text": "What is the common laboratory test used to distinguish between aldehydes and ketones?",
+    "options": {
+      "A": "Lucas test",
+      "B": "Iodoform test",
+      "C": "Tollen's test",
+      "D": "Victor Meyer test"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Tests) (+2)"
+  },
+  {
+    "question_id": "CHEM225",
+    "question_text": "Which type of bond is formed when electrons are delocalized over a lattice of positive metal ions?",
+    "options": {
+      "A": "Ionic bond",
+      "B": "Covalent bond",
+      "C": "Metallic bond",
+      "D": "Hydrogen bond"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Bonding (Class 10/11)"
+  },
+  {
+    "question_id": "CHEM226",
+    "question_text": "If the rate of a reaction doubles when the concentration of reactant A is doubled, what is the order of reaction with respect to A?",
+    "options": {
+      "A": "Zero",
+      "B": "First",
+      "C": "Second",
+      "D": "Cannot be determined"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics (+2)"
+  },
+  {
+    "question_id": "CHEM227",
+    "question_text": "What is the name of the process by which a heavier element splits into two or more lighter elements, releasing a large amount of energy?",
+    "options": {
+      "A": "Nuclear fusion",
+      "B": "Nuclear fission",
+      "C": "Radioactive decay",
+      "D": "Chain reaction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Nuclear Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM228",
+    "question_text": "Which of the following is a strong oxidizing agent and is often used as a disinfectant?",
+    "options": {
+      "A": "NaCl",
+      "B": "H2S",
+      "C": "KMnO4",
+      "D": "NH3"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "P-block Elements (+2)"
+  },
+  {
+    "question_id": "CHEM229",
+    "question_text": "What is the phenomenon where a pure liquid freezes at a lower temperature when a solute is added?",
+    "options": {
+      "A": "Boiling point elevation",
+      "B": "Vapor pressure lowering",
+      "C": "Freezing point depression",
+      "D": "Osmosis"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Solutions (Colligative Properties) (+2)"
+  },
+  {
+    "question_id": "CHEM230",
+    "question_text": "Which of the following organic functional groups has the highest priority in IUPAC nomenclature?",
+    "options": {
+      "A": "Aldehyde",
+      "B": "Ketone",
+      "C": "Carboxylic acid",
+      "D": "Alcohol"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Nomenclature) (+2)"
+  },
+  {
+    "question_id": "CHEM231",
+    "question_text": "What is the main chemical principle behind the use of a common ion to precipitate a specific ion from a solution?",
+    "options": {
+      "A": "Le Chatelier's Principle",
+      "B": "Henry's Law",
+      "C": "Raoult's Law",
+      "D": "Dalton's Law"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Ionic Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM232",
+    "question_text": "Which type of orbital is spherical and can hold a maximum of 2 electrons?",
+    "options": {
+      "A": "p orbital",
+      "B": "d orbital",
+      "C": "f orbital",
+      "D": "s orbital"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Atomic Structure (+2)"
+  },
+  {
+    "question_id": "CHEM233",
+    "question_text": "The reaction of an alkyl halide with sodium metal in dry ether is known as:",
+    "options": {
+      "A": "Friedel-Crafts reaction",
+      "B": "Wurtz reaction",
+      "C": "Kolbe's reaction",
+      "D": "Reimer-Tiemann reaction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Named Reactions) (+2)"
+  },
+  {
+    "question_id": "CHEM234",
+    "question_text": "What is the pH of a 1 x 10^-5 M NaOH solution at 25 degrees Celsius?",
+    "options": {
+      "A": "5",
+      "B": "9",
+      "C": "7",
+      "D": "10"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Ionic Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM235",
+    "question_text": "Which of the following is an example of an addition polymerization reaction?",
+    "options": {
+      "A": "Nylon 6,6 synthesis",
+      "B": "Bakelite formation",
+      "C": "Polyethylene synthesis from ethene",
+      "D": "Dacron formation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Polymers (+2)"
+  },
+  {
+    "question_id": "CHEM236",
+    "question_text": "What term describes the minimum energy required by reacting molecules to form products?",
+    "options": {
+      "A": "Enthalpy change",
+      "B": "Gibbs free energy",
+      "C": "Activation energy",
+      "D": "Bond energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Kinetics (+2)"
+  },
+  {
+    "question_id": "CHEM237",
+    "question_text": "Why do aqueous solutions of salts of transition metals often appear colored?",
+    "options": {
+      "A": "Due to excitation of s-electrons",
+      "B": "Due to d-d transitions of unpaired d-electrons",
+      "C": "Due to presence of empty d-orbitals",
+      "D": "Due to their metallic luster"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Coordination Compounds (+2)"
+  },
+  {
+    "question_id": "CHEM238",
+    "question_text": "Which class of organic compounds typically gives a pleasant, fruity smell and is formed by the reaction of an alcohol and a carboxylic acid?",
+    "options": {
+      "A": "Ketones",
+      "B": "Aldehydes",
+      "C": "Esters",
+      "D": "Ethers"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Esters) (+2)"
+  },
+  {
+    "question_id": "CHEM239",
+    "question_text": "What is the primary factor that causes the ideal gas equation (PV=nRT) to deviate for real gases at high pressure and low temperature?",
+    "options": {
+      "A": "Negligible volume of gas molecules",
+      "B": "No intermolecular forces",
+      "C": "Finite volume of gas molecules and intermolecular forces",
+      "D": "Constant kinetic energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "States of Matter (Gases) (+2)"
+  },
+  {
+    "question_id": "CHEM240",
+    "question_text": "Which of the following is considered a 'sacrifice metal' in cathodic protection to prevent corrosion of iron?",
+    "options": {
+      "A": "Copper",
+      "B": "Silver",
+      "C": "Zinc",
+      "D": "Lead"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electrochemistry (Class 10)"
+  },
+  {
+    "question_id": "CHEM241",
+    "question_text": "What is the product formed when ethene reacts with H2 in the presence of Nickel catalyst?",
+    "options": {
+      "A": "Ethyne",
+      "B": "Ethane",
+      "C": "Ethanol",
+      "D": "Ethene oxide"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Alkenes) (+2)"
+  },
+  {
+    "question_id": "CHEM242",
+    "question_text": "Which of the following will exhibit hydrogen bonding?",
+    "options": {
+      "A": "CH4",
+      "B": "HCl",
+      "C": "NH3",
+      "D": "H2S"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Chemical Bonding (+2)"
+  },
+  {
+    "question_id": "CHEM243",
+    "question_text": "What is the name of the rule that states that in addition reactions to unsymmetrical alkenes, the positive part of the reagent adds to the carbon atom with more hydrogen atoms?",
+    "options": {
+      "A": "Hund's Rule",
+      "B": "Markovnikov's Rule",
+      "C": "Anti-Markovnikov's Rule",
+      "D": "Zaitsev's Rule"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Alkenes) (+2)"
+  },
+  {
+    "question_id": "CHEM244",
+    "question_text": "If an equilibrium constant (K) for a reaction is very large, what does it indicate?",
+    "options": {
+      "A": "The reaction heavily favors reactants.",
+      "B": "The reaction heavily favors products.",
+      "C": "The reaction is irreversible.",
+      "D": "The reaction is very slow."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Chemical Equilibrium (+2)"
+  },
+  {
+    "question_id": "CHEM245",
+    "question_text": "Which quantum number describes the orientation of an atomic orbital in space?",
+    "options": {
+      "A": "Principal quantum number",
+      "B": "Azimuthal (angular momentum) quantum number",
+      "C": "Magnetic quantum number",
+      "D": "Spin quantum number"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Atomic Structure (+2)"
+  },
+  {
+    "question_id": "CHEM246",
+    "question_text": "What type of isomerism is shown by compounds with the same molecular formula but different arrangements of atoms in space (e.g., cis-trans isomers)?",
+    "options": {
+      "A": "Structural isomerism",
+      "B": "Chain isomerism",
+      "C": "Positional isomerism",
+      "D": "Stereoisomerism"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (Isomerism) (+2)"
+  },
+  {
+    "question_id": "CHEM247",
+    "question_text": "Which of the following is an example of an amphoteric oxide?",
+    "options": {
+      "A": "Na2O",
+      "B": "SO2",
+      "C": "Al2O3",
+      "D": "CO2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Inorganic Chemistry (Class 10/11)"
+  },
+  {
+    "question_id": "CHEM248",
+    "question_text": "What is the process of converting an alkane to an aromatic hydrocarbon called?",
+    "options": {
+      "A": "Hydrogenation",
+      "B": "Dehydrogenation",
+      "C": "Aromatization",
+      "D": "Cracking"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Organic Chemistry (+2)"
+  },
+  {
+    "question_id": "CHEM249",
+    "question_text": "Which type of solution deviates negatively from Raoult's Law, meaning the vapor pressure is lower than expected?",
+    "options": {
+      "A": "Ideal solution",
+      "B": "Solution with positive deviation",
+      "C": "Solution with negative deviation",
+      "D": "Dilute solution"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Solutions (+2)"
+  },
+  {
+    "question_id": "CHEM250",
+    "question_text": "What is the common name for the process of heating an ore strongly in the presence of air to convert it into its oxide?",
+    "options": {
+      "A": "Calcination",
+      "B": "Roasting",
+      "C": "Smelting",
+      "D": "Leaching"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Metallurgy (+2)"
+  }
+
+]
