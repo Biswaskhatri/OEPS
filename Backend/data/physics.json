@@ -1,0 +1,6188 @@
+[
+  {
+    "question_id": "PHY2000",
+    "question_text": "What is the SI unit of electric current?",
+    "options": {
+      "A": "Volt",
+      "B": "Ohm",
+      "C": "Ampere",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2001",
+    "question_text": "Which of the following is a scalar quantity?",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Mass",
+      "D": "Force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2002",
+    "question_text": "What does Ohm's Law state?",
+    "options": {
+      "A": "V = IR",
+      "B": "P = VI",
+      "C": "E = mc^2",
+      "D": "F = ma"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2003",
+    "question_text": "What type of mirror is used in headlights of a car?",
+    "options": {
+      "A": "Plane mirror",
+      "B": "Convex mirror",
+      "C": "Concave mirror",
+      "D": "Cylindrical mirror"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2004",
+    "question_text": "What is the phenomenon of light splitting into its constituent colors when passing through a prism?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Dispersion",
+      "D": "Diffraction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2005",
+    "question_text": "The energy possessed by a body due to its motion is called:",
+    "options": {
+      "A": "Potential energy",
+      "B": "Kinetic energy",
+      "C": "Chemical energy",
+      "D": "Thermal energy"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2006",
+    "question_text": "What is the SI unit of magnetic flux?",
+    "options": {
+      "A": "Tesla",
+      "B": "Weber",
+      "C": "Henry",
+      "D": "Farad"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2007",
+    "question_text": "What is the SI unit of power?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Volt"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2008",
+    "question_text": "The force of attraction or repulsion between two charged particles is described by:",
+    "options": {
+      "A": "Newton's Law",
+      "B": "Coulomb's Law",
+      "C": "Ohm's Law",
+      "D": "Faraday's Law"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2009",
+    "question_text": "What is the SI unit of resistance?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Siemens"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2010",
+    "question_text": "What is the SI unit of pressure?",
+    "options": {
+      "A": "Newton",
+      "B": "Joule",
+      "C": "Pascal",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2011",
+    "question_text": "The change in direction of light as it passes from one medium to another is called:",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Dispersion",
+      "D": "Scattering"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2012",
+    "question_text": "What type of wave is light?",
+    "options": {
+      "A": "Longitudinal wave",
+      "B": "Transverse mechanical wave",
+      "C": "Transverse electromagnetic wave",
+      "D": "Sound wave"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2013",
+    "question_text": "The law of conservation of energy states that energy can neither be created nor destroyed, but it can be:",
+    "options": {
+      "A": "Converted from one form to another",
+      "B": "Increased indefinitely",
+      "C": "Reduced to zero",
+      "D": "Only stored"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2014",
+    "question_text": "What is the SI unit of work?",
+    "options": {
+      "A": "Watt",
+      "B": "Newton",
+      "C": "Joule",
+      "D": "Pascal"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2015",
+    "question_text": "Which of the following is a non-contact force?",
+    "options": {
+      "A": "Frictional force",
+      "B": "Normal force",
+      "C": "Gravitational force",
+      "D": "Tension force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2016",
+    "question_text": "What is the SI unit of magnetic field strength (B-field)?",
+    "options": {
+      "A": "Gauss",
+      "B": "Weber",
+      "C": "Tesla",
+      "D": "Henry"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2017",
+    "question_text": "What is the SI unit of electric potential energy?",
+    "options": {
+      "A": "Volt",
+      "B": "Coulomb",
+      "C": "Joule",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2018",
+    "question_text": "Which of the following describes an isothermal process?",
+    "options": {
+      "A": "Constant pressure",
+      "B": "Constant volume",
+      "C": "Constant temperature",
+      "D": "No heat exchange"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2019",
+    "question_text": "What is the SI unit of self-inductance?",
+    "options": {
+      "A": "Weber",
+      "B": "Tesla",
+      "C": "Henry",
+      "D": "Farad"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2020",
+    "question_text": "The internal energy of an ideal gas depends only on its:",
+    "options": {
+      "A": "Pressure",
+      "B": "Volume",
+      "C": "Temperature",
+      "D": "Entropy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2021",
+    "question_text": "What is the SI unit of gravitational field intensity?",
+    "options": {
+      "A": "Newton",
+      "B": "Joule per kilogram",
+      "C": "Newton per kilogram",
+      "D": "Watt per kilogram"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2022",
+    "question_text": "What is the SI unit of thermodynamic temperature?",
+    "options": {
+      "A": "Celsius",
+      "B": "Fahrenheit",
+      "C": "Kelvin",
+      "D": "Joule"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2023",
+    "question_text": "Which of the following describes the behavior of an ideal gas at low pressure and high temperature?",
+    "options": {
+      "A": "It behaves like a real gas.",
+      "B": "It deviates significantly from ideal gas behavior.",
+      "C": "It closely approximates ideal gas behavior.",
+      "D": "It liquefies easily."
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2024",
+    "question_text": "What is the phenomenon where a changing magnetic field produces an electric field?",
+    "options": {
+      "A": "Electromagnetic induction",
+      "B": "Magnetic resonance",
+      "C": "Electrostatic induction",
+      "D": "Hall effect"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2025",
+    "question_text": "When a p-n junction is forward biased, what happens to the depletion region?",
+    "options": {
+      "A": "Widens",
+      "B": "Narrows",
+      "C": "Disappears",
+      "D": "Remains unchanged"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2026",
+    "question_text": "What is the minimum energy required to remove an electron from the surface of a metal in the photoelectric effect?",
+    "options": {
+      "A": "Kinetic energy",
+      "B": "Potential energy",
+      "C": "Work function",
+      "D": "Ionization energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2027",
+    "question_text": "Which phenomenon demonstrates the particle nature of light?",
+    "options": {
+      "A": "Interference",
+      "B": "Diffraction",
+      "C": "Photoelectric effect",
+      "D": "Polarization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2028",
+    "question_text": "What is the SI unit of magnetic permeability?",
+    "options": {
+      "A": "Henry per meter",
+      "B": "Tesla meter",
+      "C": "Weber",
+      "D": "Farad per meter"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2029",
+    "question_text": "The photoelectric effect demonstrates that light has:",
+    "options": {
+      "A": "Wave nature only",
+      "B": "Particle nature only",
+      "C": "Both wave and particle nature",
+      "D": "Neither wave nor particle nature"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2030",
+    "question_text": "The energy-mass relation E = mc^2 is a cornerstone of which theory?",
+    "options": {
+      "A": "Newtonian mechanics",
+      "B": "Thermodynamics",
+      "C": "Special relativity",
+      "D": "Quantum mechanics"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2031",
+    "question_text": "What is the SI unit of activity of a radioactive substance?",
+    "options": {
+      "A": "Curie",
+      "B": "Roentgen",
+      "C": "Becquerel",
+      "D": "Sievert"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2032",
+    "question_text": "What is the SI unit of electric dipole moment?",
+    "options": {
+      "A": "C m",
+      "B": "C / m",
+      "C": "N m",
+      "D": "J C"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2033",
+    "question_text": "The value of acceleration due to gravity (g) at the center of the Earth is:",
+    "options": {
+      "A": "Maximum",
+      "B": "Minimum",
+      "C": "Zero",
+      "D": "Same as on surface"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2034",
+    "question_text": "According to Huygens' principle, every point on a wavefront acts as a source of:",
+    "options": {
+      "A": "Particles",
+      "B": "Secondary wavelets",
+      "C": "Primary waves",
+      "D": "Energy only"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2035",
+    "question_text": "The work done by a conservative force depends only on:",
+    "options": {
+      "A": "The path taken",
+      "B": "The initial and final positions",
+      "C": "The velocity of the object",
+      "D": "The acceleration of the object"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2036",
+    "question_text": "What is the SI unit of gravitational potential?",
+    "options": {
+      "A": "Newton",
+      "B": "Joule per kilogram",
+      "C": "Watt",
+      "D": "Pascal"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2037",
+    "question_text": "What is the SI unit of capacitance?",
+    "options": {
+      "A": "Ohm",
+      "B": "Henry",
+      "C": "Farad",
+      "D": "Coulomb"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2038",
+    "question_text": "The phenomenon of radioactivity is associated with:",
+    "options": {
+      "A": "Electron shells",
+      "B": "Atomic nucleus",
+      "C": "Chemical bonds",
+      "D": "Molecular structure"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2039",
+    "question_text": "What is the SI unit of electric flux?",
+    "options": {
+      "A": "Volt-meter",
+      "B": "Coulomb per meter",
+      "C": "Newton per Coulomb",
+      "D": "Joule per Coulomb"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2040",
+    "question_text": "The energy stored in an inductor is given by:",
+    "options": {
+      "A": "1/2 LI",
+      "B": "1/2 LI^2",
+      "C": "LI",
+      "D": "L I^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2041",
+    "question_text": "What is the SI unit of specific heat capacity?",
+    "options": {
+      "A": "Joule per Kelvin",
+      "B": "Joule per kilogram",
+      "C": "Joule per kilogram Kelvin",
+      "D": "Calorie per gram"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2042",
+    "question_text": "What is the SI unit of luminous intensity?",
+    "options": {
+      "A": "Lumen",
+      "B": "Lux",
+      "C": "Candela",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2043",
+    "question_text": "What is the SI unit of electric displacement field?",
+    "options": {
+      "A": "Coulomb",
+      "B": "Coulomb per meter",
+      "C": "Coulomb per square meter",
+      "D": "Volt meter"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2044",
+    "question_text": "The property of an inductor to oppose the change in current flowing through it is called:",
+    "options": {
+      "A": "Resistance",
+      "B": "Capacitance",
+      "C": "Inductance",
+      "D": "Conductance"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2045",
+    "question_text": "Which of the following is true for electromagnetic waves?",
+    "options": {
+      "A": "They are longitudinal waves.",
+      "B": "They require a medium to travel.",
+      "C": "They are transverse waves.",
+      "D": "Their speed depends on their frequency."
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2046",
+    "question_text": "What is the SI unit of surface charge density?",
+    "options": {
+      "A": "Coulomb",
+      "B": "Coulomb per meter",
+      "C": "Coulomb per square meter",
+      "D": "Volt per meter"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2047",
+    "question_text": "The average kinetic energy of gas molecules is directly proportional to its:",
+    "options": {
+      "A": "Pressure",
+      "B": "Volume",
+      "C": "Absolute temperature",
+      "D": "Density"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2048",
+    "question_text": "What is the SI unit of viscosity?",
+    "options": {
+      "A": "Pascal-second",
+      "B": "Newton-meter",
+      "C": "Joule per second",
+      "D": "Kilogram per cubic meter"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2049",
+    "question_text": "What is the approximate speed of sound in air at room temperature?",
+    "options": {
+      "A": "3 m/s",
+      "B": "343 m/s",
+      "C": "3 x 10^8 m/s",
+      "D": "343 km/s"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Sound (Class 10)"
+  },
+  {
+    "question_id": "PHY2050",
+    "question_text": "Which type of lens is used to correct myopia (nearsightedness)?",
+    "options": {
+      "A": "Convex lens",
+      "B": "Concave lens",
+      "C": "Cylindrical lens",
+      "D": "Plano-convex lens"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2051",
+    "question_text": "What is the phenomenon where a magnet loses its magnetism when heated?",
+    "options": {
+      "A": "Magnetization",
+      "B": "Demagnetization",
+      "C": "Polarization",
+      "D": "Induction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2052",
+    "question_text": "Which of the following is an example of a good electrical conductor?",
+    "options": {
+      "A": "Glass",
+      "B": "Wood",
+      "C": "Copper",
+      "D": "Rubber"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2053",
+    "question_text": "The primary cause of heating in electrical wires when current flows through them is:",
+    "options": {
+      "A": "Inductance",
+      "B": "Capacitance",
+      "C": "Resistance",
+      "D": "Voltage"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2054",
+    "question_text": "What is the main reason for the difference in speed of light in different media?",
+    "options": {
+      "A": "Reflection",
+      "B": "Dispersion",
+      "C": "Different optical densities",
+      "D": "Interference"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2055",
+    "question_text": "Which of the following is a renewable source of energy?",
+    "options": {
+      "A": "Coal",
+      "B": "Petroleum",
+      "C": "Solar energy",
+      "D": "Natural gas"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Energy (Class 10)"
+  },
+  {
+    "question_id": "PHY2056",
+    "question_text": "Which color of light has the shortest wavelength in the visible spectrum?",
+    "options": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Blue",
+      "D": "Violet"
+    },
+    "correct_answer": "D",
+    "difficulty": "Basic",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2057",
+    "question_text": "What is the function of a fuse in an electrical circuit?",
+    "options": {
+      "A": "To increase current",
+      "B": "To decrease voltage",
+      "C": "To protect from overload and short circuit",
+      "D": "To increase resistance"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2058",
+    "question_text": "Why is pure water a poor conductor of electricity?",
+    "options": {
+      "A": "It has very few free ions.",
+      "B": "It has high resistance.",
+      "C": "It is a polar molecule.",
+      "D": "It is a liquid."
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2059",
+    "question_text": "Which of the following is a disadvantage of using solar energy?",
+    "options": {
+      "A": "Non-polluting",
+      "B": "Intermittent availability",
+      "C": "Renewable",
+      "D": "Low maintenance"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Energy (Class 10)"
+  },
+  {
+    "question_id": "PHY2060",
+    "question_text": "What is the primary function of a step-up transformer?",
+    "options": {
+      "A": "To increase current",
+      "B": "To decrease voltage",
+      "C": "To increase voltage",
+      "D": "To convert AC to DC"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2061",
+    "question_text": "What type of wave is sound?",
+    "options": {
+      "A": "Transverse electromagnetic wave",
+      "B": "Longitudinal mechanical wave",
+      "C": "Transverse mechanical wave",
+      "D": "Standing wave"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Sound (Class 10)"
+  },
+  {
+    "question_id": "PHY2062",
+    "question_text": "What is the primary factor that determines the pitch of a sound?",
+    "options": {
+      "A": "Amplitude",
+      "B": "Wavelength",
+      "C": "Frequency",
+      "D": "Speed"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Sound (Class 10)"
+  },
+  {
+    "question_id": "PHY2063",
+    "question_text": "What is the function of a rheostat in an electrical circuit?",
+    "options": {
+      "A": "To measure current",
+      "B": "To measure voltage",
+      "C": "To vary resistance",
+      "D": "To convert AC to DC"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2064",
+    "question_text": "Which of the following is true for an object moving with constant velocity?",
+    "options": {
+      "A": "Its acceleration is positive.",
+      "B": "Its acceleration is negative.",
+      "C": "Its acceleration is zero.",
+      "D": "Its speed is changing."
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (Class 10)"
+  },
+  {
+    "question_id": "PHY2065",
+    "question_text": "What is the common term for the emission of electrons from a metal surface when light falls on it?",
+    "options": {
+      "A": "Thermonic emission",
+      "B": "Field emission",
+      "C": "Photoelectric effect",
+      "D": "Secondary emission"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (Class 10)"
+  },
+  {
+    "question_id": "PHY2066",
+    "question_text": "A concave lens always forms what type of image?",
+    "options": {
+      "A": "Real, inverted, magnified",
+      "B": "Virtual, erect, magnified",
+      "C": "Real, inverted, diminished",
+      "D": "Virtual, erect, diminished"
+    },
+    "correct_answer": "D",
+    "difficulty": "Basic",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2067",
+    "question_text": "What happens to the kinetic energy of gas molecules as the temperature decreases?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Heat (Class 10)"
+  },
+  {
+    "question_id": "PHY2068",
+    "question_text": "Which of the following is an example of a good electrical insulator?",
+    "options": {
+      "A": "Copper",
+      "B": "Aluminum",
+      "C": "Rubber",
+      "D": "Iron"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2069",
+    "question_text": "The phenomenon of production of current by changing magnetic flux is called:",
+    "options": {
+      "A": "Magnetic induction",
+      "B": "Electromagnetic induction",
+      "C": "Electrostatic induction",
+      "D": "Conduction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2070",
+    "question_text": "What is the quality factor (Q-factor) of a resonant circuit a measure of?",
+    "options": {
+      "A": "Resistance",
+      "B": "Selectivity",
+      "C": "Power consumption",
+      "D": "Inductance"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2071",
+    "question_text": "The range of human hearing is approximately:",
+    "options": {
+      "A": "0 Hz to 20 Hz",
+      "B": "20 Hz to 20,000 Hz",
+      "C": "20,000 Hz to 100,000 Hz",
+      "D": "Above 100,000 Hz"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Sound (Class 10)"
+  },
+  {
+    "question_id": "PHY2072",
+    "question_text": "What is the phenomenon called when a charged body loses its charge to the Earth?",
+    "options": {
+      "A": "Charging",
+      "B": "Discharging",
+      "C": "Induction",
+      "D": "Grounding"
+    },
+    "correct_answer": "D",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2073",
+    "question_text": "Which of the following is true for a series circuit?",
+    "options": {
+      "A": "Voltage is same across all components.",
+      "B": "Current is same through all components.",
+      "C": "Total resistance is less than the smallest resistance.",
+      "D": "Power is divided equally among components."
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2074",
+    "question_text": "The unit of electrical energy commonly used for household consumption is:",
+    "options": {
+      "A": "Joule",
+      "B": "Watt-hour",
+      "C": "Kilowatt-hour",
+      "D": "Calorie"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2075",
+    "question_text": "What is the common application of an electromagnet?",
+    "options": {
+      "A": "Permanent magnets",
+      "B": "Electric bells and cranes",
+      "C": "Compasses",
+      "D": "Making static electricity"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2076",
+    "question_text": "Which of the following is true for objects in free fall (neglecting air resistance)?",
+    "options": {
+      "A": "Their speed is constant.",
+      "B": "Their acceleration is constant.",
+      "C": "Their velocity is constant.",
+      "D": "Their momentum is constant."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2077",
+    "question_text": "If a charged particle enters a uniform magnetic field perpendicular to its velocity, what is the path traced by the particle?",
+    "options": {
+      "A": "Straight line",
+      "B": "Parabola",
+      "C": "Helix",
+      "D": "Circle"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2078",
+    "question_text": "What is the condition for a body to be in rotational equilibrium?",
+    "options": {
+      "A": "Net force is zero",
+      "B": "Net torque is zero",
+      "C": "Net force and net torque are zero",
+      "D": "Velocity is constant"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2079",
+    "question_text": "According to Kirchhoff's Current Law, the sum of currents entering a junction is equal to the sum of currents leaving it. This law is based on the conservation of:",
+    "options": {
+      "A": "Energy",
+      "B": "Charge",
+      "C": "Momentum",
+      "D": "Mass"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2080",
+    "question_text": "What is the purpose of using a moderator in a nuclear reactor?",
+    "options": {
+      "A": "To absorb neutrons",
+      "B": "To speed up neutrons",
+      "C": "To slow down neutrons",
+      "D": "To produce more fission"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2081",
+    "question_text": "Why does a gas expand when heated at constant pressure?",
+    "options": {
+      "A": "Molecules become heavier",
+      "B": "Intermolecular forces increase",
+      "C": "Kinetic energy of molecules increases, causing more collisions and larger volume",
+      "D": "Temperature gradient increases"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2082",
+    "question_text": "What is the direction of the force on a current-carrying conductor placed in a magnetic field?",
+    "options": {
+      "A": "Parallel to current",
+      "B": "Parallel to magnetic field",
+      "C": "Perpendicular to both current and magnetic field",
+      "D": "Opposite to current"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2083",
+    "question_text": "Which of the following phenomena is evidence for the wave nature of light?",
+    "options": {
+      "A": "Photoelectric effect",
+      "B": "Compton effect",
+      "C": "Interference",
+      "D": "Blackbody radiation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2084",
+    "question_text": "What is the main property of a ferromagnetic material?",
+    "options": {
+      "A": "Weakly repelled by magnetic fields",
+      "B": "Weakly attracted by magnetic fields",
+      "C": "Strongly attracted by magnetic fields and can retain magnetism",
+      "D": "Does not interact with magnetic fields"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2085",
+    "question_text": "A body undergoes uniform circular motion. Which of the following remains constant?",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Speed",
+      "D": "Displacement"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2086",
+    "question_text": "Which of the following is NOT an application of total internal reflection?",
+    "options": {
+      "A": "Optical fibers",
+      "B": "Mirage",
+      "C": "Periscope",
+      "D": "Endoscope"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2087",
+    "question_text": "The energy of a system in a state of thermal equilibrium is described by its:",
+    "options": {
+      "A": "Temperature only",
+      "B": "Pressure only",
+      "C": "Internal energy",
+      "D": "Entropy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2088",
+    "question_text": "Which type of lens is generally used in microscopes and telescopes?",
+    "options": {
+      "A": "Concave lenses",
+      "B": "Convex lenses",
+      "C": "Cylindrical lenses",
+      "D": "Plano-concave lenses"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2089",
+    "question_text": "The principle of superposition of waves states that:",
+    "options": {
+      "A": "Waves always travel in straight lines.",
+      "B": "Two waves cannot occupy the same space.",
+      "C": "The resultant displacement at any point is the vector sum of the displacements due to individual waves.",
+      "D": "Waves lose energy when they overlap."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2090",
+    "question_text": "The phenomenon of electromagnetic induction is used in:",
+    "options": {
+      "A": "Electric motors",
+      "B": "Electric generators",
+      "C": "Electric heaters",
+      "D": "Electric bulbs"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2091",
+    "question_text": "What is the SI unit of magnetic potential energy?",
+    "options": {
+      "A": "Tesla",
+      "B": "Weber",
+      "C": "Joule",
+      "D": "Henry"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2092",
+    "question_text": "In a nuclear reaction, the total mass of the products is slightly less than the total mass of the reactants. This mass difference is converted into energy according to:",
+    "options": {
+      "A": "Law of Conservation of Momentum",
+      "B": "Law of Conservation of Energy",
+      "C": "Einstein's Mass-Energy Equivalence",
+      "D": "Newton's Second Law"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2093",
+    "question_text": "Which of the following statements about semiconductors is correct?",
+    "options": {
+      "A": "They have very low resistivity.",
+      "B": "They have very high resistivity.",
+      "C": "Their resistivity lies between conductors and insulators.",
+      "D": "Their resistivity increases with temperature."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2094",
+    "question_text": "The critical angle for a medium is the angle of incidence for which the angle of refraction is:",
+    "options": {
+      "A": "0 degrees",
+      "B": "45 degrees",
+      "C": "90 degrees",
+      "D": "180 degrees"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2095",
+    "question_text": "The average kinetic energy of gas molecules is directly proportional to its:",
+    "options": {
+      "A": "Pressure",
+      "B": "Volume",
+      "C": "Absolute temperature",
+      "D": "Density"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2096",
+    "question_text": "Which of the following is true for an object in stable equilibrium?",
+    "options": {
+      "A": "Its potential energy is at a maximum.",
+      "B": "Its potential energy is at a minimum.",
+      "C": "It will move away from its equilibrium position if disturbed.",
+      "D": "Its center of gravity is above its base of support."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2097",
+    "question_text": "What is the SI unit of current density?",
+    "options": {
+      "A": "Ampere",
+      "B": "Coulomb per square meter",
+      "C": "Ampere per square meter",
+      "D": "Ohm-meter"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2098",
+    "question_text": "Which of the following is a direct consequence of the first law of thermodynamics?",
+    "options": {
+      "A": "Entropy of the universe always increases.",
+      "B": "Energy is conserved.",
+      "C": "Heat flows from hot to cold.",
+      "D": "Absolute zero cannot be reached."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2099",
+    "question_text": "According to Snell's Law, n1 sin(theta1) = n2 sin(theta2), where 'n' is the refractive index. This law is related to:",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Diffraction",
+      "D": "Polarization"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2100",
+    "question_text": "The change in momentum of an object is equal to the:",
+    "options": {
+      "A": "Force applied",
+      "B": "Impulse",
+      "C": "Work done",
+      "D": "Power supplied"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2101",
+    "question_text": "The equation for the period of a simple pendulum is given by:",
+    "options": {
+      "A": "T = 2π√(g/L)",
+      "B": "T = 2π√(L/g)",
+      "C": "T = 1/f",
+      "D": "T = 2πLg"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2102",
+    "question_text": "In a nuclear reactor, what is the role of the coolant?",
+    "options": {
+      "A": "To slow down neutrons.",
+      "B": "To absorb excess neutrons.",
+      "C": "To remove heat produced by fission.",
+      "D": "To increase the rate of reaction."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2103",
+    "question_text": "The property of a material to regain its original shape after deformation is called:",
+    "options": {
+      "A": "Plasticity",
+      "B": "Ductility",
+      "C": "Elasticity",
+      "D": "Brittleness"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2104",
+    "question_text": "What is the force per unit area acting on a submerged object in a fluid called?",
+    "options": {
+      "A": "Buoyant force",
+      "B": "Pressure",
+      "C": "Tension",
+      "D": "Viscosity"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2105",
+    "question_text": "What is the phenomenon responsible for the blue color of the sky and red color of the sun at sunrise/sunset?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Scattering",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2106",
+    "question_text": "An object is placed at the center of curvature of a concave mirror. Where is the image formed?",
+    "options": {
+      "A": "At the focus",
+      "B": "Beyond the center of curvature",
+      "C": "At the center of curvature",
+      "D": "Between the focus and pole"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2107",
+    "question_text": "A person can see distant objects clearly but not nearby objects. What is this eye defect and how is it corrected?",
+    "options": {
+      "A": "Myopia, concave lens",
+      "B": "Myopia, convex lens",
+      "C": "Hypermetropia, concave lens",
+      "D": "Hypermetropia, convex lens"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2108",
+    "question_text": "What is the principle behind the working of a Loudspeaker?",
+    "options": {
+      "A": "Electromagnetic induction",
+      "B": "Motor effect (force on current in magnetic field)",
+      "C": "Generation of sound by vibration",
+      "D": "Reflection of sound"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2109",
+    "question_text": "Why do stars appear to twinkle?",
+    "options": {
+      "A": "Due to their rapid movement.",
+      "B": "Due to absorption of light by the atmosphere.",
+      "C": "Due to atmospheric refraction of light.",
+      "D": "Due to emission of light pulses."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2110",
+    "question_text": "What is the principle behind the working of a galvanometer?",
+    "options": {
+      "A": "Heating effect of current",
+      "B": "Chemical effect of current",
+      "C": "Magnetic effect of current",
+      "D": "Photoelectric effect"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2111",
+    "question_text": "A convex mirror has a focal length of 15 cm. An object is placed 30 cm from the mirror. Where is the image formed?",
+    "options": {
+      "A": "10 cm behind the mirror",
+      "B": "10 cm in front of the mirror",
+      "C": "30 cm behind the mirror",
+      "D": "30 cm in front of the mirror"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2112",
+    "question_text": "What is the main advantage of AC over DC for long-distance power transmission?",
+    "options": {
+      "A": "It is safer to use.",
+      "B": "It can be easily stepped up or down using transformers.",
+      "C": "It does not lose energy.",
+      "D": "It can be stored in batteries."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2113",
+    "question_text": "Why are optical fibers transmit light with minimal loss?",
+    "options": {
+      "A": "Due to reflection",
+      "B": "Due to refraction",
+      "C": "Due to total internal reflection",
+      "D": "Due to dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2114",
+    "question_text": "What is the purpose of carbon brushes in a DC motor?",
+    "options": {
+      "A": "To provide magnetic field",
+      "B": "To reverse the direction of current in the coil",
+      "C": "To collect current from the commutator",
+      "D": "To increase the speed of rotation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2115",
+    "question_text": "What is the phenomenon of heating of a current-carrying conductor due to its resistance called?",
+    "options": {
+      "A": "Magnetic effect",
+      "B": "Chemical effect",
+      "C": "Heating effect (Joule heating)",
+      "D": "Electromagnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2116",
+    "question_text": "What is the primary factor determining the color of an object that reflects light?",
+    "options": {
+      "A": "The color of light absorbed by the object.",
+      "B": "The color of light emitted by the object.",
+      "C": "The color of light reflected by the object.",
+      "D": "The intensity of light falling on it."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2117",
+    "question_text": "What is the role of an optical center in a lens?",
+    "options": {
+      "A": "Where parallel rays converge.",
+      "B": "Where light rays pass undeviated.",
+      "C": "Where image is always formed.",
+      "D": "The center of curvature."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2118",
+    "question_text": "What is the maximum number of images formed by two plane mirrors inclined at an angle of 90 degrees?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2119",
+    "question_text": "Why do convex mirrors always form virtual and erect images?",
+    "options": {
+      "A": "They converge light rays.",
+      "B": "They diverge light rays.",
+      "C": "They are spherical.",
+      "D": "They absorb light."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2120",
+    "question_text": "What happens to the resistance of a semiconductor as temperature increases?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "First increases, then decreases"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2121",
+    "question_text": "Which of the following colors of light has the longest wavelength in the visible spectrum?",
+    "options": {
+      "A": "Blue",
+      "B": "Green",
+      "C": "Yellow",
+      "D": "Red"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2122",
+    "question_text": "What is the common use of a step-down transformer?",
+    "options": {
+      "A": "To transmit power over long distances.",
+      "B": "To increase voltage for industrial use.",
+      "C": "To decrease voltage for household appliances.",
+      "D": "To convert AC to DC."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2123",
+    "question_text": "Which of the following is not a property of magnetic field lines?",
+    "options": {
+      "A": "They form closed loops.",
+      "B": "They never intersect each other.",
+      "C": "They originate from North pole and end at South pole outside magnet.",
+      "D": "They indicate the direction of magnetic force on a North pole."
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2124",
+    "question_text": "What type of reflection occurs when light strikes a rough surface?",
+    "options": {
+      "A": "Specular reflection",
+      "B": "Diffuse reflection",
+      "C": "Total internal reflection",
+      "D": "Refraction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2125",
+    "question_text": "What is the condition for total internal reflection to occur?",
+    "options": {
+      "A": "Light travels from denser to rarer medium.",
+      "B": "Light travels from rarer to denser medium.",
+      "C": "Angle of incidence is less than critical angle.",
+      "D": "Angle of incidence is equal to angle of refraction."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2126",
+    "question_text": "What is the effect of increasing the number of turns in the coil of an electromagnet?",
+    "options": {
+      "A": "Decreases magnetic field strength",
+      "B": "Increases magnetic field strength",
+      "C": "No effect on magnetic field",
+      "D": "Changes polarity"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2127",
+    "question_text": "Which principle explains why an object immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced?",
+    "options": {
+      "A": "Pascal's Principle",
+      "B": "Bernoulli's Principle",
+      "C": "Archimedes' Principle",
+      "D": "Newton's Third Law"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (Class 10)"
+  },
+  {
+    "question_id": "PHY2128",
+    "question_text": "What is the magnification produced by a plane mirror?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "Depends on object distance"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2129",
+    "question_text": "What is the reason for power loss in transmission lines?",
+    "options": {
+      "A": "Resistance of wires",
+      "B": "Capacitance of wires",
+      "C": "Inductance of wires",
+      "D": "Magnetic field of wires"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2130",
+    "question_text": "Why do different colors of light bend at different angles when passing through a prism?",
+    "options": {
+      "A": "Different speeds in vacuum",
+      "B": "Different frequencies in vacuum",
+      "C": "Different refractive indices for different colors in the prism material",
+      "D": "Different intensities"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2131",
+    "question_text": "Which of the following statements is true for a nuclear fusion reaction?",
+    "options": {
+      "A": "Heavy nuclei split into lighter ones.",
+      "B": "Light nuclei combine to form heavier ones.",
+      "C": "It generates less energy than fission.",
+      "D": "It occurs easily at room temperature."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2132",
+    "question_text": "Which of the following is an example of an inelastic collision?",
+    "options": {
+      "A": "Two billiard balls colliding.",
+      "B": "A bullet embedding in a wooden block.",
+      "C": "An atom emitting a photon.",
+      "D": "A ball bouncing off a wall."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2133",
+    "question_text": "A block is pulled along a horizontal surface with a constant velocity. Which of the following statements about the forces acting on it is true?",
+    "options": {
+      "A": "Net force is zero.",
+      "B": "Frictional force is greater than applied force.",
+      "C": "Normal force is greater than weight.",
+      "D": "Applied force is greater than frictional force."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2134",
+    "question_text": "The phenomenon of light bending around the edges of an obstacle is called:",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Diffraction",
+      "D": "Interference"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2135",
+    "question_text": "Which of the following phenomena best explains why we can hear sound around corners, but not see light around corners?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Diffraction",
+      "D": "Interference"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2136",
+    "question_text": "What is the SI unit of force?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Pascal"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2137",
+    "question_text": "What is the SI unit of electric current?",
+    "options": {
+      "A": "Volt",
+      "B": "Ohm",
+      "C": "Ampere",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2138",
+    "question_text": "Which of the following is a scalar quantity?",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Mass",
+      "D": "Force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2139",
+    "question_text": "What type of mirror is used in headlights of a car?",
+    "options": {
+      "A": "Plane mirror",
+      "B": "Convex mirror",
+      "C": "Concave mirror",
+      "D": "Cylindrical mirror"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2140",
+    "question_text": "The energy possessed by a body due to its motion is called:",
+    "options": {
+      "A": "Potential energy",
+      "B": "Kinetic energy",
+      "C": "Chemical energy",
+      "D": "Thermal energy"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2141",
+    "question_text": "What is the SI unit of power?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Newton",
+      "D": "Volt"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2142",
+    "question_text": "What is the SI unit of resistance?",
+    "options": {
+      "A": "Volt",
+      "B": "Ampere",
+      "C": "Ohm",
+      "D": "Siemens"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2143",
+    "question_text": "What is the SI unit of pressure?",
+    "options": {
+      "A": "Newton",
+      "B": "Joule",
+      "C": "Pascal",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2144",
+    "question_text": "What type of wave is light?",
+    "options": {
+      "A": "Longitudinal wave",
+      "B": "Transverse mechanical wave",
+      "C": "Transverse electromagnetic wave",
+      "D": "Sound wave"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2145",
+    "question_text": "What is the SI unit of work?",
+    "options": {
+      "A": "Watt",
+      "B": "Newton",
+      "C": "Joule",
+      "D": "Pascal"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2146",
+    "question_text": "Which of the following is a non-contact force?",
+    "options": {
+      "A": "Frictional force",
+      "B": "Normal force",
+      "C": "Gravitational force",
+      "D": "Tension force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2147",
+    "question_text": "What is the SI unit of electric potential energy?",
+    "options": {
+      "A": "Volt",
+      "B": "Coulomb",
+      "C": "Joule",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2148",
+    "question_text": "What is the SI unit of thermodynamic temperature?",
+    "options": {
+      "A": "Celsius",
+      "B": "Fahrenheit",
+      "C": "Kelvin",
+      "D": "Joule"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2149",
+    "question_text": "What is the purpose of using a moderator in a nuclear reactor?",
+    "options": {
+      "A": "To absorb neutrons",
+      "B": "To speed up neutrons",
+      "C": "To slow down neutrons",
+      "D": "To produce more fission"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2150",
+    "question_text": "What is the minimum energy required to remove an electron from the surface of a metal in the photoelectric effect?",
+    "options": {
+      "A": "Kinetic energy",
+      "B": "Potential energy",
+      "C": "Work function",
+      "D": "Ionization energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2151",
+    "question_text": "What is the SI unit of activity of a radioactive substance?",
+    "options": {
+      "A": "Curie",
+      "B": "Roentgen",
+      "C": "Becquerel",
+      "D": "Sievert"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2152",
+    "question_text": "What is the SI unit of electric dipole moment?",
+    "options": {
+      "A": "C m",
+      "B": "C / m",
+      "C": "N m",
+      "D": "J C"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2153",
+    "question_text": "According to Huygens' principle, every point on a wavefront acts as a source of:",
+    "options": {
+      "A": "Particles",
+      "B": "Secondary wavelets",
+      "C": "Primary waves",
+      "D": "Energy only"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2154",
+    "question_text": "What is the SI unit of gravitational potential?",
+    "options": {
+      "A": "Newton",
+      "B": "Joule per kilogram",
+      "C": "Watt",
+      "D": "Pascal"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2155",
+    "question_text": "What is the SI unit of electric flux?",
+    "options": {
+      "A": "Volt-meter",
+      "B": "Coulomb per meter",
+      "C": "Newton per Coulomb",
+      "D": "Joule per Coulomb"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2156",
+    "question_text": "What is the SI unit of specific heat capacity?",
+    "options": {
+      "A": "Joule per Kelvin",
+      "B": "Joule per kilogram",
+      "C": "Joule per kilogram Kelvin",
+      "D": "Calorie per gram"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2157",
+    "question_text": "What is the SI unit of luminous intensity?",
+    "options": {
+      "A": "Lumen",
+      "B": "Lux",
+      "C": "Candela",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2158",
+    "question_text": "What is the SI unit of electric displacement field?",
+    "options": {
+      "A": "Coulomb",
+      "B": "Coulomb per meter",
+      "C": "Coulomb per square meter",
+      "D": "Volt meter"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2159",
+    "question_text": "What is the SI unit of viscosity?",
+    "options": {
+      "A": "Pascal-second",
+      "B": "Newton-meter",
+      "C": "Joule per second",
+      "D": "Kilogram per cubic meter"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2160",
+    "question_text": "What is the phenomenon of light splitting into its constituent colors when passing through a prism?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Dispersion",
+      "D": "Diffraction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2161",
+    "question_text": "The change in direction of light as it passes from one medium to another is called:",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Dispersion",
+      "D": "Scattering"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2162",
+    "question_text": "The law of conservation of energy states that energy can neither be created nor destroyed, but it can be:",
+    "options": {
+      "A": "Converted from one form to another",
+      "B": "Increased indefinitely",
+      "C": "Reduced to zero",
+      "D": "Only stored"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2163",
+    "question_text": "What does Ohm's Law state?",
+    "options": {
+      "A": "V = IR",
+      "B": "P = VI",
+      "C": "E = mc^2",
+      "D": "F = ma"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2164",
+    "question_text": "What is the SI unit of magnetic flux?",
+    "options": {
+      "A": "Tesla",
+      "B": "Weber",
+      "C": "Henry",
+      "D": "Farad"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2165",
+    "question_text": "The force of attraction or repulsion between two charged particles is described by:",
+    "options": {
+      "A": "Newton's Law",
+      "B": "Coulomb's Law",
+      "C": "Ohm's Law",
+      "D": "Faraday's Law"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2166",
+    "question_text": "What is the SI unit of magnetic field strength (B-field)?",
+    "options": {
+      "A": "Gauss",
+      "B": "Weber",
+      "C": "Tesla",
+      "D": "Henry"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2167",
+    "question_text": "Which of the following describes an isothermal process?",
+    "options": {
+      "A": "Constant pressure",
+      "B": "Constant volume",
+      "C": "Constant temperature",
+      "D": "No heat exchange"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2168",
+    "question_text": "What is the SI unit of self-inductance?",
+    "options": {
+      "A": "Weber",
+      "B": "Tesla",
+      "C": "Henry",
+      "D": "Farad"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2169",
+    "question_text": "The internal energy of an ideal gas depends only on its:",
+    "options": {
+      "A": "Pressure",
+      "B": "Volume",
+      "C": "Temperature",
+      "D": "Entropy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2170",
+    "question_text": "Which of the following describes the behavior of an ideal gas at low pressure and high temperature?",
+    "options": {
+      "A": "It behaves like a real gas.",
+      "B": "It deviates significantly from ideal gas behavior.",
+      "C": "It closely approximates ideal gas behavior.",
+      "D": "It liquefies easily."
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2171",
+    "question_text": "When a p-n junction is forward biased, what happens to the depletion region?",
+    "options": {
+      "A": "Widens",
+      "B": "Narrows",
+      "C": "Disappears",
+      "D": "Remains unchanged"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2172",
+    "question_text": "Which phenomenon demonstrates the particle nature of light?",
+    "options": {
+      "A": "Interference",
+      "B": "Diffraction",
+      "C": "Photoelectric effect",
+      "D": "Polarization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2173",
+    "question_text": "What is the SI unit of magnetic permeability?",
+    "options": {
+      "A": "Henry per meter",
+      "B": "Tesla meter",
+      "C": "Weber",
+      "D": "Farad per meter"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2174",
+    "question_text": "The energy-mass relation E = mc^2 is a cornerstone of which theory?",
+    "options": {
+      "A": "Newtonian mechanics",
+      "B": "Thermodynamics",
+      "C": "Special relativity",
+      "D": "Quantum mechanics"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2175",
+    "question_text": "The value of acceleration due to gravity (g) at the center of the Earth is:",
+    "options": {
+      "A": "Maximum",
+      "B": "Minimum",
+      "C": "Zero",
+      "D": "Same as on surface"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2176",
+    "question_text": "The work done by a conservative force depends only on:",
+    "options": {
+      "A": "The path taken",
+      "B": "The initial and final positions",
+      "C": "The velocity of the object",
+      "D": "The acceleration of the object"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2177",
+    "question_text": "The phenomenon of radioactivity is associated with:",
+    "options": {
+      "A": "Electron shells",
+      "B": "Atomic nucleus",
+      "C": "Chemical bonds",
+      "D": "Molecular structure"
+    },
+    "correct_answer": "B",
+    "difficulty": "Basic",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2178",
+    "question_text": "What is the SI unit of current density?",
+    "options": {
+      "A": "Ampere",
+      "B": "Coulomb per square meter",
+      "C": "Ampere per square meter",
+      "D": "Ohm-meter"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2179",
+    "question_text": "What is the maximum power transferred from a source to a load when the load resistance is equal to the source resistance? (For DC circuits)",
+    "options": {
+      "A": "Minimum power",
+      "B": "Maximum power",
+      "C": "Zero power",
+      "D": "Half the maximum power"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2180",
+    "question_text": "What is the SI unit of magnetic field strength (H-field)?",
+    "options": {
+      "A": "Tesla",
+      "B": "Ampere per meter",
+      "C": "Weber",
+      "D": "Newton per Ampere meter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2181",
+    "question_text": "What is the relationship between electric field (E) and electric potential (V)?",
+    "options": {
+      "A": "E = -dV/dr",
+      "B": "V = -dE/dr",
+      "C": "E = V/r",
+      "D": "V = E r"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2182",
+    "question_text": "In Young's Double Slit Experiment, what happens to the fringe width if the distance between the slits is increased?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2183",
+    "question_text": "Which of the following represents the correct order of increasing wavelength for the electromagnetic spectrum?",
+    "options": {
+      "A": "Gamma, X-ray, UV, Visible, IR, Microwave, Radio",
+      "B": "Radio, Microwave, IR, Visible, UV, X-ray, Gamma",
+      "C": "Visible, UV, IR, X-ray, Gamma, Microwave, Radio",
+      "D": "UV, X-ray, Gamma, Visible, IR, Microwave, Radio"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2184",
+    "question_text": "What is the de Broglie wavelength of a particle with momentum 'p'?",
+    "options": {
+      "A": "h / p",
+      "B": "p / h",
+      "C": "E / p",
+      "D": "p * c"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2185",
+    "question_text": "What is the purpose of laminating the core of a transformer?",
+    "options": {
+      "A": "To increase primary voltage",
+      "B": "To reduce eddy current loss",
+      "C": "To increase magnetic flux",
+      "D": "To provide insulation"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2186",
+    "question_text": "If a sound wave travels from air to water, which property remains unchanged?",
+    "options": {
+      "A": "Speed",
+      "B": "Wavelength",
+      "C": "Frequency",
+      "D": "Amplitude"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2187",
+    "question_text": "What is the critical temperature for a gas?",
+    "options": {
+      "A": "Temperature below which it can be liquefied by pressure alone.",
+      "B": "Temperature at which it freezes.",
+      "C": "Temperature at which its volume is zero.",
+      "D": "Temperature at which it becomes a plasma."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2188",
+    "question_text": "Which of the following is true for the decay of a radioactive substance?",
+    "options": {
+      "A": "It is a chemical process.",
+      "B": "It depends on temperature and pressure.",
+      "C": "It is a random and spontaneous nuclear process.",
+      "D": "Its half-life depends on initial amount."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2189",
+    "question_text": "Which optical instrument produces a real, inverted, and magnified image for observing distant objects?",
+    "options": {
+      "A": "Simple microscope",
+      "B": "Compound microscope",
+      "C": "Astronomical telescope",
+      "D": "Galilean telescope"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2190",
+    "question_text": "What is the SI unit of intensity of an electromagnetic wave?",
+    "options": {
+      "A": "Watt",
+      "B": "Joule per square meter",
+      "C": "Watt per square meter",
+      "D": "Tesla"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2191",
+    "question_text": "According to Wien's Displacement Law, as the temperature of a blackbody increases, the peak wavelength of its emitted radiation:",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2192",
+    "question_text": "The phenomenon of beats in sound is a result of:",
+    "options": {
+      "A": "Diffraction",
+      "B": "Reflection",
+      "C": "Interference of waves with slightly different frequencies",
+      "D": "Polarization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2193",
+    "question_text": "What is the force on a charge 'q' moving with velocity 'v' in an electric field 'E' and magnetic field 'B'?",
+    "options": {
+      "A": "qE",
+      "B": "q(v x B)",
+      "C": "qE + q(v x B)",
+      "D": "q(E + B)"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2194",
+    "question_text": "Which of the following is true for an object executing uniform circular motion?",
+    "options": {
+      "A": "Its velocity is constant.",
+      "B": "Its acceleration is zero.",
+      "C": "Its kinetic energy is constant.",
+      "D": "Its angular momentum is not conserved."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2195",
+    "question_text": "What is the effective power of three bulbs rated 60W, 60W, and 60W connected in series across a constant voltage supply?",
+    "options": {
+      "A": "180W",
+      "B": "60W",
+      "C": "20W",
+      "D": "Cannot be determined without voltage"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2196",
+    "question_text": "A wire of resistance R is cut into three equal parts and these parts are connected in parallel. What is the equivalent resistance of the combination?",
+    "options": {
+      "A": "R",
+      "B": "R/3",
+      "C": "R/9",
+      "D": "3R"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2197",
+    "question_text": "If the length of a simple pendulum is doubled, what happens to its period of oscillation?",
+    "options": {
+      "A": "Doubles",
+      "B": "Halves",
+      "C": "Increases by square root of 2",
+      "D": "Decreases by square root of 2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2198",
+    "question_text": "The terminal velocity of a small sphere falling through a viscous fluid is reached when:",
+    "options": {
+      "A": "Gravitational force > drag force",
+      "B": "Gravitational force < drag force",
+      "C": "Gravitational force = drag force + buoyant force",
+      "D": "Gravitational force = drag force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2199",
+    "question_text": "Which of the following is true for an ideal gas undergoing a cyclic process?",
+    "options": {
+      "A": "Net work done is zero.",
+      "B": "Net heat exchange is zero.",
+      "C": "Change in internal energy is zero.",
+      "D": "Entropy always increases."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2200",
+    "question_text": "The resolving power of a microscope depends on:",
+    "options": {
+      "A": "The focal length of the objective lens",
+      "B": "The wavelength of light used and numerical aperture",
+      "C": "The magnification of the eyepiece",
+      "D": "The length of the microscope tube"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2201",
+    "question_text": "Which of the following is true for the current in a purely capacitive AC circuit?",
+    "options": {
+      "A": "Current is in phase with voltage.",
+      "B": "Current leads voltage by 90 degrees.",
+      "C": "Current lags voltage by 90 degrees.",
+      "D": "Current is zero."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2202",
+    "question_text": "The Doppler effect for sound waves is observed when there is a relative motion between the:",
+    "options": {
+      "A": "Source and medium",
+      "B": "Observer and medium",
+      "C": "Source and observer",
+      "D": "Wavelength and frequency"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2203",
+    "question_text": "What is the reason for power loss in an electrical transformer?",
+    "options": {
+      "A": "Resistance of windings, eddy currents, hysteresis",
+      "B": "Magnetic field leakage only",
+      "C": "Voltage drop only",
+      "D": "Frequency changes"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2204",
+    "question_text": "Which of the following is true for a blackbody radiation curve?",
+    "options": {
+      "A": "Peak wavelength increases with temperature.",
+      "B": "Total energy radiated decreases with temperature.",
+      "C": "The curve shifts towards shorter wavelengths as temperature increases.",
+      "D": "It depends on the material of the body."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2205",
+    "question_text": "In thermodynamics, what does a negative value of work done by the system imply?",
+    "options": {
+      "A": "Work is done on the system.",
+      "B": "Heat is absorbed by the system.",
+      "C": "Internal energy decreases.",
+      "D": "The system expands."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2206",
+    "question_text": "The efficiency of a Carnot engine cannot be 100% because:",
+    "options": {
+      "A": "Heat is always lost to surroundings.",
+      "B": "It is an irreversible process.",
+      "C": "The cold reservoir cannot be at absolute zero.",
+      "D": "Friction is always present."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2207",
+    "question_text": "Which of the following represents the kinetic energy per unit volume of an ideal gas?",
+    "options": {
+      "A": "1/2 rho v^2",
+      "B": "3/2 kT",
+      "C": "3/2 PV",
+      "D": "3/2 P"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2208",
+    "question_text": "The equation of continuity in fluid dynamics is based on the principle of conservation of:",
+    "options": {
+      "A": "Energy",
+      "B": "Momentum",
+      "C": "Mass",
+      "D": "Volume"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2209",
+    "question_text": "What is the phenomenon where a dielectric material gets polarized when placed in an electric field?",
+    "options": {
+      "A": "Conduction",
+      "B": "Dielectric breakdown",
+      "C": "Dielectric polarization",
+      "D": "Magnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2210",
+    "question_text": "What is the phenomenon called when a light ray passes from a denser medium to a rarer medium, and the angle of incidence is greater than the critical angle?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Total Internal Reflection",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2211",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2212",
+    "question_text": "Why is a transformer not suitable for DC current?",
+    "options": {
+      "A": "DC has no frequency.",
+      "B": "DC does not produce a changing magnetic flux.",
+      "C": "DC causes overheating.",
+      "D": "DC has high voltage."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2213",
+    "question_text": "What is the role of a control rod in a nuclear reactor?",
+    "options": {
+      "A": "To accelerate neutrons",
+      "B": "To absorb excess neutrons",
+      "C": "To produce heat",
+      "D": "To reflect neutrons"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2214",
+    "question_text": "What is the focal length of a plano-convex lens immersed in a liquid with refractive index equal to that of the lens material?",
+    "options": {
+      "A": "Zero",
+      "B": "Infinity",
+      "C": "Negative",
+      "D": "Positive but shorter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2215",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2216",
+    "question_text": "The minimum energy required to break a nucleus into its constituent nucleons is called:",
+    "options": {
+      "A": "Ionization energy",
+      "B": "Excitation energy",
+      "C": "Binding energy",
+      "D": "Activation energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2217",
+    "question_text": "In a p-n junction diode, what is the barrier potential (or cut-in voltage) for silicon?",
+    "options": {
+      "A": "0.2 V",
+      "B": "0.3 V",
+      "C": "0.7 V",
+      "D": "1.1 V"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2218",
+    "question_text": "Which of the following materials is typically used as a control rod in a nuclear reactor due to its high neutron absorption cross-section?",
+    "options": {
+      "A": "Uranium",
+      "B": "Graphite",
+      "C": "Cadmium or Boron",
+      "D": "Heavy water"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2219",
+    "question_text": "The force per unit area acting on a submerged object in a fluid is called:",
+    "options": {
+      "A": "Buoyant force",
+      "B": "Pressure",
+      "C": "Tension",
+      "D": "Viscosity"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2220",
+    "question_text": "What is the purpose of using soft iron core in a transformer?",
+    "options": {
+      "A": "To increase primary current",
+      "B": "To decrease eddy currents",
+      "C": "To concentrate magnetic flux",
+      "D": "To insulate windings"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2221",
+    "question_text": "Which of the following statements is true for a thermodynamic process where internal energy increases and no heat is supplied?",
+    "options": {
+      "A": "Work is done by the system.",
+      "B": "Work is done on the system.",
+      "C": "Process is adiabatic.",
+      "D": "Process is isothermal."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2222",
+    "question_text": "According to Lenz's law, the direction of the induced current is such that it opposes the cause producing it. This law is a consequence of the conservation of:",
+    "options": {
+      "A": "Charge",
+      "B": "Energy",
+      "C": "Momentum",
+      "D": "Mass"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2223",
+    "question_text": "If the temperature of the cold reservoir of a Carnot engine is decreased, what happens to its efficiency?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2224",
+    "question_text": "The escape velocity from the surface of a planet depends on:",
+    "options": {
+      "A": "Mass of the object only",
+      "B": "Mass of the planet and its radius",
+      "C": "Density of the planet only",
+      "D": "Atmospheric pressure"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2225",
+    "question_text": "According to Bohr's model, the angular momentum of an electron in a hydrogen atom is quantized. What is its value in the nth orbit?",
+    "options": {
+      "A": "nh / (2 pi)",
+      "B": "n h",
+      "C": "nh / pi",
+      "D": "2 pi h / n"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2226",
+    "question_text": "What is the uncertainty principle in quantum mechanics?",
+    "options": {
+      "A": "It's impossible to know a particle's exact position.",
+      "B": "It's impossible to know a particle's exact momentum.",
+      "C": "It's impossible to simultaneously know a particle's exact position and momentum.",
+      "D": "Energy is always conserved."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2227",
+    "question_text": "Which of the following is true for beta decay?",
+    "options": {
+      "A": "Atomic number decreases by 1, mass number unchanged.",
+      "B": "Atomic number increases by 1, mass number unchanged.",
+      "C": "Atomic number decreases by 2, mass number decreases by 4.",
+      "D": "Atomic number unchanged, mass number decreases by 1."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2228",
+    "question_text": "The energy levels of electrons in an atom are discrete. This is explained by:",
+    "options": {
+      "A": "Newton's Laws",
+      "B": "Maxwell's Equations",
+      "C": "Quantum mechanics",
+      "D": "Classical mechanics"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2229",
+    "question_text": "The binding energy per nucleon is highest for which element, indicating maximum stability?",
+    "options": {
+      "A": "Hydrogen",
+      "B": "Helium",
+      "C": "Iron",
+      "D": "Uranium"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2230",
+    "question_text": "A gas expands adiabatically. What happens to its internal energy?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Can increase or decrease depending on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2231",
+    "question_text": "Which of the following is true for an irreversible process?",
+    "options": {
+      "A": "Entropy change of the system is zero.",
+      "B": "Entropy change of the universe is zero.",
+      "C": "Entropy change of the universe is positive.",
+      "D": "Entropy change of the universe is negative."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2232",
+    "question_text": "What is the SI unit of coefficient of performance of a refrigerator?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Kelvin",
+      "D": "No unit"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2233",
+    "question_text": "Which of the following is true for an object in stable equilibrium?",
+    "options": {
+      "A": "Its potential energy is at a maximum.",
+      "B": "Its potential energy is at a minimum.",
+      "C": "It will move away from its equilibrium position if disturbed.",
+      "D": "Its center of gravity is above its base of support."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2234",
+    "question_text": "Which of the following statements is true for the current in a purely capacitive AC circuit?",
+    "options": {
+      "A": "Current is in phase with voltage.",
+      "B": "Current leads voltage by 90 degrees.",
+      "C": "Current lags voltage by 90 degrees.",
+      "D": "Current is zero."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2235",
+    "question_text": "Which of the following represents the kinetic energy per unit volume of an ideal gas?",
+    "options": {
+      "A": "1/2 rho v^2",
+      "B": "3/2 kT",
+      "C": "3/2 PV",
+      "D": "3/2 P"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2236",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2237",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2238",
+    "question_text": "In a p-n junction diode, what is the barrier potential (or cut-in voltage) for silicon?",
+    "options": {
+      "A": "0.2 V",
+      "B": "0.3 V",
+      "C": "0.7 V",
+      "D": "1.1 V"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2239",
+    "question_text": "What is the purpose of using soft iron core in a transformer?",
+    "options": {
+      "A": "To increase primary current",
+      "B": "To decrease eddy currents",
+      "C": "To concentrate magnetic flux",
+      "D": "To insulate windings"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2240",
+    "question_text": "Which of the following is true for beta decay?",
+    "options": {
+      "A": "Atomic number decreases by 1, mass number unchanged.",
+      "B": "Atomic number increases by 1, mass number unchanged.",
+      "C": "Atomic number decreases by 2, mass number decreases by 4.",
+      "D": "Atomic number unchanged, mass number decreases by 1."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2241",
+    "question_text": "The energy levels of electrons in an atom are discrete. This is explained by:",
+    "options": {
+      "A": "Newton's Laws",
+      "B": "Maxwell's Equations",
+      "C": "Quantum mechanics",
+      "D": "Classical mechanics"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2242",
+    "question_text": "Which of the following statements about semiconductors is correct?",
+    "options": {
+      "A": "They have very low resistivity.",
+      "B": "They have very high resistivity.",
+      "C": "Their resistivity lies between conductors and insulators.",
+      "D": "Their resistivity increases with temperature."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2243",
+    "question_text": "The critical angle for a medium is the angle of incidence for which the angle of refraction is:",
+    "options": {
+      "A": "0 degrees",
+      "B": "45 degrees",
+      "C": "90 degrees",
+      "D": "180 degrees"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2244",
+    "question_text": "The average kinetic energy of gas molecules is directly proportional to its:",
+    "options": {
+      "A": "Pressure",
+      "B": "Volume",
+      "C": "Absolute temperature",
+      "D": "Density"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2245",
+    "question_text": "The phenomenon of electromagnetic induction is used in:",
+    "options": {
+      "A": "Electric motors",
+      "B": "Electric generators",
+      "C": "Electric heaters",
+      "D": "Electric bulbs"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2246",
+    "question_text": "What is the SI unit of intensity of an electromagnetic wave?",
+    "options": {
+      "A": "Watt",
+      "B": "Joule per square meter",
+      "C": "Watt per square meter",
+      "D": "Tesla"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2247",
+    "question_text": "The Doppler effect for sound waves is observed when there is a relative motion between the:",
+    "options": {
+      "A": "Source and medium",
+      "B": "Observer and medium",
+      "C": "Source and observer",
+      "D": "Wavelength and frequency"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2248",
+    "question_text": "What is the reason for power loss in an electrical transformer?",
+    "options": {
+      "A": "Resistance of windings, eddy currents, hysteresis",
+      "B": "Magnetic field leakage only",
+      "C": "Voltage drop only",
+      "D": "Frequency changes"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2249",
+    "question_text": "Which of the following is true for a blackbody radiation curve?",
+    "options": {
+      "A": "Peak wavelength increases with temperature.",
+      "B": "Total energy radiated decreases with temperature.",
+      "C": "The curve shifts towards shorter wavelengths as temperature increases.",
+      "D": "It depends on the material of the body."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2250",
+    "question_text": "In thermodynamics, what does a negative value of work done by the system imply?",
+    "options": {
+      "A": "Work is done on the system.",
+      "B": "Heat is absorbed by the system.",
+      "C": "Internal energy decreases.",
+      "D": "The system expands."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2251",
+    "question_text": "The efficiency of a Carnot engine cannot be 100% because:",
+    "options": {
+      "A": "Heat is always lost to surroundings.",
+      "B": "It is an irreversible process.",
+      "C": "The cold reservoir cannot be at absolute zero.",
+      "D": "Friction is always present."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2252",
+    "question_text": "Which of the following represents the kinetic energy per unit volume of an ideal gas?",
+    "options": {
+      "A": "1/2 rho v^2",
+      "B": "3/2 kT",
+      "C": "3/2 PV",
+      "D": "3/2 P"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2253",
+    "question_text": "The equation of continuity in fluid dynamics is based on the principle of conservation of:",
+    "options": {
+      "A": "Energy",
+      "B": "Momentum",
+      "C": "Mass",
+      "D": "Volume"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2254",
+    "question_text": "What is the phenomenon where a dielectric material gets polarized when placed in an electric field?",
+    "options": {
+      "A": "Conduction",
+      "B": "Dielectric breakdown",
+      "C": "Dielectric polarization",
+      "D": "Magnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2255",
+    "question_text": "What is the phenomenon called when a light ray passes from a denser medium to a rarer medium, and the angle of incidence is greater than the critical angle?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Total Internal Reflection",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2256",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2257",
+    "question_text": "Why is a transformer not suitable for DC current?",
+    "options": {
+      "A": "DC has no frequency.",
+      "B": "DC does not produce a changing magnetic flux.",
+      "C": "DC causes overheating.",
+      "D": "DC has high voltage."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2258",
+    "question_text": "What is the role of a control rod in a nuclear reactor?",
+    "options": {
+      "A": "To accelerate neutrons",
+      "B": "To absorb excess neutrons",
+      "C": "To produce heat",
+      "D": "To reflect neutrons"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2259",
+    "question_text": "What is the focal length of a plano-convex lens immersed in a liquid with refractive index equal to that of the lens material?",
+    "options": {
+      "A": "Zero",
+      "B": "Infinity",
+      "C": "Negative",
+      "D": "Positive but shorter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2260",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2261",
+    "question_text": "The minimum energy required to break a nucleus into its constituent nucleons is called:",
+    "options": {
+      "A": "Ionization energy",
+      "B": "Excitation energy",
+      "C": "Binding energy",
+      "D": "Activation energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2262",
+    "question_text": "What is the critical temperature for a gas?",
+    "options": {
+      "A": "Temperature below which it can be liquefied by pressure alone.",
+      "B": "Temperature at which it freezes.",
+      "C": "Temperature at which its volume is zero.",
+      "D": "Temperature at which it becomes a plasma."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2263",
+    "question_text": "What is the SI unit of coefficient of performance of a refrigerator?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Kelvin",
+      "D": "No unit"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2264",
+    "question_text": "Which of the following is true for objects in free fall (neglecting air resistance)?",
+    "options": {
+      "A": "Their speed is constant.",
+      "B": "Their acceleration is constant.",
+      "C": "Their velocity is constant.",
+      "D": "Their momentum is constant."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2265",
+    "question_text": "What is the condition for a body to be in rotational equilibrium?",
+    "options": {
+      "A": "Net force is zero",
+      "B": "Net torque is zero",
+      "C": "Net force and net torque are zero",
+      "D": "Velocity is constant"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2266",
+    "question_text": "According to Kirchhoff's Current Law, the sum of currents entering a junction is equal to the sum of currents leaving it. This law is based on the conservation of:",
+    "options": {
+      "A": "Energy",
+      "B": "Charge",
+      "C": "Momentum",
+      "D": "Mass"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2267",
+    "question_text": "Why does a gas expand when heated at constant pressure?",
+    "options": {
+      "A": "Molecules become heavier",
+      "B": "Intermolecular forces increase",
+      "C": "Kinetic energy of molecules increases, causing more collisions and larger volume",
+      "D": "Temperature gradient increases"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2268",
+    "question_text": "What is the direction of the force on a current-carrying conductor placed in a magnetic field?",
+    "options": {
+      "A": "Parallel to current",
+      "B": "Parallel to magnetic field",
+      "C": "Perpendicular to both current and magnetic field",
+      "D": "Opposite to current"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2269",
+    "question_text": "Which of the following phenomena is evidence for the wave nature of light?",
+    "options": {
+      "A": "Photoelectric effect",
+      "B": "Compton effect",
+      "C": "Interference",
+      "D": "Blackbody radiation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2270",
+    "question_text": "What is the main property of a ferromagnetic material?",
+    "options": {
+      "A": "Weakly repelled by magnetic fields",
+      "B": "Weakly attracted by magnetic fields",
+      "C": "Strongly attracted by magnetic fields and can retain magnetism",
+      "D": "Does not interact with magnetic fields"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2271",
+    "question_text": "A body undergoes uniform circular motion. Which of the following remains constant?",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Speed",
+      "D": "Displacement"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2272",
+    "question_text": "Which of the following is NOT an application of total internal reflection?",
+    "options": {
+      "A": "Optical fibers",
+      "B": "Mirage",
+      "C": "Periscope",
+      "D": "Endoscope"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2273",
+    "question_text": "The energy of a system in a state of thermal equilibrium is described by its:",
+    "options": {
+      "A": "Temperature only",
+      "B": "Pressure only",
+      "C": "Internal energy",
+      "D": "Entropy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2274",
+    "question_text": "Which type of lens is generally used in microscopes and telescopes?",
+    "options": {
+      "A": "Concave lenses",
+      "B": "Convex lenses",
+      "C": "Cylindrical lenses",
+      "D": "Plano-concave lenses"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2275",
+    "question_text": "The principle of superposition of waves states that:",
+    "options": {
+      "A": "Waves always travel in straight lines.",
+      "B": "Two waves cannot occupy the same space.",
+      "C": "The resultant displacement at any point is the vector sum of the displacements due to individual waves.",
+      "D": "Waves lose energy when they overlap."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2276",
+    "question_text": "The phenomenon of electromagnetic induction is used in:",
+    "options": {
+      "A": "Electric motors",
+      "B": "Electric generators",
+      "C": "Electric heaters",
+      "D": "Electric bulbs"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2277",
+    "question_text": "What is the SI unit of magnetic potential energy?",
+    "options": {
+      "A": "Tesla",
+      "B": "Weber",
+      "C": "Joule",
+      "D": "Henry"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2278",
+    "question_text": "In a nuclear reaction, the total mass of the products is slightly less than the total mass of the reactants. This mass difference is converted into energy according to:",
+    "options": {
+      "A": "Law of Conservation of Momentum",
+      "B": "Law of Conservation of Energy",
+      "C": "Einstein's Mass-Energy Equivalence",
+      "D": "Newton's Second Law"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2279",
+    "question_text": "Which of the following statements about semiconductors is correct?",
+    "options": {
+      "A": "They have very low resistivity.",
+      "B": "They have very high resistivity.",
+      "C": "Their resistivity lies between conductors and insulators.",
+      "D": "Their resistivity increases with temperature."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2280",
+    "question_text": "The critical angle for a medium is the angle of incidence for which the angle of refraction is:",
+    "options": {
+      "A": "0 degrees",
+      "B": "45 degrees",
+      "C": "90 degrees",
+      "D": "180 degrees"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2281",
+    "question_text": "The average kinetic energy of gas molecules is directly proportional to its:",
+    "options": {
+      "A": "Pressure",
+      "B": "Volume",
+      "C": "Absolute temperature",
+      "D": "Density"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2282",
+    "question_text": "The resolving power of a microscope depends on:",
+    "options": {
+      "A": "The focal length of the objective lens",
+      "B": "The wavelength of light used and numerical aperture",
+      "C": "The magnification of the eyepiece",
+      "D": "The length of the microscope tube"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2283",
+    "question_text": "Which of the following is true for the current in a purely capacitive AC circuit?",
+    "options": {
+      "A": "Current is in phase with voltage.",
+      "B": "Current leads voltage by 90 degrees.",
+      "C": "Current lags voltage by 90 degrees.",
+      "D": "Current is zero."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2284",
+    "question_text": "The Doppler effect for sound waves is observed when there is a relative motion between the:",
+    "options": {
+      "A": "Source and medium",
+      "B": "Observer and medium",
+      "C": "Source and observer",
+      "D": "Wavelength and frequency"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2285",
+    "question_text": "What is the reason for power loss in an electrical transformer?",
+    "options": {
+      "A": "Resistance of windings, eddy currents, hysteresis",
+      "B": "Magnetic field leakage only",
+      "C": "Voltage drop only",
+      "D": "Frequency changes"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2286",
+    "question_text": "Which of the following is true for a blackbody radiation curve?",
+    "options": {
+      "A": "Peak wavelength increases with temperature.",
+      "B": "Total energy radiated decreases with temperature.",
+      "C": "The curve shifts towards shorter wavelengths as temperature increases.",
+      "D": "It depends on the material of the body."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2287",
+    "question_text": "In thermodynamics, what does a negative value of work done by the system imply?",
+    "options": {
+      "A": "Work is done on the system.",
+      "B": "Heat is absorbed by the system.",
+      "C": "Internal energy decreases.",
+      "D": "The system expands."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2288",
+    "question_text": "The efficiency of a Carnot engine cannot be 100% because:",
+    "options": {
+      "A": "Heat is always lost to surroundings.",
+      "B": "It is an irreversible process.",
+      "C": "The cold reservoir cannot be at absolute zero.",
+      "D": "Friction is always present."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2289",
+    "question_text": "Which of the following represents the kinetic energy per unit volume of an ideal gas?",
+    "options": {
+      "A": "1/2 rho v^2",
+      "B": "3/2 kT",
+      "C": "3/2 PV",
+      "D": "3/2 P"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2290",
+    "question_text": "The equation of continuity in fluid dynamics is based on the principle of conservation of:",
+    "options": {
+      "A": "Energy",
+      "B": "Momentum",
+      "C": "Mass",
+      "D": "Volume"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2291",
+    "question_text": "What is the phenomenon where a dielectric material gets polarized when placed in an electric field?",
+    "options": {
+      "A": "Conduction",
+      "B": "Dielectric breakdown",
+      "C": "Dielectric polarization",
+      "D": "Magnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2292",
+    "question_text": "What is the phenomenon called when a light ray passes from a denser medium to a rarer medium, and the angle of incidence is greater than the critical angle?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Total Internal Reflection",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2293",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2294",
+    "question_text": "Why is a transformer not suitable for DC current?",
+    "options": {
+      "A": "DC has no frequency.",
+      "B": "DC does not produce a changing magnetic flux.",
+      "C": "DC causes overheating.",
+      "D": "DC has high voltage."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2295",
+    "question_text": "What is the role of a control rod in a nuclear reactor?",
+    "options": {
+      "A": "To accelerate neutrons",
+      "B": "To absorb excess neutrons",
+      "C": "To produce heat",
+      "D": "To reflect neutrons"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2296",
+    "question_text": "What is the focal length of a plano-convex lens immersed in a liquid with refractive index equal to that of the lens material?",
+    "options": {
+      "A": "Zero",
+      "B": "Infinity",
+      "C": "Negative",
+      "D": "Positive but shorter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2297",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2298",
+    "question_text": "The minimum energy required to break a nucleus into its constituent nucleons is called:",
+    "options": {
+      "A": "Ionization energy",
+      "B": "Excitation energy",
+      "C": "Binding energy",
+      "D": "Activation energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2299",
+    "question_text": "What is the critical temperature for a gas?",
+    "options": {
+      "A": "Temperature below which it can be liquefied by pressure alone.",
+      "B": "Temperature at which it freezes.",
+      "C": "Temperature at which its volume is zero.",
+      "D": "Temperature at which it becomes a plasma."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2300",
+    "question_text": "What is the SI unit of coefficient of performance of a refrigerator?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Kelvin",
+      "D": "No unit"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2301",
+    "question_text": "An object is placed at the center of curvature of a concave mirror. Where is the image formed?",
+    "options": {
+      "A": "At the focus",
+      "B": "Beyond the center of curvature",
+      "C": "At the center of curvature",
+      "D": "Between the focus and pole"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2302",
+    "question_text": "A person can see distant objects clearly but not nearby objects. What is this eye defect and how is it corrected?",
+    "options": {
+      "A": "Myopia, concave lens",
+      "B": "Myopia, convex lens",
+      "C": "Hypermetropia, concave lens",
+      "D": "Hypermetropia, convex lens"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2303",
+    "question_text": "What is the principle behind the working of a Loudspeaker?",
+    "options": {
+      "A": "Electromagnetic induction",
+      "B": "Motor effect (force on current in magnetic field)",
+      "C": "Generation of sound by vibration",
+      "D": "Reflection of sound"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2304",
+    "question_text": "Why do stars appear to twinkle?",
+    "options": {
+      "A": "Due to their rapid movement.",
+      "B": "Due to absorption of light by the atmosphere.",
+      "C": "Due to atmospheric refraction of light.",
+      "D": "Due to emission of light pulses."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2305",
+    "question_text": "What is the principle behind the working of a galvanometer?",
+    "options": {
+      "A": "Heating effect of current",
+      "B": "Chemical effect of current",
+      "C": "Magnetic effect of current",
+      "D": "Photoelectric effect"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2306",
+    "question_text": "A convex mirror has a focal length of 15 cm. An object is placed 30 cm from the mirror. Where is the image formed?",
+    "options": {
+      "A": "10 cm behind the mirror",
+      "B": "10 cm in front of the mirror",
+      "C": "30 cm behind the mirror",
+      "D": "30 cm in front of the mirror"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2307",
+    "question_text": "What is the main advantage of AC over DC for long-distance power transmission?",
+    "options": {
+      "A": "It is safer to use.",
+      "B": "It can be easily stepped up or down using transformers.",
+      "C": "It does not lose energy.",
+      "D": "It can be stored in batteries."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2308",
+    "question_text": "Why are optical fibers transmit light with minimal loss?",
+    "options": {
+      "A": "Due to reflection",
+      "B": "Due to refraction",
+      "C": "Due to total internal reflection",
+      "D": "Due to dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2309",
+    "question_text": "What is the purpose of carbon brushes in a DC motor?",
+    "options": {
+      "A": "To provide magnetic field",
+      "B": "To reverse the direction of current in the coil",
+      "C": "To collect current from the commutator",
+      "D": "To increase the speed of rotation"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2310",
+    "question_text": "What is the phenomenon of heating of a current-carrying conductor due to its resistance called?",
+    "options": {
+      "A": "Magnetic effect",
+      "B": "Chemical effect",
+      "C": "Heating effect (Joule heating)",
+      "D": "Electromagnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2311",
+    "question_text": "What is the primary factor determining the color of an object that reflects light?",
+    "options": {
+      "A": "The color of light absorbed by the object.",
+      "B": "The color of light emitted by the object.",
+      "C": "The color of light reflected by the object.",
+      "D": "The intensity of light falling on it."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2312",
+    "question_text": "What is the role of an optical center in a lens?",
+    "options": {
+      "A": "Where parallel rays converge.",
+      "B": "Where light rays pass undeviated.",
+      "C": "Where image is always formed.",
+      "D": "The center of curvature."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2313",
+    "question_text": "What is the maximum number of images formed by two plane mirrors inclined at an angle of 90 degrees?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2314",
+    "question_text": "Why do convex mirrors always form virtual and erect images?",
+    "options": {
+      "A": "They converge light rays.",
+      "B": "They diverge light rays.",
+      "C": "They are spherical.",
+      "D": "They absorb light."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2315",
+    "question_text": "Which of the following colors of light has the longest wavelength in the visible spectrum?",
+    "options": {
+      "A": "Blue",
+      "B": "Green",
+      "C": "Yellow",
+      "D": "Red"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2316",
+    "question_text": "What is the common use of a step-down transformer?",
+    "options": {
+      "A": "To transmit power over long distances.",
+      "B": "To increase voltage for industrial use.",
+      "C": "To decrease voltage for household appliances.",
+      "D": "To convert AC to DC."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2317",
+    "question_text": "Which of the following is not a property of magnetic field lines?",
+    "options": {
+      "A": "They form closed loops.",
+      "B": "They never intersect each other.",
+      "C": "They originate from North pole and end at South pole outside magnet.",
+      "D": "They indicate the direction of magnetic force on a North pole."
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2318",
+    "question_text": "What type of reflection occurs when light strikes a rough surface?",
+    "options": {
+      "A": "Specular reflection",
+      "B": "Diffuse reflection",
+      "C": "Total internal reflection",
+      "D": "Refraction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2319",
+    "question_text": "What is the condition for total internal reflection to occur?",
+    "options": {
+      "A": "Light travels from denser to rarer medium.",
+      "B": "Light travels from rarer to denser medium.",
+      "C": "Angle of incidence is less than critical angle.",
+      "D": "Angle of incidence is equal to angle of refraction."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2320",
+    "question_text": "What is the effect of increasing the number of turns in the coil of an electromagnet?",
+    "options": {
+      "A": "Decreases magnetic field strength",
+      "B": "Increases magnetic field strength",
+      "C": "No effect on magnetic field",
+      "D": "Changes polarity"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2321",
+    "question_text": "Which principle explains why an object immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced?",
+    "options": {
+      "A": "Pascal's Principle",
+      "B": "Bernoulli's Principle",
+      "C": "Archimedes' Principle",
+      "D": "Newton's Third Law"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (Class 10)"
+  },
+  {
+    "question_id": "PHY2322",
+    "question_text": "What is the magnification produced by a plane mirror?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "-1",
+      "D": "Depends on object distance"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2323",
+    "question_text": "What is the reason for power loss in transmission lines?",
+    "options": {
+      "A": "Resistance of wires",
+      "B": "Capacitance of wires",
+      "C": "Inductance of wires",
+      "D": "Magnetic field of wires"
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2324",
+    "question_text": "Why do different colors of light bend at different angles when passing through a prism?",
+    "options": {
+      "A": "Different speeds in vacuum",
+      "B": "Different frequencies in vacuum",
+      "C": "Different refractive indices for different colors in the prism material",
+      "D": "Different intensities"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2325",
+    "question_text": "Which of the following is true for an irreversible process?",
+    "options": {
+      "A": "Entropy change of the system is zero.",
+      "B": "Entropy change of the universe is zero.",
+      "C": "Entropy change of the universe is positive.",
+      "D": "Entropy change of the universe is negative."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2326",
+    "question_text": "In a series LCR circuit, when is resonance achieved?",
+    "options": {
+      "A": "Inductive reactance > Capacitive reactance",
+      "B": "Inductive reactance < Capacitive reactance",
+      "C": "Inductive reactance = Capacitive reactance",
+      "D": "Resistance is zero"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2327",
+    "question_text": "A bulb rated 100W, 220V is connected to a 110V supply. Assuming its resistance is constant, what is the power consumed?",
+    "options": {
+      "A": "100 W",
+      "B": "50 W",
+      "C": "25 W",
+      "D": "200 W"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2328",
+    "question_text": "What is the relationship between the RMS value and peak value of an AC voltage?",
+    "options": {
+      "A": "V_rms = V_peak",
+      "B": "V_rms = V_peak / sqrt(2)",
+      "C": "V_rms = V_peak * sqrt(2)",
+      "D": "V_rms = V_peak / 2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2329",
+    "question_text": "What is the maximum number of electrons that can be accommodated in a subshell with azimuthal quantum number l = 2?",
+    "options": {
+      "A": "2",
+      "B": "6",
+      "C": "10",
+      "D": "14"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2330",
+    "question_text": "The binding energy per nucleon is highest for which element, indicating maximum stability?",
+    "options": {
+      "A": "Hydrogen",
+      "B": "Helium",
+      "C": "Iron",
+      "D": "Uranium"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2331",
+    "question_text": "A wire of length L and resistance R is stretched uniformly to length 2L. What is its new resistance?",
+    "options": {
+      "A": "R",
+      "B": "2R",
+      "C": "4R",
+      "D": "R/2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2332",
+    "question_text": "The phenomenon of superimposition of two or more light waves to produce a resultant wave of greater, lower, or zero amplitude is called:",
+    "options": {
+      "A": "Diffraction",
+      "B": "Polarization",
+      "C": "Interference",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2333",
+    "question_text": "The half-life of a radioactive isotope is 10 days. After 30 days, what fraction of the original sample remains?",
+    "options": {
+      "A": "1/2",
+      "B": "1/4",
+      "C": "1/8",
+      "D": "1/16"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2334",
+    "question_text": "Which of the following is true for an object in stable equilibrium?",
+    "options": {
+      "A": "Its potential energy is at a maximum.",
+      "B": "Its potential energy is at a minimum.",
+      "C": "It will move away from its equilibrium position if disturbed.",
+      "D": "Its center of gravity is above its base of support."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2335",
+    "question_text": "What is the force on a charge 'q' moving with velocity 'v' in an electric field 'E' and magnetic field 'B'?",
+    "options": {
+      "A": "qE",
+      "B": "q(v x B)",
+      "C": "qE + q(v x B)",
+      "D": "q(E + B)"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2336",
+    "question_text": "Which of the following statements is true for a thermodynamic process where internal energy increases and no heat is supplied?",
+    "options": {
+      "A": "Work is done by the system.",
+      "B": "Work is done on the system.",
+      "C": "Process is adiabatic.",
+      "D": "Process is isothermal."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2337",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2338",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2339",
+    "question_text": "What is the critical temperature for a gas?",
+    "options": {
+      "A": "Temperature below which it can be liquefied by pressure alone.",
+      "B": "Temperature at which it freezes.",
+      "C": "Temperature at which its volume is zero.",
+      "D": "Temperature at which it becomes a plasma."
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2340",
+    "question_text": "Which of the following is true for an object executing uniform circular motion?",
+    "options": {
+      "A": "Its velocity is constant.",
+      "B": "Its acceleration is zero.",
+      "C": "Its kinetic energy is constant.",
+      "D": "Its angular momentum is not conserved."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2341",
+    "question_text": "If the length of a simple pendulum is doubled, what happens to its period of oscillation?",
+    "options": {
+      "A": "Doubles",
+      "B": "Halves",
+      "C": "Increases by square root of 2",
+      "D": "Decreases by square root of 2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2342",
+    "question_text": "The terminal velocity of a small sphere falling through a viscous fluid is reached when:",
+    "options": {
+      "A": "Gravitational force > drag force",
+      "B": "Gravitational force < drag force",
+      "C": "Gravitational force = drag force + buoyant force",
+      "D": "Gravitational force = drag force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2343",
+    "question_text": "Which of the following is true for an ideal gas undergoing a cyclic process?",
+    "options": {
+      "A": "Net work done is zero.",
+      "B": "Net heat exchange is zero.",
+      "C": "Change in internal energy is zero.",
+      "D": "Entropy always increases."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2344",
+    "question_text": "The resolving power of a microscope depends on:",
+    "options": {
+      "A": "The focal length of the objective lens",
+      "B": "The wavelength of light used and numerical aperture",
+      "C": "The magnification of the eyepiece",
+      "D": "The length of the microscope tube"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2345",
+    "question_text": "Which of the following is true for the current in a purely capacitive AC circuit?",
+    "options": {
+      "A": "Current is in phase with voltage.",
+      "B": "Current leads voltage by 90 degrees.",
+      "C": "Current lags voltage by 90 degrees.",
+      "D": "Current is zero."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2346",
+    "question_text": "The Doppler effect for sound waves is observed when there is a relative motion between the:",
+    "options": {
+      "A": "Source and medium",
+      "B": "Observer and medium",
+      "C": "Source and observer",
+      "D": "Wavelength and frequency"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2347",
+    "question_text": "What is the reason for power loss in an electrical transformer?",
+    "options": {
+      "A": "Resistance of windings, eddy currents, hysteresis",
+      "B": "Magnetic field leakage only",
+      "C": "Voltage drop only",
+      "D": "Frequency changes"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2348",
+    "question_text": "Which of the following is true for a blackbody radiation curve?",
+    "options": {
+      "A": "Peak wavelength increases with temperature.",
+      "B": "Total energy radiated decreases with temperature.",
+      "C": "The curve shifts towards shorter wavelengths as temperature increases.",
+      "D": "It depends on the material of the body."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2349",
+    "question_text": "In thermodynamics, what does a negative value of work done by the system imply?",
+    "options": {
+      "A": "Work is done on the system.",
+      "B": "Heat is absorbed by the system.",
+      "C": "Internal energy decreases.",
+      "D": "The system expands."
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2350",
+    "question_text": "The efficiency of a Carnot engine cannot be 100% because:",
+    "options": {
+      "A": "Heat is always lost to surroundings.",
+      "B": "It is an irreversible process.",
+      "C": "The cold reservoir cannot be at absolute zero.",
+      "D": "Friction is always present."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2351",
+    "question_text": "Which of the following represents the kinetic energy per unit volume of an ideal gas?",
+    "options": {
+      "A": "1/2 rho v^2",
+      "B": "3/2 kT",
+      "C": "3/2 PV",
+      "D": "3/2 P"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2352",
+    "question_text": "The equation of continuity in fluid dynamics is based on the principle of conservation of:",
+    "options": {
+      "A": "Energy",
+      "B": "Momentum",
+      "C": "Mass",
+      "D": "Volume"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2353",
+    "question_text": "What is the phenomenon where a dielectric material gets polarized when placed in an electric field?",
+    "options": {
+      "A": "Conduction",
+      "B": "Dielectric breakdown",
+      "C": "Dielectric polarization",
+      "D": "Magnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2354",
+    "question_text": "What is the phenomenon called when a light ray passes from a denser medium to a rarer medium, and the angle of incidence is greater than the critical angle?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Total Internal Reflection",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2355",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2356",
+    "question_text": "Why is a transformer not suitable for DC current?",
+    "options": {
+      "A": "DC has no frequency.",
+      "B": "DC does not produce a changing magnetic flux.",
+      "C": "DC causes overheating.",
+      "D": "DC has high voltage."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2357",
+    "question_text": "What is the role of a control rod in a nuclear reactor?",
+    "options": {
+      "A": "To accelerate neutrons",
+      "B": "To absorb excess neutrons",
+      "C": "To produce heat",
+      "D": "To reflect neutrons"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2358",
+    "question_text": "What is the focal length of a plano-convex lens immersed in a liquid with refractive index equal to that of the lens material?",
+    "options": {
+      "A": "Zero",
+      "B": "Infinity",
+      "C": "Negative",
+      "D": "Positive but shorter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2359",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2360",
+    "question_text": "The minimum energy required to break a nucleus into its constituent nucleons is called:",
+    "options": {
+      "A": "Ionization energy",
+      "B": "Excitation energy",
+      "C": "Binding energy",
+      "D": "Activation energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2361",
+    "question_text": "What is the critical temperature for a gas?",
+    "options": {
+      "A": "Temperature below which it can be liquefied by pressure alone.",
+      "B": "Temperature at which it freezes.",
+      "C": "Temperature at which its volume is zero.",
+      "D": "Temperature at which it becomes a plasma."
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2362",
+    "question_text": "What is the SI unit of coefficient of performance of a refrigerator?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Kelvin",
+      "D": "No unit"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2363",
+    "question_text": "What is the SI unit of electric current?",
+    "options": {
+      "A": "Volt",
+      "B": "Ohm",
+      "C": "Ampere",
+      "D": "Watt"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2364",
+    "question_text": "Which of the following is a scalar quantity?",
+    "options": {
+      "A": "Velocity",
+      "B": "Acceleration",
+      "C": "Mass",
+      "D": "Force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Basic",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2365",
+    "question_text": "What does Ohm's Law state?",
+    "options": {
+      "A": "V = IR",
+      "B": "P = VI",
+      "C": "E = mc^2",
+      "D": "F = ma"
+    },
+    "correct_answer": "A",
+    "difficulty": "Basic",
+    "topic": "Electricity (+2)"
+  },
+
+
+
+
+  
+
+  
+  {
+    "question_id": "PHY2500",
+    "question_text": "What is the phase difference between velocity and acceleration in Simple Harmonic Motion?",
+    "options": {
+      "A": "0",
+      "B": "pi/2",
+      "C": "pi",
+      "D": "2pi"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2501",
+    "question_text": "A heat engine operates between temperatures of 300 K and 500 K. What is its maximum possible efficiency?",
+    "options": {
+      "A": "20%",
+      "B": "40%",
+      "C": "60%",
+      "D": "80%"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2502",
+    "question_text": "A bullet of mass 'm' hits a block of mass 'M' and gets embedded in it. If the initial velocity of the bullet is 'v', what is the final velocity of the combined system?",
+    "options": {
+      "A": "mv / (m + M)",
+      "B": "Mv / (m + M)",
+      "C": "(m + M)v / m",
+      "D": "mv"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2503",
+    "question_text": "Which effect is responsible for the splitting of spectral lines in the presence of an electric field?",
+    "options": {
+      "A": "Zeeman effect",
+      "B": "Stark effect",
+      "C": "Photoelectric effect",
+      "D": "Compton effect"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2504",
+    "question_text": "In a series LCR circuit, when is resonance achieved?",
+    "options": {
+      "A": "Inductive reactance > Capacitive reactance",
+      "B": "Inductive reactance < Capacitive reactance",
+      "C": "Inductive reactance = Capacitive reactance",
+      "D": "Resistance is zero"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2505",
+    "question_text": "What is the de Broglie wavelength of a particle with momentum 'p'?",
+    "options": {
+      "A": "h / p",
+      "B": "p / h",
+      "C": "E / p",
+      "D": "p * c"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2506",
+    "question_text": "A gas expands adiabatically. What happens to its internal energy?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Can increase or decrease depending on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2507",
+    "question_text": "What is the maximum power transferred from a source to a load when the load resistance is equal to the source resistance? (For DC circuits)",
+    "options": {
+      "A": "Minimum power",
+      "B": "Maximum power",
+      "C": "Zero power",
+      "D": "Half the maximum power"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2508",
+    "question_text": "The binding energy per nucleon is highest for which element, indicating maximum stability?",
+    "options": {
+      "A": "Hydrogen",
+      "B": "Helium",
+      "C": "Iron",
+      "D": "Uranium"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2509",
+    "question_text": "In Young's Double Slit Experiment, what happens to the fringe width if the distance between the slits is increased?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2510",
+    "question_text": "What is the SI unit of electric dipole moment?",
+    "options": {
+      "A": "C m",
+      "B": "C / m",
+      "C": "N m",
+      "D": "J C"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2511",
+    "question_text": "A wire of resistance R is cut into three equal parts and these parts are connected in parallel. What is the equivalent resistance of the combination?",
+    "options": {
+      "A": "R",
+      "B": "R/3",
+      "C": "R/9",
+      "D": "3R"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2512",
+    "question_text": "What is the phenomenon responsible for the colored fringes seen in thin films (like soap bubbles or oil on water)?",
+    "options": {
+      "A": "Diffraction",
+      "B": "Polarization",
+      "C": "Interference",
+      "D": "Refraction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2513",
+    "question_text": "Which of the following is true for an irreversible process?",
+    "options": {
+      "A": "Entropy change of the system is zero.",
+      "B": "Entropy change of the universe is zero.",
+      "C": "Entropy change of the universe is positive.",
+      "D": "Entropy change of the universe is negative."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2514",
+    "question_text": "According to Bohr's model, the angular momentum of an electron in a hydrogen atom is quantized. What is its value in the nth orbit?",
+    "options": {
+      "A": "nh / (2 pi)",
+      "B": "n h",
+      "C": "nh / pi",
+      "D": "2 pi h / n"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2515",
+    "question_text": "If the temperature of the cold reservoir of a Carnot engine is decreased, what happens to its efficiency?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2516",
+    "question_text": "If the length of a simple pendulum is doubled, what happens to its period of oscillation?",
+    "options": {
+      "A": "Doubles",
+      "B": "Halves",
+      "C": "Increases by square root of 2",
+      "D": "Decreases by square root of 2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2517",
+    "question_text": "Which of the following processes increases the entropy of a system?",
+    "options": {
+      "A": "Freezing of water",
+      "B": "Condensation of steam",
+      "C": "Melting of ice",
+      "D": "Crystallization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2518",
+    "question_text": "According to Huygens' principle, every point on a wavefront acts as a source of:",
+    "options": {
+      "A": "Particles",
+      "B": "Secondary wavelets",
+      "C": "Primary waves",
+      "D": "Energy only"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2519",
+    "question_text": "What is the SI unit of magnetic permeability?",
+    "options": {
+      "A": "Henry per meter",
+      "B": "Tesla meter",
+      "C": "Weber",
+      "D": "Farad per meter"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2520",
+    "question_text": "The energy levels of electrons in an atom are discrete. This is explained by:",
+    "options": {
+      "A": "Newton's Laws",
+      "B": "Maxwell's Equations",
+      "C": "Quantum mechanics",
+      "D": "Classical mechanics"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2521",
+    "question_text": "What is the relationship between refractive index (n) and critical angle (C) for total internal reflection?",
+    "options": {
+      "A": "n = sin C",
+      "B": "n = 1 / sin C",
+      "C": "n = cos C",
+      "D": "n = 1 / cos C"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2522",
+    "question_text": "The terminal velocity of a small sphere falling through a viscous fluid is reached when:",
+    "options": {
+      "A": "Gravitational force > drag force",
+      "B": "Gravitational force < drag force",
+      "C": "Gravitational force = drag force + buoyant force",
+      "D": "Gravitational force = drag force"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2523",
+    "question_text": "What is the SI unit of magnetic field strength (H-field)?",
+    "options": {
+      "A": "Tesla",
+      "B": "Ampere per meter",
+      "C": "Weber",
+      "D": "Newton per Ampere meter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2524",
+    "question_text": "What is the uncertainty principle in quantum mechanics?",
+    "options": {
+      "A": "It's impossible to know a particle's exact position.",
+      "B": "It's impossible to know a particle's exact momentum.",
+      "C": "It's impossible to simultaneously know a particle's exact position and momentum.",
+      "D": "Energy is always conserved."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2525",
+    "question_text": "The value of acceleration due to gravity (g) at the center of the Earth is:",
+    "options": {
+      "A": "Maximum",
+      "B": "Minimum",
+      "C": "Zero",
+      "D": "Same as on surface"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2526",
+    "question_text": "The energy of a particle executing simple harmonic motion is given by (where A is amplitude, k is force constant):",
+    "options": {
+      "A": "1/2 kA",
+      "B": "1/2 kA^2",
+      "C": "kA",
+      "D": "kA^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+
+
+
+  {
+    "question_id": "PHY2527",
+    "question_text": "According to Lenz's law, the direction of the induced current is such that it opposes the cause producing it. This law is a consequence of the conservation of:",
+    "options": {
+      "A": "Charge",
+      "B": "Energy",
+      "C": "Momentum",
+      "D": "Mass"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2528",
+    "question_text": "What is the relationship between the RMS value and peak value of an AC voltage?",
+    "options": {
+      "A": "V_rms = V_peak",
+      "B": "V_rms = V_peak / sqrt(2)",
+      "C": "V_rms = V_peak * sqrt(2)",
+      "D": "V_rms = V_peak / 2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2529",
+    "question_text": "The equivalent resistance of two resistors connected in parallel is always:",
+    "options": {
+      "A": "Greater than the larger resistor",
+      "B": "Less than the smaller resistor",
+      "C": "Equal to the sum of resistors",
+      "D": "Equal to the product of resistors"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2530",
+    "question_text": "What is the phenomenon of heating of a current-carrying conductor due to its resistance called?",
+    "options": {
+      "A": "Magnetic effect",
+      "B": "Chemical effect",
+      "C": "Heating effect (Joule heating)",
+      "D": "Electromagnetic induction"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2531",
+    "question_text": "The focal length of a plano-convex lens with refractive index 'n' and radius of curvature 'R' is given by:",
+    "options": {
+      "A": "R / (n-1)",
+      "B": "(n-1) / R",
+      "C": "R / n",
+      "D": "n / R"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2532",
+    "question_text": "What is the net force acting on an object in uniform circular motion?",
+    "options": {
+      "A": "Zero",
+      "B": "Tangential to the circle",
+      "C": "Towards the center of the circle (centripetal force)",
+      "D": "Away from the center of the circle"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2533",
+    "question_text": "What is the SI unit of activity of a radioactive substance?",
+    "options": {
+      "A": "Curie",
+      "B": "Roentgen",
+      "C": "Becquerel",
+      "D": "Sievert"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2534",
+    "question_text": "A light ray passes from glass (denser) to air (rarer). If the angle of incidence is greater than the critical angle, what happens?",
+    "options": {
+      "A": "Refraction occurs",
+      "B": "Total internal reflection occurs",
+      "C": "No change in direction",
+      "D": "Dispersion occurs"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2535",
+    "question_text": "Which of the following is true for an ideal gas undergoing a cyclic process?",
+    "options": {
+      "A": "Net work done is zero.",
+      "B": "Net heat exchange is zero.",
+      "C": "Change in internal energy is zero.",
+      "D": "Entropy always increases."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2536",
+    "question_text": "What is the primary factor that determines the loudness of a sound?",
+    "options": {
+      "A": "Frequency",
+      "B": "Wavelength",
+      "C": "Amplitude",
+      "D": "Speed"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Sound (Class 10)"
+  },
+  {
+    "question_id": "PHY2537",
+    "question_text": "Which of the following is true about equipotential surfaces?",
+    "options": {
+      "A": "Electric field lines are parallel to them.",
+      "B": "Work done in moving a charge on them is non-zero.",
+      "C": "Electric field lines are perpendicular to them.",
+      "D": "They always intersect each other."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2538",
+    "question_text": "According to Einstein's mass-energy equivalence principle, mass can be converted into energy using the formula:",
+    "options": {
+      "A": "E = mc",
+      "B": "E = mc^2",
+      "C": "E = mgh",
+      "D": "E = 1/2 mv^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2539",
+    "question_text": "What is the SI unit of magnetic field strength (magnetic flux density)?",
+    "options": {
+      "A": "Gauss",
+      "B": "Oersted",
+      "C": "Tesla",
+      "D": "Weber"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2540",
+    "question_text": "A concave lens always forms what type of image?",
+    "options": {
+      "A": "Real, inverted, magnified",
+      "B": "Virtual, erect, magnified",
+      "C": "Real, inverted, diminished",
+      "D": "Virtual, erect, diminished"
+    },
+    "correct_answer": "D",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2541",
+    "question_text": "If a charged particle is accelerated through a potential difference V, its kinetic energy gained is given by:",
+    "options": {
+      "A": "eV",
+      "B": "1/2 mv^2",
+      "C": "qV",
+      "D": "Both A and C"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2542",
+    "question_text": "What is the SI unit of coefficient of volume expansion?",
+    "options": {
+      "A": "per degree Celsius",
+      "B": "per Kelvin",
+      "C": "meter cubed per Kelvin",
+      "D": "Joule per Kelvin"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2543",
+    "question_text": "Which of the following colors of light has the highest energy per photon?",
+    "options": {
+      "A": "Red",
+      "B": "Green",
+      "C": "Blue",
+      "D": "Violet"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2544",
+    "question_text": "The work done by a conservative force depends only on:",
+    "options": {
+      "A": "The path taken",
+      "B": "The initial and final positions",
+      "C": "The velocity of the object",
+      "D": "The acceleration of the object"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2545",
+    "question_text": "What is the common application of an electromagnet?",
+    "options": {
+      "A": "Permanent magnets",
+      "B": "Electric bells and cranes",
+      "C": "Compasses",
+      "D": "Making static electricity"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2546",
+    "question_text": "The ratio of stress to strain within the elastic limit is known as:",
+    "options": {
+      "A": "Poisson's ratio",
+      "B": "Young's modulus",
+      "C": "Bulk modulus",
+      "D": "Shear modulus"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2547",
+    "question_text": "Why is a transformer not suitable for DC current?",
+    "options": {
+      "A": "DC has no frequency.",
+      "B": "DC does not produce a changing magnetic flux.",
+      "C": "DC causes overheating.",
+      "D": "DC has high voltage."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2548",
+    "question_text": "What is the role of a control rod in a nuclear reactor?",
+    "options": {
+      "A": "To accelerate neutrons",
+      "B": "To absorb excess neutrons",
+      "C": "To produce heat",
+      "D": "To reflect neutrons"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2549",
+    "question_text": "Which of the following statements about real gases is generally true?",
+    "options": {
+      "A": "They always obey ideal gas law.",
+      "B": "They show intermolecular forces and finite molecular volume.",
+      "C": "They cannot be liquefied.",
+      "D": "Their internal energy depends only on temperature."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2550",
+    "question_text": "What is the focal length of a plano-convex lens immersed in a liquid with refractive index equal to that of the lens material?",
+    "options": {
+      "A": "Zero",
+      "B": "Infinity",
+      "C": "Negative",
+      "D": "Positive but shorter"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2551",
+    "question_text": "What is the SI unit of gravitational field intensity?",
+    "options": {
+      "A": "Newton",
+      "B": "Joule per kilogram",
+      "C": "Newton per kilogram",
+      "D": "Watt per kilogram"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2552",
+    "question_text": "Which type of mirror is used as a shaving mirror to see a magnified image of the face?",
+    "options": {
+      "A": "Plane mirror",
+      "B": "Concave mirror",
+      "C": "Convex mirror",
+      "D": "Parabolic mirror"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2553",
+    "question_text": "What is the process of charging an object by bringing a charged object nearby without touching it called?",
+    "options": {
+      "A": "Conduction",
+      "B": "Induction",
+      "C": "Friction",
+      "D": "Grounding"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2554",
+    "question_text": "The work done by a gas during an adiabatic expansion is equal to the:",
+    "options": {
+      "A": "Increase in internal energy",
+      "B": "Decrease in internal energy",
+      "C": "Heat supplied",
+      "D": "Work done on the gas"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2555",
+    "question_text": "What is the relationship between electric field (E) and electric potential (V)?",
+    "options": {
+      "A": "E = -dV/dr",
+      "B": "V = -dE/dr",
+      "C": "E = V/r",
+      "D": "V = E r"
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2556",
+    "question_text": "Which of the following is true for electromagnetic waves?",
+    "options": {
+      "A": "They are longitudinal waves.",
+      "B": "They require a medium to travel.",
+      "C": "They are transverse waves.",
+      "D": "Their speed depends on their frequency."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2557",
+    "question_text": "The escape velocity from the surface of a planet depends on:",
+    "options": {
+      "A": "Mass of the object only",
+      "B": "Mass of the planet and its radius",
+      "C": "Density of the planet only",
+      "D": "Atmospheric pressure"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2558",
+    "question_text": "What type of lens is generally used in microscopes and telescopes?",
+    "options": {
+      "A": "Concave lenses",
+      "B": "Convex lenses",
+      "C": "Cylindrical lenses",
+      "D": "Plano-concave lenses"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2559",
+    "question_text": "The energy stored in an inductor is given by:",
+    "options": {
+      "A": "1/2 LI",
+      "B": "1/2 LI^2",
+      "C": "LI",
+      "D": "L I^2"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2560",
+    "question_text": "Which of the following phenomena best explains why we can hear sound around corners, but not see light around corners?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Diffraction",
+      "D": "Interference"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2561",
+    "question_text": "What is the common term for the emission of electrons from a metal surface when it is heated?",
+    "options": {
+      "A": "Photoelectric emission",
+      "B": "Field emission",
+      "C": "Thermonic emission",
+      "D": "Secondary emission"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2562",
+    "question_text": "The phenomenon of beats in sound is a result of:",
+    "options": {
+      "A": "Diffraction",
+      "B": "Reflection",
+      "C": "Interference of waves with slightly different frequencies",
+      "D": "Polarization"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2563",
+    "question_text": "Why do different colors of light bend at different angles when passing through a prism?",
+    "options": {
+      "A": "Different speeds in vacuum",
+      "B": "Different frequencies in vacuum",
+      "C": "Different refractive indices for different colors in the prism material",
+      "D": "Different intensities"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2564",
+    "question_text": "What is the effective power of three bulbs rated 60W, 60W, and 60W connected in series across a constant voltage supply?",
+    "options": {
+      "A": "180W",
+      "B": "60W",
+      "C": "20W",
+      "D": "Cannot be determined without voltage"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2565",
+    "question_text": "If a body is performing oscillatory motion, its total energy is conserved only if the forces acting on it are:",
+    "options": {
+      "A": "Non-conservative",
+      "B": "Conservative",
+      "C": "External",
+      "D": "Frictional"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2566",
+    "question_text": "Which of the following is true for beta decay?",
+    "options": {
+      "A": "Atomic number decreases by 1, mass number unchanged.",
+      "B": "Atomic number increases by 1, mass number unchanged.",
+      "C": "Atomic number decreases by 2, mass number decreases by 4.",
+      "D": "Atomic number unchanged, mass number decreases by 1."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2567",
+    "question_text": "A wire of length L and resistance R is stretched uniformly to length 2L. What is its new resistance?",
+    "options": {
+      "A": "R",
+      "B": "2R",
+      "C": "4R",
+      "D": "R/2"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2568",
+    "question_text": "What is the main difference between P-type and N-type semiconductors?",
+    "options": {
+      "A": "P-type has more electrons, N-type has more holes.",
+      "B": "P-type has more holes, N-type has more electrons.",
+      "C": "P-type is metallic, N-type is insulating.",
+      "D": "P-type conducts current, N-type does not."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2569",
+    "question_text": "What is the primary factor determining the color of an object that reflects light?",
+    "options": {
+      "A": "The color of light absorbed by the object.",
+      "B": "The color of light emitted by the object.",
+      "C": "The color of light reflected by the object.",
+      "D": "The intensity of light falling on it."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2570",
+    "question_text": "Which of the following statements is true regarding a thermodynamic process where internal energy increases and no heat is supplied?",
+    "options": {
+      "A": "Work is done by the system.",
+      "B": "Work is done on the system.",
+      "C": "Process is adiabatic.",
+      "D": "Process is isothermal."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2571",
+    "question_text": "What is the purpose of using soft iron core in a transformer?",
+    "options": {
+      "A": "To increase primary current",
+      "B": "To decrease eddy currents",
+      "C": "To concentrate magnetic flux",
+      "D": "To insulate windings"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2572",
+    "question_text": "The Doppler effect for sound waves is observed when there is a relative motion between the:",
+    "options": {
+      "A": "Source and medium",
+      "B": "Observer and medium",
+      "C": "Source and observer",
+      "D": "Wavelength and frequency"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2573",
+    "question_text": "What is the maximum number of electrons that can be accommodated in a subshell with azimuthal quantum number l = 2?",
+    "options": {
+      "A": "2",
+      "B": "6",
+      "C": "10",
+      "D": "14"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2574",
+    "question_text": "A block is pulled along a horizontal surface with a constant velocity. Which of the following statements about the forces acting on it is true?",
+    "options": {
+      "A": "Net force is zero.",
+      "B": "Frictional force is greater than applied force.",
+      "C": "Normal force is greater than weight.",
+      "D": "Applied force is greater than frictional force."
+    },
+    "correct_answer": "A",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2575",
+    "question_text": "What is the role of an optical center in a lens?",
+    "options": {
+      "A": "Where parallel rays converge.",
+      "B": "Where light rays pass undeviated.",
+      "C": "Where image is always formed.",
+      "D": "The center of curvature."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2576",
+    "question_text": "Which of the following is an example of an inelastic collision?",
+    "options": {
+      "A": "Two billiard balls colliding.",
+      "B": "A bullet embedding in a wooden block.",
+      "C": "An atom emitting a photon.",
+      "D": "A ball bouncing off a wall."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2577",
+    "question_text": "What is the maximum number of images formed by two plane mirrors inclined at an angle of 90 degrees?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2578",
+    "question_text": "The energy of a system in a state of thermal equilibrium is described by its:",
+    "options": {
+      "A": "Temperature only",
+      "B": "Pressure only",
+      "C": "Internal energy",
+      "D": "Entropy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2579",
+    "question_text": "What is the function of a rheostat in an electrical circuit?",
+    "options": {
+      "A": "To measure current",
+      "B": "To measure voltage",
+      "C": "To vary resistance",
+      "D": "To convert AC to DC"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2580",
+    "question_text": "Which of the following statements is true for a nuclear fusion reaction?",
+    "options": {
+      "A": "Heavy nuclei split into lighter ones.",
+      "B": "Light nuclei combine to form heavier ones.",
+      "C": "It generates less energy than fission.",
+      "D": "It occurs easily at room temperature."
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2581",
+    "question_text": "What is the SI unit of electric potential energy?",
+    "options": {
+      "A": "Volt",
+      "B": "Joule",
+      "C": "Coulomb",
+      "D": "Farad"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (+2)"
+  },
+  {
+    "question_id": "PHY2582",
+    "question_text": "The minimum energy required to break a nucleus into its constituent nucleons is called:",
+    "options": {
+      "A": "Ionization energy",
+      "B": "Excitation energy",
+      "C": "Binding energy",
+      "D": "Activation energy"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2583",
+    "question_text": "Why do convex mirrors always form virtual and erect images?",
+    "options": {
+      "A": "They converge light rays.",
+      "B": "They diverge light rays.",
+      "C": "They are spherical.",
+      "D": "They absorb light."
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Light (Class 10)"
+  },
+  {
+    "question_id": "PHY2584",
+    "question_text": "Which of the following is true for an object moving with constant velocity?",
+    "options": {
+      "A": "Its acceleration is positive.",
+      "B": "Its acceleration is negative.",
+      "C": "Its acceleration is zero.",
+      "D": "Its speed is changing."
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Mechanics (Class 10)"
+  },
+  {
+    "question_id": "PHY2585",
+    "question_text": "In a p-n junction diode, what is the barrier potential (or cut-in voltage) for silicon?",
+    "options": {
+      "A": "0.2 V",
+      "B": "0.3 V",
+      "C": "0.7 V",
+      "D": "1.1 V"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2586",
+    "question_text": "What is the SI unit of magnetic field strength (B-field)?",
+    "options": {
+      "A": "Gauss",
+      "B": "Weber",
+      "C": "Tesla",
+      "D": "Henry"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2587",
+    "question_text": "The quality factor (Q-factor) of a resonant circuit is a measure of its:",
+    "options": {
+      "A": "Resistance",
+      "B": "Selectivity",
+      "C": "Power consumption",
+      "D": "Inductance"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2588",
+    "question_text": "What is the phenomenon responsible for the blue color of the sky and red color of the sun at sunrise/sunset?",
+    "options": {
+      "A": "Reflection",
+      "B": "Refraction",
+      "C": "Scattering",
+      "D": "Dispersion"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2589",
+    "question_text": "What happens to the kinetic energy of gas molecules as the temperature decreases?",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Heat (Class 10)"
+  },
+  {
+    "question_id": "PHY2590",
+    "question_text": "Which of the following is an example of a good electrical insulator?",
+    "options": {
+      "A": "Copper",
+      "B": "Aluminum",
+      "C": "Rubber",
+      "D": "Iron"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2591",
+    "question_text": "The phenomenon of production of current by changing magnetic flux is called:",
+    "options": {
+      "A": "Magnetic induction",
+      "B": "Electromagnetic induction",
+      "C": "Electrostatic induction",
+      "D": "Conduction"
+    },
+    "correct_answer": "B",
+    "difficulty": "Intermediate",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2592",
+    "question_text": "Which of the following is true for an object executing uniform circular motion?",
+    "options": {
+      "A": "Its velocity is constant.",
+      "B": "Its acceleration is zero.",
+      "C": "Its kinetic energy is constant.",
+      "D": "Its angular momentum is not conserved."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2593",
+    "question_text": "What is the SI unit of intensity of an electromagnetic wave?",
+    "options": {
+      "A": "Watt",
+      "B": "Joule per square meter",
+      "C": "Watt per square meter",
+      "D": "Tesla"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2594",
+    "question_text": "According to Wien's Displacement Law, as the temperature of a blackbody increases, the peak wavelength of its emitted radiation:",
+    "options": {
+      "A": "Increases",
+      "B": "Decreases",
+      "C": "Remains constant",
+      "D": "Becomes zero"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2595",
+    "question_text": "What is the purpose of laminating the core of a transformer?",
+    "options": {
+      "A": "To increase primary voltage",
+      "B": "To reduce eddy current loss",
+      "C": "To increase magnetic flux",
+      "D": "To provide insulation"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2596",
+    "question_text": "If a sound wave travels from air to water, which property remains unchanged?",
+    "options": {
+      "A": "Speed",
+      "B": "Wavelength",
+      "C": "Frequency",
+      "D": "Amplitude"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Sound (+2)"
+  },
+  {
+    "question_id": "PHY2597",
+    "question_text": "What is the critical temperature for a gas?",
+    "options": {
+      "A": "Temperature below which it can be liquefied by pressure alone.",
+      "B": "Temperature at which it freezes.",
+      "C": "Temperature at which its volume is zero.",
+      "D": "Temperature at which it becomes a plasma."
+    },
+    "correct_answer": "A",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2598",
+    "question_text": "The unit of electrical energy commonly used for household consumption is:",
+    "options": {
+      "A": "Joule",
+      "B": "Watt-hour",
+      "C": "Kilowatt-hour",
+      "D": "Calorie"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Electricity (Class 10)"
+  },
+  {
+    "question_id": "PHY2599",
+    "question_text": "Which of the following is true for the decay of a radioactive substance?",
+    "options": {
+      "A": "It is a chemical process.",
+      "B": "It depends on temperature and pressure.",
+      "C": "It is a random and spontaneous nuclear process.",
+      "D": "Its half-life depends on initial amount."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2600",
+    "question_text": "What is the SI unit of surface charge density?",
+    "options": {
+      "A": "Coulomb",
+      "B": "Coulomb per meter",
+      "C": "Coulomb per square meter",
+      "D": "Volt per meter"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (+2)"
+  },
+  {
+    "question_id": "PHY2601",
+    "question_text": "The change in momentum of an object is equal to the:",
+    "options": {
+      "A": "Force applied",
+      "B": "Impulse",
+      "C": "Work done",
+      "D": "Power supplied"
+    },
+    "correct_answer": "B",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  },
+  {
+    "question_id": "PHY2602",
+    "question_text": "Which optical instrument produces a real, inverted, and magnified image for observing distant objects?",
+    "options": {
+      "A": "Simple microscope",
+      "B": "Compound microscope",
+      "C": "Astronomical telescope",
+      "D": "Galilean telescope"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Light (+2)"
+  },
+  {
+    "question_id": "PHY2603",
+    "question_text": "What is the SI unit of thermodynamic temperature?",
+    "options": {
+      "A": "Celsius",
+      "B": "Fahrenheit",
+      "C": "Kelvin",
+      "D": "Joule"
+    },
+    "correct_answer": "C",
+    "difficulty": "Intermediate",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2604",
+    "question_text": "Which of the following is not a property of magnetic field lines?",
+    "options": {
+      "A": "They form closed loops.",
+      "B": "They never intersect each other.",
+      "C": "They originate from North pole and end at South pole outside magnet.",
+      "D": "They indicate the direction of magnetic force on a North pole."
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Electricity & Magnetism (Class 10)"
+  },
+  {
+    "question_id": "PHY2605",
+    "question_text": "In a nuclear reactor, what is the role of the coolant?",
+    "options": {
+      "A": "To slow down neutrons.",
+      "B": "To absorb excess neutrons.",
+      "C": "To remove heat produced by fission.",
+      "D": "To increase the rate of reaction."
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Modern Physics (+2)"
+  },
+  {
+    "question_id": "PHY2606",
+    "question_text": "What is the SI unit of coefficient of performance of a refrigerator?",
+    "options": {
+      "A": "Joule",
+      "B": "Watt",
+      "C": "Kelvin",
+      "D": "No unit"
+    },
+    "correct_answer": "D",
+    "difficulty": "Hard",
+    "topic": "Heat (+2)"
+  },
+  {
+    "question_id": "PHY2607",
+    "question_text": "The property of a material to regain its original shape after deformation is called:",
+    "options": {
+      "A": "Plasticity",
+      "B": "Ductility",
+      "C": "Elasticity",
+      "D": "Brittleness"
+    },
+    "correct_answer": "C",
+    "difficulty": "Hard",
+    "topic": "Mechanics (+2)"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

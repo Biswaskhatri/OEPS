@@ -1,0 +1,2829 @@
+[
+  {
+    "question_id": "ENG001",
+    "question_text": "Choose the correct article: ___ apple a day keeps the doctor away.",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG002",
+    "question_text": "Select the correct form of verb: She ___ to school every day.",
+    "options": {
+      "A": "go",
+      "B": "goes",
+      "C": "going",
+      "D": "gone"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG003",
+    "question_text": "Complete the tag question: You are coming, ___?",
+    "options": {
+      "A": "isn't you",
+      "B": "aren't you",
+      "C": "is you",
+      "D": "aren't"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG004",
+    "question_text": "Choose the correct conditional sentence: If it ___, we will cancel the trip.",
+    "options": {
+      "A": "rains",
+      "B": "rain",
+      "C": "rained",
+      "D": "rainning"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG005",
+    "question_text": "Fill in the blank with correct preposition: She is interested ___ music.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "in",
+      "D": "for"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG006",
+    "question_text": "Which of the following words has a stressed syllable on the first syllable?",
+    "options": {
+      "A": "Computer",
+      "B": "Table",
+      "C": "Approve",
+      "D": "Relax"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Stress"
+  },
+  {
+    "question_id": "ENG007",
+    "question_text": "Select the correct subject-verb agreement: The team ___ winning the match.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG008",
+    "question_text": "Choose the active voice of: 'The letter was written by her.'",
+    "options": {
+      "A": "She wrote the letter.",
+      "B": "She is writing the letter.",
+      "C": "She writes the letter.",
+      "D": "She will write the letter."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG009",
+    "question_text": "Select the correct indirect speech for: He said, 'I am tired.'",
+    "options": {
+      "A": "He said he was tired.",
+      "B": "He said he is tired.",
+      "C": "He says he was tired.",
+      "D": "He says he is tired."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG010",
+    "question_text": "Identify the sentence structure: 'She runs every morning.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Sentence Structure"
+  },
+
+  {
+    "question_id": "ENG011",
+    "question_text": "Choose the correct causative verb form: She ___ her car washed every week.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG012",
+    "question_text": "Identify the prefix in the word 'Impossible'.",
+    "options": {
+      "A": "Im-",
+      "B": "Pos-",
+      "C": "Ssi-",
+      "D": "Ble-"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG013",
+    "question_text": "Select the correct pronoun: This is ___ book.",
+    "options": {
+      "A": "my",
+      "B": "mine",
+      "C": "I",
+      "D": "me"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG014",
+    "question_text": "Choose the correct conjunction: I want tea ___ coffee.",
+    "options": {
+      "A": "and",
+      "B": "but",
+      "C": "or",
+      "D": "so"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG015",
+    "question_text": "Choose the word with correct meaning of 'Ambitious'.",
+    "options": {
+      "A": "Lazy",
+      "B": "Determined",
+      "C": "Careless",
+      "D": "Kind"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG016",
+    "question_text": "Which word has rising intonation?",
+    "options": {
+      "A": "Question",
+      "B": "Statement",
+      "C": "Command",
+      "D": "Exclamation"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG017",
+    "question_text": "Fill in the blank with correct article: She bought ___ orange from the market.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG018",
+    "question_text": "Select the correct tense: He ___ (write) a letter now.",
+    "options": {
+      "A": "writes",
+      "B": "is writing",
+      "C": "wrote",
+      "D": "write"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG019",
+    "question_text": "Complete the tag question: She can't swim, ___?",
+    "options": {
+      "A": "can she",
+      "B": "can't she",
+      "C": "does she",
+      "D": "doesn't she"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG020",
+    "question_text": "Choose the correct conditional sentence: If I ___ time, I will help you.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "had",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Conditional Sentence"
+  },
+
+  {
+    "question_id": "ENG021",
+    "question_text": "Fill in the blank with correct preposition: He is good ___ English.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG022",
+    "question_text": "Which word has the stress on the second syllable?",
+    "options": {
+      "A": "Table",
+      "B": "Computer",
+      "C": "Approve",
+      "D": "Happy"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Stress"
+  },
+  {
+    "question_id": "ENG023",
+    "question_text": "Choose the correct subject-verb agreement: The dogs ___ barking.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG024",
+    "question_text": "Choose the passive voice of: 'She writes a letter.'",
+    "options": {
+      "A": "A letter was written by her.",
+      "B": "A letter is written by her.",
+      "C": "A letter will be written by her.",
+      "D": "A letter is being written by her."
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG025",
+    "question_text": "Select the correct direct speech for: He said he was tired.",
+    "options": {
+      "A": "He said, 'I am tired.'",
+      "B": "He said, 'I was tired.'",
+      "C": "He said, 'He is tired.'",
+      "D": "He said, 'He was tired.'"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG026",
+    "question_text": "Identify the sentence type: 'Because it rained, we stayed inside.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG027",
+    "question_text": "Choose the correct causative verb: He ___ his house painted last month.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had",
+      "D": "having"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG028",
+    "question_text": "Identify the suffix in the word 'happiness'.",
+    "options": {
+      "A": "-ness",
+      "B": "hap-",
+      "C": "pi-",
+      "D": "ness-"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG029",
+    "question_text": "Select the correct pronoun: ___ is your book?",
+    "options": {
+      "A": "Who",
+      "B": "Whose",
+      "C": "Whom",
+      "D": "Which"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG030",
+    "question_text": "Choose the conjunction: He was tired ___ he kept working.",
+    "options": {
+      "A": "so",
+      "B": "but",
+      "C": "and",
+      "D": "or"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG031",
+    "question_text": "Choose the meaning of the word 'Benevolent'.",
+    "options": {
+      "A": "Kind",
+      "B": "Cruel",
+      "C": "Lazy",
+      "D": "Rude"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG032",
+    "question_text": "Which sentence has falling intonation?",
+    "options": {
+      "A": "Command",
+      "B": "Question",
+      "C": "Surprise",
+      "D": "Uncertainty"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG033",
+    "question_text": "Choose the correct article: He is ___ honest man.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG034",
+    "question_text": "Select the correct tense: They ___ (play) football every Sunday.",
+    "options": {
+      "A": "plays",
+      "B": "play",
+      "C": "playing",
+      "D": "played"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG035",
+    "question_text": "Complete the tag question: It is cold today, ___?",
+    "options": {
+      "A": "isn't it",
+      "B": "doesn't it",
+      "C": "is it",
+      "D": "does it"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG036",
+    "question_text": "Choose the correct conditional sentence: If I ___ rich, I would travel the world.",
+    "options": {
+      "A": "am",
+      "B": "were",
+      "C": "was",
+      "D": "will be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG037",
+    "question_text": "Fill in the blank with correct preposition: The cat is hiding ___ the table.",
+    "options": {
+      "A": "under",
+      "B": "above",
+      "C": "on",
+      "D": "beside"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG038",
+    "question_text": "Which word has the stress on the first syllable?",
+    "options": {
+      "A": "Elephant",
+      "B": "Balloon",
+      "C": "Include",
+      "D": "About"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Stress"
+  },
+  {
+    "question_id": "ENG039",
+    "question_text": "Select the correct subject-verb agreement: The children ___ playing.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG040",
+    "question_text": "Choose the active voice of: 'The homework was done by him.'",
+    "options": {
+      "A": "He did the homework.",
+      "B": "He does the homework.",
+      "C": "He is doing the homework.",
+      "D": "He will do the homework."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG041",
+    "question_text": "Select the correct indirect speech for: She said, 'I am hungry.'",
+    "options": {
+      "A": "She said she was hungry.",
+      "B": "She said she is hungry.",
+      "C": "She says she was hungry.",
+      "D": "She says she is hungry."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG042",
+    "question_text": "Identify the sentence structure: 'John and Mary went to the market.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG043",
+    "question_text": "Choose the correct causative verb form: I ___ my hair cut yesterday.",
+    "options": {
+      "A": "have",
+      "B": "had",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG044",
+    "question_text": "Identify the prefix in the word 'unhappy'.",
+    "options": {
+      "A": "un-",
+      "B": "hap-",
+      "C": "py-",
+      "D": "happy"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG045",
+    "question_text": "Select the correct pronoun: ___ gave me the book?",
+    "options": {
+      "A": "Who",
+      "B": "Whom",
+      "C": "Whose",
+      "D": "Which"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG046",
+    "question_text": "Choose the conjunction: I was tired ___ I continued working.",
+    "options": {
+      "A": "but",
+      "B": "so",
+      "C": "and",
+      "D": "or"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG047",
+    "question_text": "Choose the meaning of the word 'Generous'.",
+    "options": {
+      "A": "Stingy",
+      "B": "Kind",
+      "C": "Lazy",
+      "D": "Greedy"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG048",
+    "question_text": "Which sentence has a rising intonation?",
+    "options": {
+      "A": "Yes/No Question",
+      "B": "Statement",
+      "C": "Command",
+      "D": "Exclamation"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG049",
+    "question_text": "Fill in the blank with correct article: He is ___ university student.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG050",
+    "question_text": "Select the correct tense: They ___ (eat) lunch now.",
+    "options": {
+      "A": "eat",
+      "B": "are eating",
+      "C": "ate",
+      "D": "eating"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Basic",
+    "topic": "Use of Tense"
+  },
+
+
+
+
+
+
+  
+  {
+    "question_id": "ENG051",
+    "question_text": "Choose the correct article: I have never seen ___ eagle up close.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG052",
+    "question_text": "Identify the correct tense: She ___ to school every day.",
+    "options": {
+      "A": "go",
+      "B": "going",
+      "C": "goes",
+      "D": "gone"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG053",
+    "question_text": "Choose the correct tag question: She is coming, ___?",
+    "options": {
+      "A": "isn't she",
+      "B": "doesn't she",
+      "C": "aren't she",
+      "D": "didn't she"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG054",
+    "question_text": "Select the correct conditional sentence: If I ___ rich, I would travel the world.",
+    "options": {
+      "A": "am",
+      "B": "were",
+      "C": "was",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG055",
+    "question_text": "Which preposition correctly completes the sentence? She is good ___ math.",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG056",
+    "question_text": "Which word has the stress on the second syllable?",
+    "options": {
+      "A": "Forgot",
+      "B": "Teacher",
+      "C": "Mobile",
+      "D": "Table"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG057",
+    "question_text": "Identify the correct subject-verb agreement: Neither of the boys ___ coming.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG058",
+    "question_text": "Change to active voice: The letter was sent by him.",
+    "options": {
+      "A": "He sent the letter.",
+      "B": "He sends the letter.",
+      "C": "He is sending the letter.",
+      "D": "He has sent the letter."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG059",
+    "question_text": "Choose the correct indirect speech: He said, 'I will come tomorrow.'",
+    "options": {
+      "A": "He said he would come tomorrow.",
+      "B": "He said he will come tomorrow.",
+      "C": "He said he would come the next day.",
+      "D": "He said he will come the next day."
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG060",
+    "question_text": "Identify the sentence structure: 'Although it was raining, we went out.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG061",
+    "question_text": "Select the correct causative verb form: She ___ her house cleaned yesterday.",
+    "options": {
+      "A": "had",
+      "B": "has",
+      "C": "have",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG062",
+    "question_text": "Identify the suffix in the word 'happiness'.",
+    "options": {
+      "A": "-ness",
+      "B": "-hap",
+      "C": "-pin",
+      "D": "-ess"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG063",
+    "question_text": "Select the correct pronoun: This is the boy ___ broke the window.",
+    "options": {
+      "A": "which",
+      "B": "who",
+      "C": "whom",
+      "D": "whose"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG064",
+    "question_text": "Choose the correct conjunction: She was tired, ___ she continued working.",
+    "options": {
+      "A": "but",
+      "B": "so",
+      "C": "and",
+      "D": "or"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG065",
+    "question_text": "Choose the meaning of the word 'Benevolent'.",
+    "options": {
+      "A": "Kind",
+      "B": "Selfish",
+      "C": "Cruel",
+      "D": "Lazy"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG066",
+    "question_text": "Which sentence uses falling intonation?",
+    "options": {
+      "A": "Statements",
+      "B": "Yes/No Questions",
+      "C": "Questions with question words",
+      "D": "Requests"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG067",
+    "question_text": "Fill in the blank: I will meet you ___ Monday.",
+    "options": {
+      "A": "on",
+      "B": "at",
+      "C": "in",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG068",
+    "question_text": "Identify the correct tense: They ___ watching a movie now.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG069",
+    "question_text": "Choose the correct tag question: You have finished, ___?",
+    "options": {
+      "A": "haven't you",
+      "B": "didn't you",
+      "C": "aren't you",
+      "D": "don't you"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG070",
+    "question_text": "Select the correct conditional sentence: If it ___ rain tomorrow, we will go.",
+    "options": {
+      "A": "does",
+      "B": "did",
+      "C": "do",
+      "D": "will"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG071",
+    "question_text": "Choose the correct subject-verb agreement: The news ___ surprising.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG072",
+    "question_text": "Change to passive voice: They clean the classroom every day.",
+    "options": {
+      "A": "The classroom is cleaned every day.",
+      "B": "The classroom was cleaned every day.",
+      "C": "The classroom cleaned every day.",
+      "D": "The classroom has been cleaned every day."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG073",
+    "question_text": "Select the correct indirect speech: He said, 'I am going home.'",
+    "options": {
+      "A": "He said he was going home.",
+      "B": "He said he is going home.",
+      "C": "He says he was going home.",
+      "D": "He says he is going home."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG074",
+    "question_text": "Identify the sentence type: 'Neither the boy nor the girls are coming.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG075",
+    "question_text": "Choose the correct causative verb form: I ___ my car repaired yesterday.",
+    "options": {
+      "A": "have",
+      "B": "had",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG076",
+    "question_text": "Identify the prefix in the word 'disappear'.",
+    "options": {
+      "A": "dis-",
+      "B": "appear",
+      "C": "pear",
+      "D": "disap"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG077",
+    "question_text": "Select the correct pronoun: She gave the book to ___?",
+    "options": {
+      "A": "I",
+      "B": "me",
+      "C": "my",
+      "D": "mine"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG078",
+    "question_text": "Choose the correct conjunction: He was late, ___ he missed the bus.",
+    "options": {
+      "A": "but",
+      "B": "so",
+      "C": "and",
+      "D": "or"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG079",
+    "question_text": "Choose the meaning of the word 'Obedient'.",
+    "options": {
+      "A": "Disobedient",
+      "B": "Kind",
+      "C": "Obeying",
+      "D": "Lazy"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG080",
+    "question_text": "Which sentence has a rising intonation?",
+    "options": {
+      "A": "Tag questions",
+      "B": "Statements",
+      "C": "Commands",
+      "D": "Exclamations"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG081",
+    "question_text": "Fill in the blank with correct article: This is ___ unique idea.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG082",
+    "question_text": "Choose the correct tense: She ___ (finish) her homework now.",
+    "options": {
+      "A": "finish",
+      "B": "is finishing",
+      "C": "finished",
+      "D": "finishes"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG083",
+    "question_text": "Choose the correct tag question: They can swim, ___?",
+    "options": {
+      "A": "can't they",
+      "B": "can they",
+      "C": "don't they",
+      "D": "do they"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG084",
+    "question_text": "Select the correct conditional sentence: If she ___ earlier, she would have caught the bus.",
+    "options": {
+      "A": "had left",
+      "B": "has left",
+      "C": "left",
+      "D": "would leave"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG085",
+    "question_text": "Which preposition correctly completes the sentence? He is interested ___ music.",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "at",
+      "D": "for"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG086",
+    "question_text": "Identify the word with stress on the third syllable.",
+    "options": {
+      "A": "Photography",
+      "B": "Elephant",
+      "C": "Computer",
+      "D": "University"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG087",
+    "question_text": "Select the correct subject-verb agreement: Either of the options ___ correct.",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG088",
+    "question_text": "Change to active voice: The cake was eaten by the children.",
+    "options": {
+      "A": "The children ate the cake.",
+      "B": "The children eat the cake.",
+      "C": "The children are eating the cake.",
+      "D": "The children will eat the cake."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG089",
+    "question_text": "Choose the correct indirect speech: She said, 'I have finished my work.'",
+    "options": {
+      "A": "She said she had finished her work.",
+      "B": "She said she has finished her work.",
+      "C": "She says she had finished her work.",
+      "D": "She says she has finished her work."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG090",
+    "question_text": "Identify the sentence structure: 'He plays football and she plays basketball.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG091",
+    "question_text": "Choose the correct causative verb: I ___ my hair cut every month.",
+    "options": {
+      "A": "have",
+      "B": "had",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG092",
+    "question_text": "Identify the prefix in the word 'impossible'.",
+    "options": {
+      "A": "im-",
+      "B": "possible",
+      "C": "pos",
+      "D": "ible"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG093",
+    "question_text": "Select the correct pronoun: Who is ___ book is this?",
+    "options": {
+      "A": "who",
+      "B": "whom",
+      "C": "whose",
+      "D": "which"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG094",
+    "question_text": "Choose the correct conjunction: You can come, ___ you have to finish your work first.",
+    "options": {
+      "A": "but",
+      "B": "and",
+      "C": "if",
+      "D": "or"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG095",
+    "question_text": "Choose the meaning of the word 'Generous'.",
+    "options": {
+      "A": "Stingy",
+      "B": "Kind",
+      "C": "Greedy",
+      "D": "Selfish"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG096",
+    "question_text": "Which sentence shows a falling intonation?",
+    "options": {
+      "A": "Commands",
+      "B": "Yes/No Questions",
+      "C": "Requests",
+      "D": "Statements"
+    },
+    "correct_answer": "D",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG097",
+    "question_text": "Fill in the blank: They arrived ___ midnight.",
+    "options": {
+      "A": "at",
+      "B": "on",
+      "C": "in",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG098",
+    "question_text": "Identify the correct tense: She ___ cooking dinner now.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG099",
+    "question_text": "Choose the correct tag question: You won't be late, ___?",
+    "options": {
+      "A": "will you",
+      "B": "won't you",
+      "C": "aren't you",
+      "D": "didn't you"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG100",
+    "question_text": "Select the correct conditional sentence: If they ___ hard, they will succeed.",
+    "options": {
+      "A": "work",
+      "B": "works",
+      "C": "worked",
+      "D": "working"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Intermediate",
+    "topic": "Conditional Sentence"
+  },
+
+
+
+
+
+
+
+  
+  {
+    "question_id": "ENG101",
+    "question_text": "Explain the difference between the definite and indefinite articles with examples.",
+    "options": {
+      "A": "Definite refers to a specific noun; indefinite refers to any noun.",
+      "B": "Definite refers to any noun; indefinite refers to a specific noun.",
+      "C": "Both mean the same.",
+      "D": "Definite is only used with plural nouns."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG102",
+    "question_text": "Identify the tense and aspect: 'She had been waiting for two hours when he arrived.'",
+    "options": {
+      "A": "Past perfect continuous",
+      "B": "Present perfect continuous",
+      "C": "Past continuous",
+      "D": "Present continuous"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG103",
+    "question_text": "Which tag question correctly completes the sentence? 'Nobody called, ___?'",
+    "options": {
+      "A": "did they",
+      "B": "didn't they",
+      "C": "do they",
+      "D": "don't they"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG104",
+    "question_text": "Form a third conditional sentence for this situation: 'I didn’t study, so I failed the exam.'",
+    "options": {
+      "A": "If I didn’t study, I would fail the exam.",
+      "B": "If I had studied, I would have passed the exam.",
+      "C": "If I studied, I will pass the exam.",
+      "D": "If I study, I pass the exam."
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG105",
+    "question_text": "In the sentence, 'She is responsible for the project,' identify the function of the preposition 'for'.",
+    "options": {
+      "A": "Shows cause",
+      "B": "Shows possession",
+      "C": "Shows purpose or relation",
+      "D": "Shows place"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG106",
+    "question_text": "Identify the primary stress pattern in the word 'photograph'.",
+    "options": {
+      "A": "First syllable stressed",
+      "B": "Second syllable stressed",
+      "C": "Third syllable stressed",
+      "D": "No stress"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG107",
+    "question_text": "Choose the correctly agreed sentence: 'Neither the teacher nor the students ___ ready.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG108",
+    "question_text": "Convert to passive voice: 'They have completed the project.'",
+    "options": {
+      "A": "The project has been completed by them.",
+      "B": "The project is completed by them.",
+      "C": "The project was completed by them.",
+      "D": "The project completes by them."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG109",
+    "question_text": "Convert to indirect speech: 'She said, \"I might come late.\"'",
+    "options": {
+      "A": "She said she might come late.",
+      "B": "She said she will come late.",
+      "C": "She says she might come late.",
+      "D": "She says she will come late."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG110",
+    "question_text": "Identify the sentence type: 'I went to the market, but it was closed.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG111",
+    "question_text": "Choose the correct causative verb form: 'He ___ his car serviced every month.'",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG112",
+    "question_text": "Identify the prefix in 'unbelievable' and explain its meaning.",
+    "options": {
+      "A": "un- meaning 'not'",
+      "B": "believable meaning 'true'",
+      "C": "lie meaning 'false'",
+      "D": "able meaning 'can be done'"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG113",
+    "question_text": "Choose the correct pronoun to complete the sentence: 'The man ___ car was stolen is my neighbor.'",
+    "options": {
+      "A": "who",
+      "B": "whose",
+      "C": "whom",
+      "D": "which"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG114",
+    "question_text": "Choose the conjunction that best connects the clauses: 'He was tired, ___ he kept working.'",
+    "options": {
+      "A": "because",
+      "B": "so",
+      "C": "although",
+      "D": "but"
+    },
+    "correct_answer": "D",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG115",
+    "question_text": "Choose the word closest in meaning to 'magnanimous'.",
+    "options": {
+      "A": "generous",
+      "B": "mean",
+      "C": "stingy",
+      "D": "selfish"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG116",
+    "question_text": "Which sentence uses rising intonation?",
+    "options": {
+      "A": "Yes/No questions",
+      "B": "Statements",
+      "C": "Commands",
+      "D": "Exclamations"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG117",
+    "question_text": "In the sentence, 'He arrived after the meeting had started,' identify the correct tense of the verb 'had started'.",
+    "options": {
+      "A": "Past perfect",
+      "B": "Past simple",
+      "C": "Present perfect",
+      "D": "Past continuous"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG118",
+    "question_text": "Choose the correct article: 'It was ___ honor to meet her.'",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "the",
+      "D": "no article"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG119",
+    "question_text": "Identify the correct tag question: 'Let’s go to the park, ___?'",
+    "options": {
+      "A": "shall we",
+      "B": "won’t we",
+      "C": "aren’t we",
+      "D": "don’t we"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG120",
+    "question_text": "Form a zero conditional sentence about water boiling.",
+    "options": {
+      "A": "If you heat water, it boils.",
+      "B": "If you heat water, it will boil.",
+      "C": "If you heated water, it would boil.",
+      "D": "If you heat water, it boiled."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG121",
+    "question_text": "What type of preposition is used in the sentence 'The book is on the table'?",
+    "options": {
+      "A": "Place preposition",
+      "B": "Time preposition",
+      "C": "Cause preposition",
+      "D": "Instrument preposition"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG122",
+    "question_text": "Identify the word with primary stress on the second syllable.",
+    "options": {
+      "A": "Arrange",
+      "B": "Happy",
+      "C": "Teacher",
+      "D": "Computer"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG123",
+    "question_text": "Choose the correct subject-verb agreement: 'Neither my mother nor my sisters ___ available.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "was",
+      "D": "were"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG124",
+    "question_text": "Convert to passive voice: 'The committee will approve the proposal.'",
+    "options": {
+      "A": "The proposal will be approved by the committee.",
+      "B": "The proposal is approved by the committee.",
+      "C": "The proposal was approved by the committee.",
+      "D": "The proposal has approved the committee."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG125",
+    "question_text": "Convert to indirect speech: 'He said, \"I can speak French.\"'",
+    "options": {
+      "A": "He said he could speak French.",
+      "B": "He said he can speak French.",
+      "C": "He says he could speak French.",
+      "D": "He says he can speak French."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG126",
+    "question_text": "Identify the sentence type: 'Although it was cold, we went outside.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG127",
+    "question_text": "Choose the correct causative verb: 'They ___ their house painted last month.'",
+    "options": {
+      "A": "had",
+      "B": "have",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG128",
+    "question_text": "Identify the suffix in the word 'happiness' and its function.",
+    "options": {
+      "A": "-ness; forms nouns",
+      "B": "-hap; forms adjectives",
+      "C": "-pin; forms verbs",
+      "D": "-ess; forms pronouns"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG129",
+    "question_text": "Choose the correct pronoun to complete the sentence: 'Everyone did ___ best in the exam.'",
+    "options": {
+      "A": "their",
+      "B": "his",
+      "C": "her",
+      "D": "its"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG130",
+    "question_text": "Choose the conjunction that best fits: 'You can stay here, ___ you want to leave.'",
+    "options": {
+      "A": "or",
+      "B": "but",
+      "C": "and",
+      "D": "so"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Connective / Conjunction"
+  },
+
+
+  
+  {
+    "question_id": "ENG131",
+    "question_text": "Explain the use of the article 'the' in the sentence: 'The sun rises in the east.'",
+    "options": {
+      "A": "Used before unique objects",
+      "B": "Used before plural nouns",
+      "C": "Used before abstract nouns",
+      "D": "Used before any noun"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG132",
+    "question_text": "Identify the tense in the sentence: 'She will have finished the work by tomorrow.'",
+    "options": {
+      "A": "Future perfect",
+      "B": "Future simple",
+      "C": "Present perfect",
+      "D": "Past perfect"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG133",
+    "question_text": "Choose the correct tag question: 'You don’t like coffee, ___?'",
+    "options": {
+      "A": "do you",
+      "B": "don’t you",
+      "C": "did you",
+      "D": "doesn’t you"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG134",
+    "question_text": "Create a first conditional sentence about studying hard and passing the exam.",
+    "options": {
+      "A": "If you study hard, you will pass the exam.",
+      "B": "If you studied hard, you will pass the exam.",
+      "C": "If you study hard, you passed the exam.",
+      "D": "If you studied hard, you would pass the exam."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG135",
+    "question_text": "Which preposition correctly fills the blank: 'She is good ___ mathematics.'",
+    "options": {
+      "A": "at",
+      "B": "in",
+      "C": "on",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG136",
+    "question_text": "Identify the word with stress on the last syllable.",
+    "options": {
+      "A": "Hotel",
+      "B": "Computer",
+      "C": "Idea",
+      "D": "Balloon"
+    },
+    "correct_answer": "D",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG137",
+    "question_text": "Choose the correctly agreed sentence: 'Either the boys or the girl ___ responsible.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG138",
+    "question_text": "Change to passive voice: 'The students are writing the exam.'",
+    "options": {
+      "A": "The exam is being written by the students.",
+      "B": "The exam was written by the students.",
+      "C": "The exam is written by the students.",
+      "D": "The exam has been written by the students."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG139",
+    "question_text": "Convert to indirect speech: 'He said, \"I have seen that movie.\"'",
+    "options": {
+      "A": "He said he had seen that movie.",
+      "B": "He said he has seen that movie.",
+      "C": "He says he had seen that movie.",
+      "D": "He says he has seen that movie."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG140",
+    "question_text": "Identify the sentence type: 'Because it rained, the match was canceled.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG141",
+    "question_text": "Choose the correct causative verb form: 'She ___ her hair cut every month.'",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG142",
+    "question_text": "Identify the prefix and its meaning in 'disagree'.",
+    "options": {
+      "A": "dis- meaning 'not'",
+      "B": "agree meaning 'yes'",
+      "C": "dis- meaning 'again'",
+      "D": "dis- meaning 'with'"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG143",
+    "question_text": "Select the correct pronoun to fill the blank: 'Each of the players has ___ own locker.'",
+    "options": {
+      "A": "their",
+      "B": "his",
+      "C": "her",
+      "D": "its"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG144",
+    "question_text": "Choose the conjunction to complete the sentence: 'He works hard, ___ he fails to succeed.'",
+    "options": {
+      "A": "but",
+      "B": "and",
+      "C": "so",
+      "D": "or"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG145",
+    "question_text": "Which word is an antonym of 'opaque'?",
+    "options": {
+      "A": "Transparent",
+      "B": "Dark",
+      "C": "Thick",
+      "D": "Cloudy"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG146",
+    "question_text": "Identify the intonation pattern in the question: 'Are you coming?'",
+    "options": {
+      "A": "Rising intonation",
+      "B": "Falling intonation",
+      "C": "Flat intonation",
+      "D": "Variable intonation"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG147",
+    "question_text": "In the sentence, 'He was reading when I arrived,' identify the tense of 'was reading'.",
+    "options": {
+      "A": "Past continuous",
+      "B": "Present continuous",
+      "C": "Past perfect",
+      "D": "Present perfect"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG148",
+    "question_text": "Choose the correct article: '___ university in our town is very old.'",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "C",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG149",
+    "question_text": "Select the correct tag question: 'She can swim, ___?'",
+    "options": {
+      "A": "can’t she",
+      "B": "can she",
+      "C": "doesn’t she",
+      "D": "does she"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG150",
+    "question_text": "Create a second conditional sentence: 'If I were rich, I ___ (travel) the world.'",
+    "options": {
+      "A": "would travel",
+      "B": "will travel",
+      "C": "travel",
+      "D": "would have traveled"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG151",
+    "question_text": "Identify the correct preposition: 'He is interested ___ learning new languages.'",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "for"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG152",
+    "question_text": "Which word has the primary stress on the first syllable?",
+    "options": {
+      "A": "Present",
+      "B": "Result",
+      "C": "Attend",
+      "D": "Because"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG153",
+    "question_text": "Choose the correct subject-verb agreement: 'The team of doctors ___ working hard.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "have"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG154",
+    "question_text": "Change to passive voice: 'The chef cooks the meal.'",
+    "options": {
+      "A": "The meal is cooked by the chef.",
+      "B": "The meal was cooked by the chef.",
+      "C": "The meal cooks the chef.",
+      "D": "The meal has cooked by the chef."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG155",
+    "question_text": "Convert to indirect speech: 'She said, \"I will come tomorrow.\"'",
+    "options": {
+      "A": "She said she would come tomorrow.",
+      "B": "She said she will come tomorrow.",
+      "C": "She says she would come tomorrow.",
+      "D": "She says she will come tomorrow."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG156",
+    "question_text": "Identify the sentence type: 'He cleaned the room and then went outside.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG157",
+    "question_text": "Choose the correct causative verb: 'I ___ my hair dyed yesterday.'",
+    "options": {
+      "A": "had",
+      "B": "have",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG158",
+    "question_text": "Identify the suffix and its function in the word 'careful'.",
+    "options": {
+      "A": "-ful; forms adjectives",
+      "B": "-care; forms nouns",
+      "C": "-ful; forms nouns",
+      "D": "-care; forms adjectives"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG159",
+    "question_text": "Select the correct pronoun: 'Neither of the boys did ___ homework.'",
+    "options": {
+      "A": "his",
+      "B": "their",
+      "C": "her",
+      "D": "its"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG160",
+    "question_text": "Complete with correct conjunction: 'He must be tired, ___ he keeps working.'",
+    "options": {
+      "A": "yet",
+      "B": "and",
+      "C": "or",
+      "D": "so"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Connective / Conjunction"
+  },
+
+  
+  {
+    "question_id": "ENG161",
+    "question_text": "Explain when to use 'a' and 'an' with examples.",
+    "options": {
+      "A": "Use 'a' before consonant sounds and 'an' before vowel sounds",
+      "B": "Use 'a' before vowels and 'an' before consonants",
+      "C": "Use 'a' always and never use 'an'",
+      "D": "Use 'an' only in plural nouns"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG162",
+    "question_text": "Identify the tense: 'They have been working since morning.'",
+    "options": {
+      "A": "Present perfect continuous",
+      "B": "Past perfect",
+      "C": "Present continuous",
+      "D": "Future perfect"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG163",
+    "question_text": "Choose the correct tag question: 'Nobody called you, ___?'",
+    "options": {
+      "A": "did they",
+      "B": "did you",
+      "C": "does they",
+      "D": "does you"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG164",
+    "question_text": "Form a third conditional sentence about missing the bus.",
+    "options": {
+      "A": "If I had left earlier, I would have caught the bus.",
+      "B": "If I leave earlier, I will catch the bus.",
+      "C": "If I left earlier, I would catch the bus.",
+      "D": "If I had left earlier, I caught the bus."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG165",
+    "question_text": "Fill in the blank: 'The book is ___ the table.'",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "at",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG166",
+    "question_text": "Which word has stress on the second syllable?",
+    "options": {
+      "A": "Return",
+      "B": "Moment",
+      "C": "Paper",
+      "D": "Garden"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG167",
+    "question_text": "Select correct verb for subject-verb agreement: 'Neither the teacher nor the students ___ ready.'",
+    "options": {
+      "A": "are",
+      "B": "is",
+      "C": "were",
+      "D": "have"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG168",
+    "question_text": "Rewrite in passive voice: 'They will finish the project next week.'",
+    "options": {
+      "A": "The project will be finished by them next week.",
+      "B": "The project was finished by them next week.",
+      "C": "The project has been finished by them.",
+      "D": "They are finished by the project."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG169",
+    "question_text": "Change to indirect speech: 'He said, \"I have never been to London.\"'",
+    "options": {
+      "A": "He said he had never been to London.",
+      "B": "He said he has never been to London.",
+      "C": "He says he had never been to London.",
+      "D": "He says he has never been to London."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG170",
+    "question_text": "Identify the sentence type: 'I finished my homework, but I forgot to submit it.'",
+    "options": {
+      "A": "Simple Sentence",
+      "B": "Compound Sentence",
+      "C": "Complex Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "B",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG171",
+    "question_text": "Select the correct causative verb: 'They ___ their house painted last summer.'",
+    "options": {
+      "A": "had",
+      "B": "have",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG172",
+    "question_text": "Identify suffix and meaning in 'careless'.",
+    "options": {
+      "A": "-less meaning 'without'",
+      "B": "-less meaning 'full of'",
+      "C": "-care meaning 'full of'",
+      "D": "-care meaning 'without'"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG173",
+    "question_text": "Choose the correct pronoun: 'Everyone should bring ___ own lunch.'",
+    "options": {
+      "A": "his or her",
+      "B": "their",
+      "C": "its",
+      "D": "him"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG174",
+    "question_text": "Complete: 'She stayed home, ___ it was raining heavily.'",
+    "options": {
+      "A": "because",
+      "B": "but",
+      "C": "and",
+      "D": "so"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG175",
+    "question_text": "Find the synonym of 'Happy'.",
+    "options": {
+      "A": "Joyful",
+      "B": "Sad",
+      "C": "Angry",
+      "D": "Tired"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG176",
+    "question_text": "Identify the intonation of a command: 'Close the door.'",
+    "options": {
+      "A": "Falling intonation",
+      "B": "Rising intonation",
+      "C": "Flat intonation",
+      "D": "Variable intonation"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG177",
+    "question_text": "Identify the tense: 'She had been living in Pokhara before moving to Kathmandu.'",
+    "options": {
+      "A": "Past perfect continuous",
+      "B": "Past continuous",
+      "C": "Present perfect",
+      "D": "Future perfect"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG178",
+    "question_text": "Choose the correct article: '___ honest man always tells the truth.'",
+    "options": {
+      "A": "An",
+      "B": "A",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG179",
+    "question_text": "Select the correct tag question: 'They have finished the work, ___?'",
+    "options": {
+      "A": "haven’t they",
+      "B": "have they",
+      "C": "did they",
+      "D": "don’t they"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG180",
+    "question_text": "Form a zero conditional sentence about water boiling at 100°C.",
+    "options": {
+      "A": "If water reaches 100°C, it boils.",
+      "B": "If water reached 100°C, it boils.",
+      "C": "If water reaches 100°C, it boiled.",
+      "D": "If water reached 100°C, it would boil."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG181",
+    "question_text": "Fill the blank with correct preposition: 'She is famous ___ her singing.'",
+    "options": {
+      "A": "for",
+      "B": "at",
+      "C": "on",
+      "D": "by"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG182",
+    "question_text": "Identify the primary stress in the word 'computer'.",
+    "options": {
+      "A": "Second syllable",
+      "B": "First syllable",
+      "C": "Third syllable",
+      "D": "No stress"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG183",
+    "question_text": "Choose the correct verb: 'The news ___ surprising.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG184",
+    "question_text": "Rewrite in passive: 'Someone has stolen my wallet.'",
+    "options": {
+      "A": "My wallet has been stolen.",
+      "B": "My wallet was stolen.",
+      "C": "Someone has stolen my wallet.",
+      "D": "My wallet stole someone."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "question_id": "ENG185",
+    "question_text": "Change to indirect speech: 'He said, \"I am leaving now.\"'",
+    "options": {
+      "A": "He said he was leaving then.",
+      "B": "He said he is leaving now.",
+      "C": "He says he was leaving then.",
+      "D": "He says he is leaving now."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "question_id": "ENG186",
+    "question_text": "Identify the sentence type: 'Although he was tired, he finished his work.'",
+    "options": {
+      "A": "Complex Sentence",
+      "B": "Simple Sentence",
+      "C": "Compound Sentence",
+      "D": "Compound-Complex Sentence"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sentence Structure"
+  },
+  {
+    "question_id": "ENG187",
+    "question_text": "Select the correct causative form: 'I ___ my car repaired yesterday.'",
+    "options": {
+      "A": "had",
+      "B": "have",
+      "C": "has",
+      "D": "having"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Causative Verbs"
+  },
+  {
+    "question_id": "ENG188",
+    "question_text": "Identify suffix and meaning in 'hopeful'.",
+    "options": {
+      "A": "-ful meaning 'full of'",
+      "B": "-less meaning 'without'",
+      "C": "-ful meaning 'without'",
+      "D": "-less meaning 'full of'"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prefix and Suffix"
+  },
+  {
+    "question_id": "ENG189",
+    "question_text": "Choose correct pronoun: 'Each student should do ___ homework.'",
+    "options": {
+      "A": "his or her",
+      "B": "their",
+      "C": "our",
+      "D": "them"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Pronouns"
+  },
+  {
+    "question_id": "ENG190",
+    "question_text": "Complete: 'I want to go out, ___ it is raining.'",
+    "options": {
+      "A": "but",
+      "B": "and",
+      "C": "so",
+      "D": "or"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Connective / Conjunction"
+  },
+  {
+    "question_id": "ENG191",
+    "question_text": "Synonym of 'Difficult' is?",
+    "options": {
+      "A": "Hard",
+      "B": "Easy",
+      "C": "Light",
+      "D": "Simple"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Word Power"
+  },
+  {
+    "question_id": "ENG192",
+    "question_text": "Identify intonation in exclamation: 'What a beautiful day!'",
+    "options": {
+      "A": "Falling intonation",
+      "B": "Rising intonation",
+      "C": "Flat intonation",
+      "D": "Variable intonation"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Intonation"
+  },
+  {
+    "question_id": "ENG193",
+    "question_text": "Identify the tense: 'They will have been traveling for 5 hours by noon.'",
+    "options": {
+      "A": "Future perfect continuous",
+      "B": "Present perfect continuous",
+      "C": "Past perfect continuous",
+      "D": "Future perfect"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Use of Tense"
+  },
+  {
+    "question_id": "ENG194",
+    "question_text": "Choose the article: '___ European country is known for its history.'",
+    "options": {
+      "A": "A",
+      "B": "An",
+      "C": "The",
+      "D": "No article"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Articles"
+  },
+  {
+    "question_id": "ENG195",
+    "question_text": "Select the correct tag question: 'She must be tired, ___?'",
+    "options": {
+      "A": "mustn’t she",
+      "B": "must she",
+      "C": "isn’t she",
+      "D": "does she"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Tag Question"
+  },
+  {
+    "question_id": "ENG196",
+    "question_text": "Form a mixed conditional sentence for a present result of a past condition.",
+    "options": {
+      "A": "If I had studied, I would be successful now.",
+      "B": "If I study, I will be successful.",
+      "C": "If I studied, I would be successful.",
+      "D": "If I had studied, I would have been successful."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Conditional Sentence"
+  },
+  {
+    "question_id": "ENG197",
+    "question_text": "Fill in the blank: 'He is afraid ___ spiders.'",
+    "options": {
+      "A": "of",
+      "B": "with",
+      "C": "by",
+      "D": "about"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Prepositions"
+  },
+  {
+    "question_id": "ENG198",
+    "question_text": "Identify the stressed syllable in the word 'banana'.",
+    "options": {
+      "A": "Second syllable",
+      "B": "First syllable",
+      "C": "Third syllable",
+      "D": "No stress"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Sound of English"
+  },
+  {
+    "question_id": "ENG199",
+    "question_text": "Choose correct verb: 'Mathematics ___ my favorite subject.'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "were",
+      "D": "be"
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Subject Verb Agreement"
+  },
+  {
+    "question_id": "ENG200",
+    "question_text": "Rewrite passive: 'The committee approved the proposal yesterday.'",
+    "options": {
+      "A": "The proposal was approved by the committee yesterday.",
+      "B": "The proposal is approved by the committee yesterday.",
+      "C": "The committee was approved by the proposal.",
+      "D": "The proposal approved the committee."
+    },
+    "correct_answer": "A",
+    "subject": "English",
+    "difficulty": "Hard",
+    "topic": "Active and Passive Voice"
+  }
+]
+
+
+
+
+

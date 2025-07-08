@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSIT Entrance Mock Test System</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js" defer></script>
+
+
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <%- include("partials/navbar") %>
+
+  <!-- Hero Section -->
+  <section class="py-16 px-6 bg-white border-b border-gray-200">
+    <div class="max-w-5xl mx-auto text-center">
+      <h1 class="text-4xl font-bold mb-4">Welcome to the CSIT Entrance Mock Test System</h1>
+      <p class="text-lg text-gray-600 mb-8">
+        Prepare smartly for your CSIT entrance exams with mock tests, performance analysis, and adaptive difficulty.
+      </p>
+
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="/dashboard" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition shadow">
+        Go to your Dashboard
+        </a>
+        <a href="/test/start" class="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition shadow">
+          Start your Test
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="py-16 px-6 bg-gray-100">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl font-semibold text-center mb-10">Why Use This System?</h2>
+
+      <div class="grid md:grid-cols-2 gap-8 text-gray-700">
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">🔁 Adaptive Difficulty</h3>
+          <p>Questions adjust based on your performance to help you learn more efficiently.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">📊 Subject-wise Feedback</h3>
+          <p>Get personalized insights on your strengths and weak areas after each test.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">🧠 Curated Question Bank</h3>
+          <p>Practice from a large pool of questions based on real CSIT entrance trends.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">⏱️ Real-Time Timer & Results</h3>
+          <p>Simulate the actual exam experience and receive instant results with accuracy stats.</p>
+        </div>
+      </div>
+
+      
+    </div>
+  </section>
+
+
+<section class="max-w-4xl mx-auto my-12 p-6 bg-white shadow-lg rounded-md" x-data="{ selected: null }">
+  <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Frequently Asked Questions</h2>
+
+  <div class="space-y-4">
+
+    <!-- FAQ ITEM 1 -->
+    <div class="border border-gray-200 rounded-md">
+      <button @click="selected !== 1 ? selected = 1 : selected = null" class="w-full p-4 text-left font-medium text-gray-800 flex justify-between items-center">
+        What is the CSIT Entrance Mock Test System?
+        <svg :class="selected === 1 ? 'rotate-180' : ''" class="w-5 h-5 transition-transform transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </button>
+      <div x-show="selected === 1" x-collapse class="px-4 pb-4 text-gray-600">
+        It’s a smart platform to help students prepare for the BSc CSIT entrance exam through adaptive mock tests, detailed feedback, and subject-wise analysis.
+      </div>
+    </div>
+
+    <!-- FAQ ITEM 2 -->
+    <div class="border border-gray-200 rounded-md">
+      <button @click="selected !== 2 ? selected = 2 : selected = null" class="w-full p-4 text-left font-medium text-gray-800 flex justify-between items-center">
+        How does the adaptive difficulty system work?
+        <svg :class="selected === 2 ? 'rotate-180' : ''" class="w-5 h-5 transition-transform transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </button>
+      <div x-show="selected === 2" x-collapse class="px-4 pb-4 text-gray-600">
+        Your performance in previous tests decides whether you get basic, intermediate, or hard-level questions next time. It adapts to challenge and improve your skills.
+      </div>
+    </div>
+
+    <!-- FAQ ITEM 3 -->
+    <div class="border border-gray-200 rounded-md">
+      <button @click="selected !== 3 ? selected = 3 : selected = null" class="w-full p-4 text-left font-medium text-gray-800 flex justify-between items-center">
+        What subjects are included in the CSIT mock tests?
+        <svg :class="selected === 3 ? 'rotate-180' : ''" class="w-5 h-5 transition-transform transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </button>
+      <div x-show="selected === 3" x-collapse class="px-4 pb-4 text-gray-600">
+        The mock tests include Physics, Chemistry, Mathematics, English, and Computer — the same subjects asked in the BSc CSIT entrance exam.
+      </div>
+    </div>
+
+    
+
+    <!-- FAQ ITEM 5 -->
+    <div class="border border-gray-200 rounded-md">
+      <button @click="selected !== 5 ? selected = 5 : selected = null" class="w-full p-4 text-left font-medium text-gray-800 flex justify-between items-center">
+        Can I track my performance and progress?
+        <svg :class="selected === 5 ? 'rotate-180' : ''" class="w-5 h-5 transition-transform transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </button>
+      <div x-show="selected === 5" x-collapse class="px-4 pb-4 text-gray-600">
+        Yes, once logged in, you’ll see your dashboard which shows your subject-wise marks, performance trends, and recommended focus areas.
+      </div>
+    </div>
+
+    
+
+  </div>
+</section>
+
+<footer class="bg-gray-100 text-gray-700 py-8 border-t mt-16">
+  <div class="max-w-6xl mx-auto px-4 grid grid-cols-1 sm:grid-cols-3 gap-8">
+
+    <!-- Description -->
+    <div>
+      <h3 class="text-lg font-semibold text-red-500 mb-2">CSIT Mock Test</h3>
+      <p class="text-sm leading-relaxed">
+        Prepare smarter for the BSc CSIT entrance exam with adaptive tests, real-time feedback, and a powerful question bank.
+      </p>
+    </div>
+
+    <!-- Quick Links -->
+    <div>
+      <h4 class="text-md font-semibold mb-2">Quick Links</h4>
+      <ul class="space-y-1 text-sm">
+        <li><a href="/" class="hover:text-red-500">Home</a></li>
+        <li><a href="/dashboard" class="hover:text-red-500">Dashboard</a></li>
+        <li><a href="/test" class="hover:text-red-500">Test</a></li>
+        
+        
+      </ul>
+    </div>
+
+    <!-- Contact Info -->
+    <div>
+      <h4 class="text-md font-semibold mb-2">Contact Us</h4>
+      <p class="text-sm">📧 support@csitmock.com</p>
+      <p class="text-sm">📍 Butwal, Nepal</p>
+      
+    </div>
+  </div>
+
+  <div class="text-center mt-6 text-sm text-gray-500">
+    © <%= new Date().getFullYear() %> CSIT Mock Test System. All rights reserved.
+  </div>
+</footer>
+
+
+</body>
+</html>

@@ -1,0 +1,2286 @@
+[
+  {
+    "question_id": "COMP001",
+    "question_text": "What does CPU stand for in a computer?",
+    "options": {
+      "A": "Central Process Unit",
+      "B": "Central Processing Unit",
+      "C": "Control Processing Unit",
+      "D": "Central Processor Utility"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Computer"
+  },
+  {
+    "question_id": "COMP002",
+    "question_text": "Which of the following is a programming language?",
+    "options": {
+      "A": "MS Word",
+      "B": "Excel",
+      "C": "Python",
+      "D": "PowerPoint"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP003",
+    "question_text": "Which type of memory is considered volatile?",
+    "options": {
+      "A": "ROM",
+      "B": "Hard Disk",
+      "C": "RAM",
+      "D": "DVD"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP004",
+    "question_text": "Which software is used for creating spreadsheets?",
+    "options": {
+      "A": "MS Word",
+      "B": "MS Excel",
+      "C": "MS Paint",
+      "D": "MS PowerPoint"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP005",
+    "question_text": "What does WWW stand for?",
+    "options": {
+      "A": "World Wide Web",
+      "B": "Web World Wide",
+      "C": "World Web Wide",
+      "D": "Wide World Web"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP006",
+    "question_text": "Which one is a popular social networking site?",
+    "options": {
+      "A": "Google",
+      "B": "Yahoo",
+      "C": "Facebook",
+      "D": "Bing"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP007",
+    "question_text": "Which of the following is a digital wallet?",
+    "options": {
+      "A": "eSewa",
+      "B": "Outlook",
+      "C": "Wikipedia",
+      "D": "Windows"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP008",
+    "question_text": "Which of the following is a good practice in cybersecurity?",
+    "options": {
+      "A": "Using the same password for all accounts",
+      "B": "Clicking unknown links",
+      "C": "Using strong and unique passwords",
+      "D": "Sharing passwords with friends"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP009",
+    "question_text": "Which device connects multiple computers in a network?",
+    "options": {
+      "A": "Mouse",
+      "B": "Router",
+      "C": "Keyboard",
+      "D": "Monitor"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP010",
+    "question_text": "Which number system is used by computers internally?",
+    "options": {
+      "A": "Decimal",
+      "B": "Octal",
+      "C": "Binary",
+      "D": "Hexadecimal"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  
+  {
+    "question_id": "COMP011",
+    "question_text": "Which software is used for creating presentation slides?",
+    "options": {
+      "A": "MS Paint",
+      "B": "MS Word",
+      "C": "MS Excel",
+      "D": "MS PowerPoint"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP012",
+    "question_text": "What does ISP stand for?",
+    "options": {
+      "A": "International Server Protocol",
+      "B": "Internet Service Provider",
+      "C": "Internet Secure Protocol",
+      "D": "Interconnected Software Provider"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP013",
+    "question_text": "Which email protocol is used to receive emails?",
+    "options": {
+      "A": "SMTP",
+      "B": "HTTP",
+      "C": "POP3",
+      "D": "FTP"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP014",
+    "question_text": "Which one is an input device?",
+    "options": {
+      "A": "Printer",
+      "B": "Monitor",
+      "C": "Keyboard",
+      "D": "Speaker"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP015",
+    "question_text": "Which one is NOT an application software?",
+    "options": {
+      "A": "MS Word",
+      "B": "Google Chrome",
+      "C": "Operating System",
+      "D": "Excel"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP016",
+    "question_text": "Which of the following is a system software?",
+    "options": {
+      "A": "Photoshop",
+      "B": "Windows 10",
+      "C": "MS Excel",
+      "D": "Chrome"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP017",
+    "question_text": "Which symbol represents OR in Boolean logic?",
+    "options": {
+      "A": "+",
+      "B": "*",
+      "C": "!",
+      "D": "^"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP018",
+    "question_text": "Which of the following is a strong password?",
+    "options": {
+      "A": "123456",
+      "B": "password",
+      "C": "Nepal@2024",
+      "D": "abc123"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Cyber Security"
+  },
+  {
+    "question_id": "COMP019",
+    "question_text": "Which app is commonly used for mobile banking in Nepal?",
+    "options": {
+      "A": "Viber",
+      "B": "IME Pay",
+      "C": "WhatsApp",
+      "D": "Zoom"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP020",
+    "question_text": "Which component is called the brain of the computer?",
+    "options": {
+      "A": "RAM",
+      "B": "Motherboard",
+      "C": "CPU",
+      "D": "Hard Disk"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Computer"
+  },
+
+
+  {
+    "question_id": "COMP021",
+    "question_text": "Which of the following is an example of an output device?",
+    "options": {
+      "A": "Mouse",
+      "B": "Monitor",
+      "C": "Keyboard",
+      "D": "Scanner"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP022",
+    "question_text": "Which is the shortcut key to copy in MS Word?",
+    "options": {
+      "A": "Ctrl + X",
+      "B": "Ctrl + V",
+      "C": "Ctrl + C",
+      "D": "Ctrl + Z"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP023",
+    "question_text": "What is phishing in cybersecurity?",
+    "options": {
+      "A": "Catching fish using computers",
+      "B": "Sending fake emails to steal data",
+      "C": "Scanning viruses",
+      "D": "Installing software updates"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP024",
+    "question_text": "Which network device helps in dividing a network into segments?",
+    "options": {
+      "A": "Switch",
+      "B": "Monitor",
+      "C": "CPU",
+      "D": "Mouse"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP025",
+    "question_text": "Which of the following is NOT a valid binary number?",
+    "options": {
+      "A": "1010",
+      "B": "1101",
+      "C": "2021",
+      "D": "1110"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP026",
+    "question_text": "Which one is NOT a digital payment app?",
+    "options": {
+      "A": "Khalti",
+      "B": "IME Pay",
+      "C": "Connect IPS",
+      "D": "Instagram"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP027",
+    "question_text": "Which tool is used to create tables in a document?",
+    "options": {
+      "A": "Insert Table",
+      "B": "Cut",
+      "C": "Font",
+      "D": "Header"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP028",
+    "question_text": "Which language is considered low-level?",
+    "options": {
+      "A": "Assembly",
+      "B": "Python",
+      "C": "Java",
+      "D": "C++"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP029",
+    "question_text": "In binary, what is the value of 1010?",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "12",
+      "D": "15"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP030",
+    "question_text": "Which part of a computer stores the operating system?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "Hard Disk",
+      "D": "CPU"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+
+  {
+    "question_id": "COMP031",
+    "question_text": "Which protocol is used to transfer files over the Internet?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "IP"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP032",
+    "question_text": "Which is a characteristic of a strong password?",
+    "options": {
+      "A": "Only numbers",
+      "B": "All lowercase",
+      "C": "Mix of letters, numbers, and symbols",
+      "D": "Only letters"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Cyber Security"
+  },
+  {
+    "question_id": "COMP033",
+    "question_text": "What is the function of a router in a network?",
+    "options": {
+      "A": "Convert analog to digital",
+      "B": "Connect multiple networks",
+      "C": "Display web pages",
+      "D": "Store user data"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP034",
+    "question_text": "Which software helps in creating and editing text documents?",
+    "options": {
+      "A": "MS Word",
+      "B": "Excel",
+      "C": "PowerPoint",
+      "D": "Chrome"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP035",
+    "question_text": "Which of the following is NOT a web browser?",
+    "options": {
+      "A": "Mozilla Firefox",
+      "B": "Google Chrome",
+      "C": "Safari",
+      "D": "MS Word"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP036",
+    "question_text": "Which component temporarily stores data for processing?",
+    "options": {
+      "A": "ROM",
+      "B": "RAM",
+      "C": "Hard Drive",
+      "D": "Monitor"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP037",
+    "question_text": "Which of the following is an example of utility software?",
+    "options": {
+      "A": "Antivirus",
+      "B": "Photoshop",
+      "C": "MS PowerPoint",
+      "D": "Google Drive"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP038",
+    "question_text": "Which of the following is used for digital payments?",
+    "options": {
+      "A": "Telegram",
+      "B": "E-Sewa",
+      "C": "Photoshop",
+      "D": "YouTube"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP039",
+    "question_text": "How many bits are there in 1 byte?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP040",
+    "question_text": "Which one of the following is a function of an email service?",
+    "options": {
+      "A": "Editing videos",
+      "B": "Sending and receiving messages",
+      "C": "Browsing websites",
+      "D": "Formatting text"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  
+  {
+    "question_id": "COMP041",
+    "question_text": "Which one of the following is a popular social networking platform?",
+    "options": {
+      "A": "Photoshop",
+      "B": "Facebook",
+      "C": "Excel",
+      "D": "Notepad"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP042",
+    "question_text": "Which component processes all instructions in a computer?",
+    "options": {
+      "A": "Monitor",
+      "B": "RAM",
+      "C": "CPU",
+      "D": "Keyboard"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP043",
+    "question_text": "Which of the following is a type of network?",
+    "options": {
+      "A": "LAN",
+      "B": "CPU",
+      "C": "URL",
+      "D": "HTML"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP044",
+    "question_text": "Which application is used to create presentations?",
+    "options": {
+      "A": "MS Word",
+      "B": "MS Excel",
+      "C": "MS PowerPoint",
+      "D": "Paint"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP045",
+    "question_text": "Which of the following is an email service provider?",
+    "options": {
+      "A": "Yahoo",
+      "B": "Wikipedia",
+      "C": "Netflix",
+      "D": "Spotify"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP046",
+    "question_text": "Which software allows a user to write computer programs?",
+    "options": {
+      "A": "Code::Blocks",
+      "B": "MS Word",
+      "C": "Google Chrome",
+      "D": "Paint"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP047",
+    "question_text": "Which of these represents a binary digit?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "1",
+      "D": "9"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP048",
+    "question_text": "What is the full form of URL?",
+    "options": {
+      "A": "Uniform Resource Locator",
+      "B": "United Resource Locator",
+      "C": "Universal Reference Link",
+      "D": "Uniform Reference Link"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP049",
+    "question_text": "Which of the following is NOT part of computer software?",
+    "options": {
+      "A": "Operating System",
+      "B": "Application Program",
+      "C": "Hard Disk",
+      "D": "Utility Software"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP050",
+    "question_text": "Which digital wallet is widely used in Nepal?",
+    "options": {
+      "A": "Paytm",
+      "B": "PayPal",
+      "C": "Khalti",
+      "D": "Amazon Pay"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Basic",
+    "topic": "Digital Finance Tools and Application"
+  },
+
+
+
+  
+  {
+    "question_id": "COMP101",
+    "question_text": "Which logic gate produces an output that is false only when all its inputs are true?",
+    "options": {
+      "A": "OR",
+      "B": "AND",
+      "C": "NAND",
+      "D": "XOR"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP102",
+    "question_text": "In binary, what is the result of adding 1011 and 1101?",
+    "options": {
+      "A": "11000",
+      "B": "10100",
+      "C": "11110",
+      "D": "10010"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP103",
+    "question_text": "Which of the following is a compiled programming language?",
+    "options": {
+      "A": "Python",
+      "B": "JavaScript",
+      "C": "C",
+      "D": "HTML"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP104",
+    "question_text": "Which of the following protocols is used for secure communication over the web?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "SSH",
+      "D": "HTTPS"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP105",
+    "question_text": "Which of the following email protocols allows a user to download emails to their device?",
+    "options": {
+      "A": "SMTP",
+      "B": "POP3",
+      "C": "IMAP",
+      "D": "HTTP"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP106",
+    "question_text": "Which MS Excel function is used to find the average of a range of values?",
+    "options": {
+      "A": "=SUM()",
+      "B": "=MAX()",
+      "C": "=AVERAGE()",
+      "D": "=MIN()"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP107",
+    "question_text": "Which of the following is a potential threat in a cybersecurity context?",
+    "options": {
+      "A": "Firewall",
+      "B": "Phishing",
+      "C": "Encryption",
+      "D": "Antivirus"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP108",
+    "question_text": "Which of the following is true about Open Source software?",
+    "options": {
+      "A": "It cannot be modified",
+      "B": "It is always paid",
+      "C": "Its source code is accessible",
+      "D": "It is illegal to use"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP109",
+    "question_text": "Which network device operates at the network layer of the OSI model?",
+    "options": {
+      "A": "Hub",
+      "B": "Switch",
+      "C": "Router",
+      "D": "Bridge"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP110",
+    "question_text": "Which of the following is not a function of an operating system?",
+    "options": {
+      "A": "Memory management",
+      "B": "Data encryption",
+      "C": "Process scheduling",
+      "D": "File management"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  
+  {
+    "question_id": "COMP111",
+    "question_text": "Which of the following is NOT a type of computer memory?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "HTTP",
+      "D": "Cache"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP112",
+    "question_text": "What does HTML stand for?",
+    "options": {
+      "A": "HyperText Markup Language",
+      "B": "Hyperlink and Text Markup Language",
+      "C": "Home Tool Markup Language",
+      "D": "Hyperlinking Textual Markup Language"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP113",
+    "question_text": "Which protocol is mainly used for transferring files over the Internet?",
+    "options": {
+      "A": "HTTP",
+      "B": "FTP",
+      "C": "SMTP",
+      "D": "DNS"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP114",
+    "question_text": "Which of the following is a type of malware?",
+    "options": {
+      "A": "Antivirus",
+      "B": "Firewall",
+      "C": "Worm",
+      "D": "Proxy"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP115",
+    "question_text": "Which software category does an operating system belong to?",
+    "options": {
+      "A": "System Software",
+      "B": "Application Software",
+      "C": "Utility Software",
+      "D": "Programming Software"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP116",
+    "question_text": "Which digital finance tool allows instant payment using mobile phones in Nepal?",
+    "options": {
+      "A": "eSewa",
+      "B": "PayPal",
+      "C": "Google Pay",
+      "D": "Venmo"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP117",
+    "question_text": "In programming, which of the following is a loop control statement?",
+    "options": {
+      "A": "If-Else",
+      "B": "Switch",
+      "C": "For",
+      "D": "Function"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP118",
+    "question_text": "Which of the following is an example of a relational database?",
+    "options": {
+      "A": "MongoDB",
+      "B": "MySQL",
+      "C": "Cassandra",
+      "D": "Redis"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP119",
+    "question_text": "Which of the following is used to convert source code into machine code?",
+    "options": {
+      "A": "Interpreter",
+      "B": "Compiler",
+      "C": "Debugger",
+      "D": "Linker"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP120",
+    "question_text": "Which of the following defines the unique address of a device on a network?",
+    "options": {
+      "A": "IP Address",
+      "B": "URL",
+      "C": "MAC Address",
+      "D": "Subnet Mask"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Network"
+  },
+  
+  {
+    "question_id": "COMP121",
+    "question_text": "Which of the following is NOT a valid IP address version?",
+    "options": {
+      "A": "IPv4",
+      "B": "IPv5",
+      "C": "IPv6",
+      "D": "IPv7"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP122",
+    "question_text": "What is the full form of URL in networking?",
+    "options": {
+      "A": "Uniform Resource Locator",
+      "B": "Universal Resource Link",
+      "C": "Uniform Relay Locator",
+      "D": "Universal Relay Link"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP123",
+    "question_text": "Which application package is primarily used for creating presentations?",
+    "options": {
+      "A": "Microsoft Word",
+      "B": "Microsoft Excel",
+      "C": "Microsoft PowerPoint",
+      "D": "Microsoft Access"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP124",
+    "question_text": "Which Boolean operator returns true only if both operands are true?",
+    "options": {
+      "A": "AND",
+      "B": "OR",
+      "C": "NOT",
+      "D": "XOR"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP125",
+    "question_text": "Which of the following is an example of cloud storage?",
+    "options": {
+      "A": "Google Drive",
+      "B": "USB Flash Drive",
+      "C": "Hard Disk",
+      "D": "CD-ROM"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP126",
+    "question_text": "Which of the following is a primary function of a firewall?",
+    "options": {
+      "A": "To encrypt data",
+      "B": "To block unauthorized access",
+      "C": "To speed up the network",
+      "D": "To store user credentials"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP127",
+    "question_text": "What does DNS stand for?",
+    "options": {
+      "A": "Domain Name Server",
+      "B": "Domain Name System",
+      "C": "Digital Network Service",
+      "D": "Direct Name System"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP128",
+    "question_text": "Which tool is used for debugging programs?",
+    "options": {
+      "A": "Compiler",
+      "B": "Interpreter",
+      "C": "Debugger",
+      "D": "Editor"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP129",
+    "question_text": "Which of the following best describes 'Phishing'?",
+    "options": {
+      "A": "A security software",
+      "B": "A social engineering attack",
+      "C": "An encryption method",
+      "D": "A firewall setting"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP130",
+    "question_text": "Which of the following is NOT an example of application software?",
+    "options": {
+      "A": "Microsoft Word",
+      "B": "Google Chrome",
+      "C": "Linux Kernel",
+      "D": "Adobe Photoshop"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Software"
+  },
+  
+  {
+    "question_id": "COMP131",
+    "question_text": "Which number system is used internally by almost all modern computers?",
+    "options": {
+      "A": "Decimal",
+      "B": "Octal",
+      "C": "Binary",
+      "D": "Hexadecimal"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP132",
+    "question_text": "What is the primary purpose of the operating system?",
+    "options": {
+      "A": "To manage computer hardware and software resources",
+      "B": "To create documents",
+      "C": "To browse the internet",
+      "D": "To edit images"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP133",
+    "question_text": "Which device is used to connect multiple computers in a LAN?",
+    "options": {
+      "A": "Router",
+      "B": "Switch",
+      "C": "Modem",
+      "D": "Printer"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP134",
+    "question_text": "Which programming language is known as a 'high-level' language?",
+    "options": {
+      "A": "Assembly",
+      "B": "Machine code",
+      "C": "Python",
+      "D": "Binary"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP135",
+    "question_text": "Which of the following is NOT a common input device?",
+    "options": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "Monitor",
+      "D": "Scanner"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Computer"
+  },
+  {
+    "question_id": "COMP136",
+    "question_text": "Which protocol is used to send emails?",
+    "options": {
+      "A": "FTP",
+      "B": "HTTP",
+      "C": "SMTP",
+      "D": "POP3"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP137",
+    "question_text": "Which is the smallest unit of data in a computer?",
+    "options": {
+      "A": "Byte",
+      "B": "Bit",
+      "C": "Kilobyte",
+      "D": "Megabyte"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP138",
+    "question_text": "What type of software is Microsoft Excel?",
+    "options": {
+      "A": "Spreadsheet software",
+      "B": "Word processor",
+      "C": "Database software",
+      "D": "Presentation software"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP139",
+    "question_text": "Which of the following best describes 'E-Governance'?",
+    "options": {
+      "A": "Using internet to deliver government services",
+      "B": "Computer programming",
+      "C": "Online shopping",
+      "D": "Social networking"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP140",
+    "question_text": "What is the binary equivalent of decimal number 10?",
+    "options": {
+      "A": "1010",
+      "B": "1001",
+      "C": "1110",
+      "D": "1100"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  
+  {
+    "question_id": "COMP141",
+    "question_text": "Which of the following is a type of malicious software designed to harm or exploit any programmable device?",
+    "options": {
+      "A": "Antivirus",
+      "B": "Malware",
+      "C": "Firewall",
+      "D": "Backup software"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP142",
+    "question_text": "Which device is used to convert digital signals to analog signals for transmission over telephone lines?",
+    "options": {
+      "A": "Router",
+      "B": "Modem",
+      "C": "Switch",
+      "D": "Hub"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP143",
+    "question_text": "Which of the following is NOT an operating system?",
+    "options": {
+      "A": "Linux",
+      "B": "Windows",
+      "C": "Oracle",
+      "D": "macOS"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP144",
+    "question_text": "What does HTTP stand for?",
+    "options": {
+      "A": "HyperText Transfer Protocol",
+      "B": "HyperText Transmission Protocol",
+      "C": "Hyper Transfer Text Protocol",
+      "D": "HyperText Translation Protocol"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP145",
+    "question_text": "Which social media platform is primarily used for professional networking?",
+    "options": {
+      "A": "Facebook",
+      "B": "LinkedIn",
+      "C": "Instagram",
+      "D": "Twitter"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "E-mail, Social Network, E-Governance Service"
+  },
+  {
+    "question_id": "COMP146",
+    "question_text": "Which tool is commonly used for version control in software development?",
+    "options": {
+      "A": "Git",
+      "B": "Docker",
+      "C": "Jenkins",
+      "D": "Kubernetes"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP147",
+    "question_text": "Which number system uses base 16?",
+    "options": {
+      "A": "Binary",
+      "B": "Decimal",
+      "C": "Octal",
+      "D": "Hexadecimal"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP148",
+    "question_text": "Which of these is a digital payment platform popular in Nepal?",
+    "options": {
+      "A": "eSewa",
+      "B": "PayPal",
+      "C": "Venmo",
+      "D": "Google Pay"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP149",
+    "question_text": "Which of the following is NOT a programming language?",
+    "options": {
+      "A": "Java",
+      "B": "Python",
+      "C": "HTML",
+      "D": "SQL"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP150",
+    "question_text": "What does a firewall do in computer networks?",
+    "options": {
+      "A": "Stores data securely",
+      "B": "Filters incoming and outgoing network traffic",
+      "C": "Backs up files",
+      "D": "Manages IP addresses"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Intermediate",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+
+
+
+  
+  {
+    "question_id": "COMP201",
+    "question_text": "What is the function of a checksum in networking?",
+    "options": {
+      "A": "To encrypt data packets",
+      "B": "To verify data integrity during transmission",
+      "C": "To assign IP addresses",
+      "D": "To compress data"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP202",
+    "question_text": "Which algorithm is commonly used for symmetric encryption?",
+    "options": {
+      "A": "RSA",
+      "B": "AES",
+      "C": "SHA-256",
+      "D": "MD5"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP203",
+    "question_text": "What is the primary difference between a compiler and an interpreter?",
+    "options": {
+      "A": "Compiler translates the entire program before execution; interpreter translates line-by-line during execution",
+      "B": "Interpreter translates the entire program before execution; compiler translates line-by-line",
+      "C": "Compiler only works with web languages",
+      "D": "Interpreter only works with machine code"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP204",
+    "question_text": "Which Boolean algebra identity states that A + A' = 1?",
+    "options": {
+      "A": "Complement Law",
+      "B": "Identity Law",
+      "C": "Distributive Law",
+      "D": "Associative Law"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP205",
+    "question_text": "Which multimedia file format is typically used for video streaming on the internet?",
+    "options": {
+      "A": "JPEG",
+      "B": "MP4",
+      "C": "GIF",
+      "D": "PNG"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP206",
+    "question_text": "What does the term 'latency' refer to in computer networking?",
+    "options": {
+      "A": "Amount of data transferred per second",
+      "B": "Time delay between sending and receiving data",
+      "C": "Number of devices connected to the network",
+      "D": "The IP address of a device"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP207",
+    "question_text": "In software development, what is 'refactoring'?",
+    "options": {
+      "A": "Adding new features",
+      "B": "Removing bugs",
+      "C": "Improving code structure without changing its behavior",
+      "D": "Writing documentation"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP208",
+    "question_text": "What is the main purpose of the Domain Name System (DNS)?",
+    "options": {
+      "A": "To manage IP addresses",
+      "B": "To translate domain names into IP addresses",
+      "C": "To provide email services",
+      "D": "To encrypt data transmissions"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP209",
+    "question_text": "Which type of attack involves intercepting and altering communication between two parties without their knowledge?",
+    "options": {
+      "A": "Phishing",
+      "B": "Man-in-the-middle attack",
+      "C": "Denial-of-service attack",
+      "D": "SQL Injection"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP210",
+    "question_text": "What is the hexadecimal representation of the binary number 11010110?",
+    "options": {
+      "A": "D6",
+      "B": "B6",
+      "C": "C7",
+      "D": "A6"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+
+  {
+    "question_id": "COMP211",
+    "question_text": "Which type of malware replicates itself and spreads to other computers without user intervention?",
+    "options": {
+      "A": "Virus",
+      "B": "Worm",
+      "C": "Trojan",
+      "D": "Spyware"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP212",
+    "question_text": "Which protocol is primarily used to securely transfer files over the internet?",
+    "options": {
+      "A": "FTP",
+      "B": "SFTP",
+      "C": "HTTP",
+      "D": "SMTP"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP213",
+    "question_text": "What is the main difference between RAM and ROM?",
+    "options": {
+      "A": "RAM is volatile, ROM is non-volatile",
+      "B": "RAM is slower than ROM",
+      "C": "ROM stores data temporarily",
+      "D": "RAM cannot be read"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP214",
+    "question_text": "What is the output of the Boolean expression (A AND B) OR (A AND B')?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "0",
+      "D": "1"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP215",
+    "question_text": "Which programming paradigm focuses on objects containing data and methods?",
+    "options": {
+      "A": "Procedural programming",
+      "B": "Functional programming",
+      "C": "Object-oriented programming",
+      "D": "Logic programming"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP216",
+    "question_text": "Which software tool is used to create, modify, and manage databases?",
+    "options": {
+      "A": "DBMS",
+      "B": "Compiler",
+      "C": "IDE",
+      "D": "Debugger"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP217",
+    "question_text": "Which digital finance tool is used for mobile payments and money transfers in Nepal?",
+    "options": {
+      "A": "PayPal",
+      "B": "eSewa",
+      "C": "Venmo",
+      "D": "Square"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP218",
+    "question_text": "What is phishing?",
+    "options": {
+      "A": "A method to speed up internet",
+      "B": "An attempt to obtain sensitive information by pretending to be a trustworthy entity",
+      "C": "A method of data encryption",
+      "D": "A software development practice"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP219",
+    "question_text": "Which of the following is NOT a type of computer network topology?",
+    "options": {
+      "A": "Bus",
+      "B": "Star",
+      "C": "Circle",
+      "D": "Ring"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP220",
+    "question_text": "Which of the following is a markup language used to create web pages?",
+    "options": {
+      "A": "CSS",
+      "B": "JavaScript",
+      "C": "HTML",
+      "D": "Python"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP221",
+    "question_text": "In computer graphics, what does DPI stand for?",
+    "options": {
+      "A": "Dots Per Inch",
+      "B": "Data Processing Interface",
+      "C": "Digital Pixel Information",
+      "D": "Dynamic Program Interaction"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP222",
+    "question_text": "Which protocol is used to send email messages between servers?",
+    "options": {
+      "A": "SMTP",
+      "B": "FTP",
+      "C": "HTTP",
+      "D": "POP3"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP223",
+    "question_text": "Which type of software is designed to detect and remove viruses?",
+    "options": {
+      "A": "Firewall",
+      "B": "Antivirus",
+      "C": "Backup",
+      "D": "Malware"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP224",
+    "question_text": "Which of the following is a valid IPv4 address?",
+    "options": {
+      "A": "192.168.0.1",
+      "B": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+      "C": "255.255.255.256",
+      "D": "123.456.78.90"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP225",
+    "question_text": "What is the use of Boolean logic in computer systems?",
+    "options": {
+      "A": "To perform arithmetic operations",
+      "B": "To control program flow",
+      "C": "To represent and manipulate logical statements",
+      "D": "To store text data"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP226",
+    "question_text": "Which type of backup method copies all files every time a backup is performed?",
+    "options": {
+      "A": "Incremental backup",
+      "B": "Differential backup",
+      "C": "Full backup",
+      "D": "Mirror backup"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP227",
+    "question_text": "What is the main function of an IP address?",
+    "options": {
+      "A": "Identify a device on a network",
+      "B": "Encrypt data packets",
+      "C": "Filter network traffic",
+      "D": "Store domain names"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP228",
+    "question_text": "Which of the following is NOT a digital finance tool?",
+    "options": {
+      "A": "Mobile banking",
+      "B": "Cryptocurrency",
+      "C": "E-commerce",
+      "D": "Traditional checkbook"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Digital Finance Tools and Application"
+  },
+  {
+    "question_id": "COMP229",
+    "question_text": "What is the principle of 'least privilege' in computer security?",
+    "options": {
+      "A": "Granting users the minimum levels of access necessary",
+      "B": "Allowing all users full access",
+      "C": "Only administrators can use the system",
+      "D": "Encrypting all files"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP230",
+    "question_text": "Which tool is used to manage and track changes in source code during software development?",
+    "options": {
+      "A": "Git",
+      "B": "Docker",
+      "C": "Jenkins",
+      "D": "Kubernetes"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP231",
+    "question_text": "What is the main advantage of cloud computing?",
+    "options": {
+      "A": "Local data storage",
+      "B": "Cost efficiency and scalability",
+      "C": "Requires expensive hardware",
+      "D": "Slower access speeds"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP232",
+    "question_text": "Which of the following programming languages is primarily used for artificial intelligence and machine learning?",
+    "options": {
+      "A": "COBOL",
+      "B": "Python",
+      "C": "HTML",
+      "D": "SQL"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP233",
+    "question_text": "What is the binary equivalent of the decimal number 45?",
+    "options": {
+      "A": "101101",
+      "B": "110011",
+      "C": "111100",
+      "D": "100111"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP234",
+    "question_text": "Which of the following is NOT a type of software license?",
+    "options": {
+      "A": "GPL",
+      "B": "MIT",
+      "C": "BSD",
+      "D": "RAM"
+    },
+    "correct_answer": "D",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP235",
+    "question_text": "Which of the following is used to detect unauthorized access attempts in a network?",
+    "options": {
+      "A": "Firewall",
+      "B": "IDS (Intrusion Detection System)",
+      "C": "Antivirus",
+      "D": "VPN"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP236",
+    "question_text": "What does URL stand for?",
+    "options": {
+      "A": "Uniform Resource Locator",
+      "B": "Universal Remote Link",
+      "C": "Unique Resource Locator",
+      "D": "Uniform Retrieval Link"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+  {
+    "question_id": "COMP237",
+    "question_text": "Which device connects different networks together?",
+    "options": {
+      "A": "Switch",
+      "B": "Router",
+      "C": "Hub",
+      "D": "Modem"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP238",
+    "question_text": "Which of the following is NOT a valid IP address?",
+    "options": {
+      "A": "192.168.1.1",
+      "B": "256.100.50.0",
+      "C": "10.0.0.5",
+      "D": "172.16.0.1"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP239",
+    "question_text": "What is the main characteristic of open-source software?",
+    "options": {
+      "A": "Software is free but source code is closed",
+      "B": "Source code is available for modification and redistribution",
+      "C": "Software can only be used for commercial purposes",
+      "D": "Software is always free with no restrictions"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP240",
+    "question_text": "What is the role of middleware in software architecture?",
+    "options": {
+      "A": "To provide network security",
+      "B": "To enable communication and data management between applications",
+      "C": "To manage hardware resources",
+      "D": "To design user interfaces"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP241",
+    "question_text": "What does 'bit rate' refer to in digital audio?",
+    "options": {
+      "A": "Number of bits processed per second",
+      "B": "Size of the audio file",
+      "C": "Duration of the audio",
+      "D": "Frequency of sound waves"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP242",
+    "question_text": "Which of the following is a method of secure user authentication?",
+    "options": {
+      "A": "Password only",
+      "B": "Two-factor authentication",
+      "C": "Captcha",
+      "D": "Session timeout"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP243",
+    "question_text": "What type of software testing is done without any prior knowledge of the internal workings?",
+    "options": {
+      "A": "White-box testing",
+      "B": "Black-box testing",
+      "C": "Unit testing",
+      "D": "Integration testing"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP244",
+    "question_text": "Which technology is used to create a virtual private network (VPN)?",
+    "options": {
+      "A": "Encryption",
+      "B": "Firewall",
+      "C": "Proxy Server",
+      "D": "Router"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP245",
+    "question_text": "What is the purpose of a firewall?",
+    "options": {
+      "A": "To speed up network connections",
+      "B": "To monitor and control incoming and outgoing network traffic",
+      "C": "To encrypt data",
+      "D": "To store user passwords"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Overviews of Facts Skills and Cyber Security"
+  },
+  {
+    "question_id": "COMP246",
+    "question_text": "Which data structure uses FIFO (First In First Out) principle?",
+    "options": {
+      "A": "Stack",
+      "B": "Queue",
+      "C": "Linked List",
+      "D": "Tree"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Software and Programming Concept"
+  },
+  {
+    "question_id": "COMP247",
+    "question_text": "What is the function of an operating system?",
+    "options": {
+      "A": "Manage hardware and software resources",
+      "B": "Create application software",
+      "C": "Connect to the internet",
+      "D": "Store user data"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Software"
+  },
+  {
+    "question_id": "COMP248",
+    "question_text": "What is a 'bit' in computer terminology?",
+    "options": {
+      "A": "A byte of information",
+      "B": "A binary digit, smallest unit of data",
+      "C": "A type of hardware",
+      "D": "An error in data"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP249",
+    "question_text": "Which application package is typically used for creating spreadsheets?",
+    "options": {
+      "A": "Microsoft Word",
+      "B": "Microsoft Excel",
+      "C": "PowerPoint",
+      "D": "Notepad"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Application Package"
+  },
+  {
+    "question_id": "COMP250",
+    "question_text": "What does 'HTTP' stand for?",
+    "options": {
+      "A": "HyperText Transfer Protocol",
+      "B": "Hyperlink Text Transfer Protocol",
+      "C": "High Transfer Text Protocol",
+      "D": "HyperText Transmission Program"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Introduction to Internet and WWW Network"
+  },
+
+  
+  {
+    "question_id": "COMP251",
+    "question_text": "Convert the decimal number 175 to its binary equivalent.",
+    "options": {
+      "A": "10101111",
+      "B": "11011111",
+      "C": "10011111",
+      "D": "11101111"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP252",
+    "question_text": "What is the result of the Boolean expression (A + B')(A' + B) if A = 1 and B = 0?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "Undefined",
+      "D": "2"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP253",
+    "question_text": "A network IP address is 192.168.1.15 with subnet mask 255.255.255.0. What is the network address?",
+    "options": {
+      "A": "192.168.1.0",
+      "B": "192.168.0.0",
+      "C": "192.168.1.255",
+      "D": "192.168.0.255"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP254",
+    "question_text": "If a hard disk has 512 bytes per sector and 1000 sectors per track with 2000 tracks, what is the total storage capacity?",
+    "options": {
+      "A": "1 GB",
+      "B": "1 TB",
+      "C": "1 MB",
+      "D": "2 GB"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP255",
+    "question_text": "Convert the hexadecimal number 3FA to decimal.",
+    "options": {
+      "A": "1018",
+      "B": "1012",
+      "C": "1024",
+      "D": "1010"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP256",
+    "question_text": "What is the number of bytes in 5 KB of memory?",
+    "options": {
+      "A": "5120 bytes",
+      "B": "5000 bytes",
+      "C": "1024 bytes",
+      "D": "1000 bytes"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  },
+  {
+    "question_id": "COMP257",
+    "question_text": "If a data packet travels 200 km through a fiber optic cable at the speed of 2 x 10^8 m/s, what is the approximate latency?",
+    "options": {
+      "A": "1 ms",
+      "B": "0.5 ms",
+      "C": "10 ms",
+      "D": "5 ms"
+    },
+    "correct_answer": "A",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Network"
+  },
+  {
+    "question_id": "COMP258",
+    "question_text": "What is the binary sum of 1011 + 1101?",
+    "options": {
+      "A": "11000",
+      "B": "10100",
+      "C": "11110",
+      "D": "10010"
+    },
+    "correct_answer": "C",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP259",
+    "question_text": "What is the output of the following logic circuit if inputs A=1, B=0, and C=1? Expression: (A AND B) OR (A AND C)",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "Undefined"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Number System Conversion, Boolean Logic"
+  },
+  {
+    "question_id": "COMP260",
+    "question_text": "A computer's CPU clock speed is 3 GHz. How many cycles does it complete in one second?",
+    "options": {
+      "A": "3 million",
+      "B": "3 billion",
+      "C": "3000 million",
+      "D": "30 billion"
+    },
+    "correct_answer": "B",
+    "subject": "Computer",
+    "difficulty": "Hard",
+    "topic": "Computer Fundamental and Multimedia"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

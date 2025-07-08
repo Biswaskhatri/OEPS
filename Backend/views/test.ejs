@@ -1,0 +1,71 @@
+<!-- views/test.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Online CSIT Entrance Mock Test</title>
+
+  <%- include("partials/navbar") %>
+  
+  <script>
+    // Countdown timer (2 hours = 7200 seconds)
+    let remainingSeconds = 7200;
+    function startTimer() {
+      const timerDisplay = document.getElementById('timer');
+      const countdown = setInterval(() => {
+        const hrs = String(Math.floor(remainingSeconds / 3600)).padStart(2, '0');
+        const mins = String(Math.floor((remainingSeconds % 3600) / 60)).padStart(2, '0');
+        const secs = String(remainingSeconds % 60).padStart(2, '0');
+        timerDisplay.textContent = `${hrs}:${mins}:${secs}`;
+
+        if (remainingSeconds <= 0) {
+          clearInterval(countdown);
+          document.getElementById('testForm').submit();
+        }
+        remainingSeconds--;
+      }, 1000);
+    }
+    window.onload = startTimer;
+  </script>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <div class="max-w-5xl mx-auto p-6">
+    <div class="flex justify-between items-center mb-6">
+      <h1 class="text-2xl font-bold">CSIT Entrance Mock Test</h1>
+      <div class="text-lg font-semibold text-red-600">Time Left: <span id="timer">02:00:00</span></div>
+    </div>
+
+    <form id="testForm" action="/test" method="POST">
+      <% let index = 1; %>
+      <% testQuestions.forEach((q) => { %>
+        <div class="bg-white p-4 mb-4 rounded-lg shadow">
+          <p class="font-semibold mb-2">Q<%= index++ %>. <%= q.question_text %> <span class="text-sm text-gray-500">[<%= q.subject %> | <%= q.difficulty %>]</span></p>
+          <div class="space-y-1">
+            <label class="block">
+              <input type="radio" name="answers[<%= q.question_id %>]" value="A" class="mr-2" /> A. <%= q.options.A %>
+            </label>
+            <label class="block">
+              <input type="radio" name="answers[<%= q.question_id %>]" value="B" class="mr-2" /> B. <%= q.options.B %>
+            </label>
+            <label class="block">
+              <input type="radio" name="answers[<%= q.question_id %>]" value="C" class="mr-2" /> C. <%= q.options.C %>
+            </label>
+            <label class="block">
+              <input type="radio" name="answers[<%= q.question_id %>]" value="D" class="mr-2" /> D. <%= q.options.D %>
+            </label>
+          </div>
+        </div>
+      <% }); %>
+
+      <div class="text-center mt-6">
+        <button type="submit" class="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700">
+          Submit Test
+        </button>
+      </div>
+    </form>
+  </div>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Manage Questions</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<%- include("partials/navbar") %>
+
+<body class="bg-gray-100 p-6">
+  <div class="max-w-5xl mx-auto bg-white p-6 rounded-lg shadow-md">
+    <h1 class="text-2xl font-bold text-blue-600 text-center mb-6">Manage CSIT Questions</h1>
+
+    <!-- Add New Question -->
+    <form method="POST" action="/questions/add" class="grid grid-cols-2 gap-4 mb-10">
+      <input name="question_id" placeholder="Question ID" required class="p-2 border rounded" />
+      <input name="question_text" placeholder="Question Text" required class="p-2 border rounded" />
+      <input name="options[A]" placeholder="Option A" required class="p-2 border rounded" />
+      <input name="options[B]" placeholder="Option B" required class="p-2 border rounded" />
+      <input name="options[C]" placeholder="Option C" required class="p-2 border rounded" />
+      <input name="options[D]" placeholder="Option D" required class="p-2 border rounded" />
+      <select name="correct_answer" required class="p-2 border rounded">
+       <option value="">   Select Correct Option </option>
+        <option value="A">A</option>
+        <option value="B">B</option>
+        <option value="C">C</option>
+        <option value="D">D</option>
+      </select>
+
+      <select name="subject" required class="p-2 border rounded">
+        <option value="">  Select Subject </option>
+        <option value="Physics">Physics</option>
+        <option value="Chemistry">Chemistry</option>
+        <option value="Math">Math</option>
+        <option value="English">English</option>
+        <option value="Computer">Computer</option>
+      </select>
+
+      <select name="difficulty" required class="p-2 border rounded">
+        <option value="">  Select Difficulty </option>
+        <option value="basic">Basic</option>
+        <option value="intermediate">Intermediate</option>
+        <option value="hard">Hard</option>
+      </select>
+
+
+      <input name="topic" placeholder="Topic"  class="p-2 border rounded" />
+      <button class="col-span-2 bg-blue-600 text-white py-2 rounded hover:bg-blue-700">Add Question</button>
+    </form>
+
+    <!-- Search for Update/Delete -->
+    <form method="POST" action="/questions/find" class="grid grid-cols-2 gap-4">
+      <input name="subject" placeholder="Subject" required class="p-2 border rounded" />
+      <input name="question_id" placeholder="Question ID" required class="p-2 border rounded" />
+      <button class="col-span-2 bg-green-600 text-white py-2 rounded hover:bg-green-700">Search Question</button>
+    </form>
+  </div>
+</body>
+</html>
+<% if (message) { %>
+  <div id="toast-message" class="fixed bottom-4 left-1/2 transform -translate-x-1/2 bg-green-500 text-white px-6 py-3 rounded-lg shadow-lg z-50 opacity-0 transition-opacity duration-500">
+    <%= message %>
+  </div>
+
+  <script>
+    const msg = document.getElementById('toast-message');
+    if (msg) {
+      // Fade in
+      msg.classList.add('opacity-100');
+
+      // Fade out after 3 seconds
+      setTimeout(() => {
+        msg.classList.remove('opacity-100');
+        msg.classList.add('opacity-0');
+      }, 3000);
+
+      // Optionally remove element after fade-out
+      setTimeout(() => {
+        msg.remove();
+      }, 4000);
+    }
+  </script>
+<% } %>
+

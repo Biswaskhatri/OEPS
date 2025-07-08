@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CSIT Entrance Mock Test System</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+  <%- include("partials/navbar") %>
+
+  <!-- Hero Section -->
+  <section class="py-16 px-6 bg-white border-b border-gray-200">
+    <div class="max-w-5xl mx-auto text-center">
+      <h1 class="text-4xl font-bold mb-4">Welcome to the CSIT Entrance Mock Test System</h1>
+      <p class="text-lg text-gray-600 mb-8">
+        Prepare smartly for your CSIT entrance exams with mock tests, performance analysis, and adaptive difficulty.
+      </p>
+
+      <div class="flex flex-col sm:flex-row justify-center gap-4">
+        <a href="/signup" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition shadow">
+          Sign Up
+        </a>
+        <a href="/login" class="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition shadow">
+          Log In
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section class="py-16 px-6 bg-gray-100">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl font-semibold text-center mb-10">Why Use This System?</h2>
+
+      <div class="grid md:grid-cols-2 gap-8 text-gray-700">
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">🔁 Adaptive Difficulty</h3>
+          <p>Questions adjust based on your performance to help you learn more efficiently.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">📊 Subject-wise Feedback</h3>
+          <p>Get personalized insights on your strengths and weak areas after each test.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">🧠 Curated Question Bank</h3>
+          <p>Practice from a large pool of questions based on real CSIT entrance trends.</p>
+        </div>
+
+        <div class="bg-white rounded-lg shadow p-6 hover:shadow-md transition">
+          <h3 class="font-semibold text-lg mb-2">⏱️ Real-Time Timer & Results</h3>
+          <p>Simulate the actual exam experience and receive instant results with accuracy stats.</p>
+        </div>
+      </div>
+
+      
+    </div>
+  </section>
+
+</body>
+</html>
