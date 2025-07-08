@@ -6,35 +6,35 @@ import RecentTestsCard from "../components/dashboard/RecentTest";
 export default function Dashpage() {
   const navigate = useNavigate();
 
-  // ✅ Step 1: Dummy values to use for now (these work without backend)
-  const [user, setUser] = useState({ name: "Om", email: "om@example.com" });
-  const [stats, setStats] = useState({
-    totalTests: 12,
-    averageScore: 16.5,
-    lastTestDate: "2025-06-30",
-  });
+  // State for user, stats, recent tests
+  const [user, setUser] = useState(null);
+  const [stats, setStats] = useState(null);
+  const [recentTests, setRecentTests] = useState([]);
+  const [loading, setLoading] = useState(true);
 
-  // 💡 Step 2: This will run later after backend is done
-  /*
   useEffect(() => {
-    fetch("/api/user/dashboard-summary") // 🔧 Your friend will build this API
-      .then((res) => res.json())
-      .then((data) => {
-        setUser(data.user);     // 🧠 Set real user data here
-        setStats(data.stats);   // 🧠 Set real stats data here
+    fetch("/api/user/dashboard-summary")
+      .then((res) => {
+        if (!res.ok) throw new Error("Failed to fetch dashboard data");
+        return res.json();
       })
-      .catch((err) => console.error("Failed to fetch dashboard data", err));
+      .then((data) => {
+        setUser(data.user);
+        setStats(data.stats);
+        setRecentTests(data.recentTests || []);
+      })
+      .catch((err) => console.error(err))
+      .finally(() => setLoading(false));
   }, []);
-  */
 
-  // ✅ Step 3: Display loading if data hasn't arrived (only needed when using real API)
-  /*
-  if (!user || !stats) {
+  if (loading) {
     return <div className="text-center mt-20 text-gray-500">Loading dashboard...</div>;
   }
-  */
 
-  // ✅ Step 4: Display dashboard normally
+  if (!user || !stats) {
+    return <div className="text-center mt-20 text-red-500">Failed to load dashboard data.</div>;
+  }
+
   return (
     <div className="max-w-5xl mx-auto px-4 py-8 space-y-6">
       <ProfileSummary user={user} stats={stats} />
@@ -48,7 +48,7 @@ export default function Dashpage() {
         </button>
       </div>
 
-      <RecentTestsCard />
+      <RecentTestsCard recentTests={recentTests} />
     </div>
   );
 }
