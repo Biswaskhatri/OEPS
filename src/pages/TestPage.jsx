@@ -1,5 +1,5 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React,{useEffect} from "react";
+import { Link, useNavigate } from "react-router-dom";
 import { BookOpen, History, Layers3 } from "lucide-react";
 
 function TestCard({ icon: Icon, title, description, route, buttonLabel }) {
@@ -22,6 +22,15 @@ function TestCard({ icon: Icon, title, description, route, buttonLabel }) {
 }
 
 export default function TestPage() {
+  
+  const navigate = useNavigate();
+
+  useEffect(() => {
+    const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
+    if (!isLoggedIn) {
+      navigate("/auth",{replace:true}); // redirect to login/signup page
+    }
+  }, [navigate]);
   return (
     <div className="max-w-7xl mx-auto px-4 py-16 bg-blue-50 min-h-screen ">
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">

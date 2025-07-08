@@ -9,12 +9,15 @@ export default function DailyTestPage() {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  const BASE_URL = "http://192.168.18.9:3001"; // Make sure to use http://
+  const BASE_URL = "http://192.168.18.9:3001";
 
   useEffect(() => {
     if (testStarted) {
       setLoading(true);
-      fetch(`${BASE_URL}/api/test/start-test`)
+      fetch(`${BASE_URL}/api/test/start-test`, {
+        method: "GET",
+        credentials: "include", // important for session cookies
+      })
         .then((res) => {
           if (!res.ok) {
             throw new Error("Network response was not ok");
@@ -22,8 +25,7 @@ export default function DailyTestPage() {
           return res.json();
         })
         .then((data) => {
-          // Assuming your backend sends: { questions: [...] }
-          setQuestions(data.questions || []); // safely access questions array
+          setQuestions(data.questions || []);
           setLoading(false);
         })
         .catch((err) => {
@@ -47,10 +49,38 @@ export default function DailyTestPage() {
   };
 
   const handleSubmit = () => {
+    if (Object.keys(answers).length < questions.length) {
+      if (
+        !window.confirm(
+          "You have unanswered questions. Do you want to submit anyway?"
+        )
+      ) {
+        return;
+      }
+    }
+
     setSubmitted(true);
-    console.log("Name:", userName);
-    console.log("User Answers:", answers);
-    alert("Test submitted! Thank you, " + userName);
+
+    // Send answers to backend
+    fetch(`${BASE_URL}/api/test/submit-test`, {
+      method: "POST",
+      credentials: "include",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ answers }),
+    })
+      .then((res) => {
+        if (!res.ok) throw new Error("Submit failed");
+        return res.json();
+      })
+      .then((data) => {
+        alert("Test submitted! Thank you, " + userName);
+        console.log("Submission response:", data);
+      })
+      .catch((err) => {
+        console.error("Submit error:", err);
+        alert("Failed to submit test. Please try again.");
+        setSubmitted(false);
+      });
   };
 
   return (
@@ -86,33 +116,33 @@ export default function DailyTestPage() {
             <p className="mt-8 text-lg text-gray-600">Loading questions...</p>
           ) : Array.isArray(questions) && questions.length > 0 ? (
             <div className="mt-8 space-y-6 w-full max-w-3xl">
-              {questions.map(({ _id, question, options }, index) => (
+              {questions.map(({ question_id, question_text, options }, index) => (
                 <div
-                  key={_id}
+                  key={question_id}
                   className="bg-white p-6 rounded-lg shadow-md mx-auto max-w-xl"
                 >
                   <p className="font-semibold mb-4 text-lg flex items-start">
                     <span className="font-bold mr-3 min-w-[2.5rem] text-left">
                       Q{index + 1}.
                     </span>
-                    <span className="flex-1">{question}</span>
+                    <span className="flex-1">{question_text}</span>
                   </p>
                   <div className="flex flex-col space-y-3">
-                    {options.map((opt) => (
+                    {Object.entries(options).map(([key, value]) => (
                       <label
-                        key={opt}
+                        key={key}
                         className="cursor-pointer border border-gray-300 rounded px-4 py-2 flex items-center space-x-3 hover:border-blue-500 transition"
                       >
                         <input
                           type="radio"
-                          name={`question-${_id}`}
-                          value={opt}
+                          name={`question-${question_id}`}
+                          value={key}
                           disabled={submitted}
-                          checked={answers[_id] === opt}
-                          onChange={() => handleAnswer(_id, opt)}
+                          checked={answers[question_id] === key}
+                          onChange={() => handleAnswer(question_id, key)}
                           className="form-radio text-blue-600"
                         />
-                        <span>{opt}</span>
+                        <span>{key}. {value}</span>
                       </label>
                     ))}
                   </div>
