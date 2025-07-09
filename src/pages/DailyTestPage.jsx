@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import Timer from "../components/test/Timer";
 
 export default function DailyTestPage() {
-  const [userName, setUserName] = useState("");
   const [testStarted, setTestStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [answers, setAnswers] = useState({});
@@ -12,16 +11,19 @@ export default function DailyTestPage() {
   const BASE_URL = "http://192.168.18.9:3001";
 
   useEffect(() => {
+    // Automatically start test when page loads
+    setTestStarted(true);
+  }, []);
+
+  useEffect(() => {
     if (testStarted) {
       setLoading(true);
       fetch(`${BASE_URL}/api/test/start-test`, {
         method: "GET",
-        credentials: "include", // important for session cookies
+        credentials: "include",
       })
         .then((res) => {
-          if (!res.ok) {
-            throw new Error("Network response was not ok");
-          }
+          if (!res.ok) throw new Error("Network response was not ok");
           return res.json();
         })
         .then((data) => {
@@ -36,32 +38,17 @@ export default function DailyTestPage() {
     }
   }, [testStarted]);
 
-  const handleStart = () => {
-    if (!userName.trim()) {
-      alert("Please enter your name.");
-      return;
-    }
-    setTestStarted(true);
-  };
-
   const handleAnswer = (qId, selectedOption) => {
     setAnswers((prev) => ({ ...prev, [qId]: selectedOption }));
   };
 
   const handleSubmit = () => {
     if (Object.keys(answers).length < questions.length) {
-      if (
-        !window.confirm(
-          "You have unanswered questions. Do you want to submit anyway?"
-        )
-      ) {
-        return;
-      }
+      if (!window.confirm("You have unanswered questions. Submit anyway?")) return;
     }
 
     setSubmitted(true);
 
-    // Send answers to backend
     fetch(`${BASE_URL}/api/test/submit-test`, {
       method: "POST",
       credentials: "include",
@@ -73,7 +60,7 @@ export default function DailyTestPage() {
         return res.json();
       })
       .then((data) => {
-        alert("Test submitted! Thank you, " + userName);
+        alert("Test submitted! Thank you.");
         console.log("Submission response:", data);
       })
       .catch((err) => {
@@ -85,89 +72,64 @@ export default function DailyTestPage() {
 
   return (
     <div className="min-h-screen bg-blue-100 flex flex-col items-center p-6">
-      {!testStarted ? (
-        <div className="bg-white p-8 rounded-lg shadow-md max-w-md w-full text-center">
-          <h1 className="text-3xl font-bold mb-4">Daily Mixed Test</h1>
-          <p className="text-gray-600 mb-4">Enter your name to begin:</p>
-          <input
-            type="text"
-            value={userName}
-            onChange={(e) => setUserName(e.target.value)}
-            className="border rounded px-4 py-2 w-full mb-4"
-            placeholder="Your Name"
-          />
-          <button
-            onClick={handleStart}
-            className="px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 font-semibold w-full"
-          >
-            Start Test
-          </button>
+      <h1 className="text-3xl font-bold mb-2">Daily Mixed Test</h1>
+
+      {!submitted && <Timer duration={7200} onExpire={handleSubmit} />}
+
+      {loading ? (
+        <p className="mt-8 text-lg text-gray-600">Loading questions...</p>
+      ) : Array.isArray(questions) && questions.length > 0 ? (
+        <div className="mt-8 space-y-6 w-full max-w-3xl">
+          {questions.map(({ question_id, question_text, options }, index) => (
+            <div
+              key={question_id}
+              className="bg-white p-6 rounded-lg shadow-md mx-auto max-w-xl"
+            >
+              <p className="font-semibold mb-4 text-lg flex items-start">
+                <span className="font-bold mr-3 min-w-[2.5rem] text-left">
+                  Q{index + 1}.
+                </span>
+                <span className="flex-1">{question_text}</span>
+              </p>
+              <div className="flex flex-col space-y-3">
+                {Object.entries(options).map(([key, value]) => (
+                  <label
+                    key={key}
+                    className="cursor-pointer border border-gray-300 rounded px-4 py-2 flex items-center space-x-3 hover:border-blue-500 transition"
+                  >
+                    <input
+                      type="radio"
+                      name={`question-${question_id}`}
+                      value={key}
+                      disabled={submitted}
+                      checked={answers[question_id] === key}
+                      onChange={() => handleAnswer(question_id, key)}
+                      className="form-radio text-blue-600"
+                    />
+                    <span>{key}. {value}</span>
+                  </label>
+                ))}
+              </div>
+            </div>
+          ))}
         </div>
       ) : (
-        <>
-          <h1 className="text-3xl font-bold mb-2">Daily Mixed Test</h1>
-          <p className="text-lg text-gray-700 mb-6">
-            Name: <strong>{userName}</strong>
-          </p>
+        <p className="mt-8 text-lg text-gray-600">No questions available.</p>
+      )}
 
-          {!submitted && <Timer duration={7200} onExpire={handleSubmit} />}
+      {!submitted && !loading && questions.length > 0 && (
+        <button
+          onClick={handleSubmit}
+          className="mt-8 px-8 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 font-semibold"
+        >
+          Submit Test
+        </button>
+      )}
 
-          {loading ? (
-            <p className="mt-8 text-lg text-gray-600">Loading questions...</p>
-          ) : Array.isArray(questions) && questions.length > 0 ? (
-            <div className="mt-8 space-y-6 w-full max-w-3xl">
-              {questions.map(({ question_id, question_text, options }, index) => (
-                <div
-                  key={question_id}
-                  className="bg-white p-6 rounded-lg shadow-md mx-auto max-w-xl"
-                >
-                  <p className="font-semibold mb-4 text-lg flex items-start">
-                    <span className="font-bold mr-3 min-w-[2.5rem] text-left">
-                      Q{index + 1}.
-                    </span>
-                    <span className="flex-1">{question_text}</span>
-                  </p>
-                  <div className="flex flex-col space-y-3">
-                    {Object.entries(options).map(([key, value]) => (
-                      <label
-                        key={key}
-                        className="cursor-pointer border border-gray-300 rounded px-4 py-2 flex items-center space-x-3 hover:border-blue-500 transition"
-                      >
-                        <input
-                          type="radio"
-                          name={`question-${question_id}`}
-                          value={key}
-                          disabled={submitted}
-                          checked={answers[question_id] === key}
-                          onChange={() => handleAnswer(question_id, key)}
-                          className="form-radio text-blue-600"
-                        />
-                        <span>{key}. {value}</span>
-                      </label>
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
-          ) : (
-            <p className="mt-8 text-lg text-gray-600">No questions available.</p>
-          )}
-
-          {!submitted && !loading && questions.length > 0 && (
-            <button
-              onClick={handleSubmit}
-              className="mt-8 px-8 py-3 bg-blue-600 text-white rounded hover:bg-blue-700 font-semibold"
-            >
-              Submit Test
-            </button>
-          )}
-
-          {submitted && (
-            <div className="mt-8 p-4 bg-green-100 text-green-800 rounded font-semibold text-center">
-              Thank you, {userName}, for submitting the test.
-            </div>
-          )}
-        </>
+      {submitted && (
+        <div className="mt-8 p-4 bg-green-100 text-green-800 rounded font-semibold text-center">
+          Thank you for submitting the test.
+        </div>
       )}
     </div>
   );
