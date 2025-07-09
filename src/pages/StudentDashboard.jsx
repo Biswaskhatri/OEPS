@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import ProfileSummary from "../components/dashboard/ProfileSummary";
-import RecentTestsCard from "../components/dashboard/RecentTest";
+import ProfileSummary from "../components/student/ProfileSummary";
+import RecentTestsCard from "../components/student/RecentTest";
 
 export default function Dashpage() {
   const navigate = useNavigate();

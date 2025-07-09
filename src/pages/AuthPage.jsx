@@ -54,75 +54,93 @@ export default function AuthPage({ setIsAuthenticated }) {
   }
 
   async function handleSubmit(e) {
-    e.preventDefault();
+  e.preventDefault();
 
-    const newErrors = {};
+  const newErrors = {};
 
-    if (!email) newErrors.email = "Email is required";
-    if (!password) newErrors.password = "Password is required";
+  if (!email) newErrors.email = "Email is required";
+  if (!password) newErrors.password = "Password is required";
 
-    if (!isLogin) {
-      if (!firstName.trim()) newErrors.firstName = "First name is required";
-      if (!lastName.trim()) newErrors.lastName = "Last name is required";
+  if (!isLogin) {
+    if (!firstName.trim()) newErrors.firstName = "First name is required";
+    if (!lastName.trim()) newErrors.lastName = "Last name is required";
 
-      if (!validatePassword(password))
-        newErrors.password =
-          "Password must contain at least one uppercase letter, one number, and one special character.";
+    if (!validatePassword(password))
+      newErrors.password =
+        "Password must contain at least one uppercase letter, one number, and one special character.";
 
-      if (password !== confirmPassword)
-        newErrors.confirmPassword = "Passwords do not match";
+    if (password !== confirmPassword)
+      newErrors.confirmPassword = "Passwords do not match";
 
-      if (!acceptedTerms)
-        newErrors.acceptedTerms = "Please accept the terms and conditions";
-    }
-
-    if (Object.keys(newErrors).length > 0) {
-      setErrors(newErrors);
-      return;
-    } else {
-      setErrors({});
-    }
-
-    const endpoint = isLogin
-      ? `${BASE_URL}/api/login`
-      : `${BASE_URL}/api/signup`;
-
-    const payload = isLogin
-      ? { email, password }
-      : { firstName, lastName, email, password, userType };
-
-    try {
-      const response = await fetch(endpoint, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-
-      const text = await response.text();
-      let data;
-      try {
-        data = JSON.parse(text);
-      } catch {
-        alert("Received invalid JSON from server");
-        return;
-      }
-
-      if (response.ok) {
-        alert(`Success! Welcome ${email}`);
-        localStorage.setItem("isLoggedIn", "true");
-        setIsAuthenticated(true);  // <-- THIS LINE IS ADDED
-        navigate("/test");
-      } else {
-        if (data.errors && Array.isArray(data.errors)) {
-          alert("Errors:\n" + data.errors.join("\n"));
-        } else {
-          alert(`Error: ${data.message || "Unknown error"}`);
-        }
-      }
-    } catch (error) {
-      alert("Network error: " + error.message);
-    }
+    if (!acceptedTerms)
+      newErrors.acceptedTerms = "Please accept the terms and conditions";
   }
+
+  if (Object.keys(newErrors).length > 0) {
+    setErrors(newErrors);
+    return;
+  } else {
+    setErrors({});
+  }
+
+  const endpoint = isLogin
+    ? `${BASE_URL}/api/login`
+    : `${BASE_URL}/api/signup`;
+
+  const payload = isLogin
+    ? { email, password }
+    : { firstName, lastName, email, password, userType };
+
+  try {
+    const response = await fetch(endpoint, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+
+    const text = await response.text();
+    let data;
+    try {
+      data = JSON.parse(text);
+    } catch {
+      alert("Received invalid JSON from server");
+      return;
+    }
+
+    if (response.ok) {
+      alert(`Success! Welcome ${email}`);
+
+      localStorage.setItem("isLoggedIn", "true");
+      localStorage.setItem("userEmail", email);
+
+      // Save role from response (assuming `data.role` exists)
+      if (data.role) {
+        localStorage.setItem("userRole", data.role);
+      } else {
+        // fallback role
+        localStorage.setItem("userRole", "student");
+      }
+
+      setIsAuthenticated(true);
+
+      // Redirect based on role
+      if (data.role === "admin") {
+        navigate("/admin-dashboard"); // admin dashboard route
+      } else {
+        navigate("/dashboard"); // student dashboard route
+      }
+    } else {
+      if (data.errors && Array.isArray(data.errors)) {
+        alert("Errors:\n" + data.errors.join("\n"));
+      } else {
+        alert(`Error: ${data.message || "Unknown error"}`);
+      }
+    }
+  } catch (error) {
+    alert("Network error: " + error.message);
+  }
+}
+
 
   return (
     <div className="max-w-md mx-auto mt-20 p-8 border rounded-lg shadow-lg bg-white">
