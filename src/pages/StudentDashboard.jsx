@@ -13,7 +13,9 @@ export default function Dashpage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/api/user/dashboard-summary")
+    fetch("http://localhost:3001/api/user/dashboard-summary", {
+    credentials: "include", // ✅ required for session auth
+  })
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch dashboard data");
         return res.json();

@@ -18,6 +18,7 @@ export default function DailyTestPage() {
   useEffect(() => {
     if (testStarted) {
       setLoading(true);
+    
       fetch(`${BASE_URL}/api/test/start-test`, {
         method: "GET",
         credentials: "include",

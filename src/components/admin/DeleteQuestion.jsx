@@ -16,6 +16,7 @@ export default function DeleteQuestion() {
     try {
       const response = await fetch(`http://localhost:3001/api/questions/${questionId}`, {
         method: "DELETE",
+         credentials: "include",
       });
 
       const data = await response.json();

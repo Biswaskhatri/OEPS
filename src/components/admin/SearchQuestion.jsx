@@ -20,6 +20,7 @@ export default function SearchQuestion() {
       const res = await fetch("/api/questions/find", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
+         credentials: "include",
         body: JSON.stringify({ subject, question_id: questionId }),
       });
 

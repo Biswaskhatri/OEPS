@@ -34,6 +34,7 @@ export default function AddQuestion() {
       const response = await fetch("http://localhost:3001/api/questions", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
+         credentials: "include",
         body: JSON.stringify(formData),
       });
 

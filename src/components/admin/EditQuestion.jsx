@@ -66,6 +66,7 @@ export default function EditQuestion() {
       const res = await fetch(`/api/questions/${id}`, {
         method: "PUT", // or PATCH if backend supports partial update
         headers: { "Content-Type": "application/json" },
+         credentials: "include",
         body: JSON.stringify(formData),
       });
 

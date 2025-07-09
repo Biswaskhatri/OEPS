@@ -30,43 +30,42 @@ export default function SubjectTestPage() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    if (selectedSubject) {
-      setLoading(true);
-      setError(null);
-      setAnswers({});
-      setSubmitted(false);
+  if (selectedSubject) {
+    setLoading(true);
+    setError(null);
+    setAnswers({});
+    setSubmitted(false);
 
-      fetch(`${BASE_URL}/api/test/questions?subject=${encodeURIComponent(selectedSubject)}`)
-        .then((res) => {
-          if (!res.ok) {
-            throw new Error(`Failed to fetch questions for ${selectedSubject}`);
-          }
-          return res.json();
-        })
-        .then((data) => {
-          // Assuming backend returns: { success: true, questions: [...] }
-          if (data.success && Array.isArray(data.questions)) {
-            // Your backend question objects might have question_text & options object
-            // Convert them to format expected by UI: { _id, question, options[] }
-            const formattedQuestions = data.questions.map((q) => ({
-              _id: q.question_id || q._id,
-              question: q.question_text || q.question,
-              options: q.options ? Object.values(q.options) : [],
-            }));
-            setQuestions(formattedQuestions);
-          } else {
-            setQuestions([]);
-            setError("No questions found for this subject.");
-          }
-          setLoading(false);
-        })
-        .catch((err) => {
-          console.error(err);
-          setError("Error fetching questions. Please try again later.");
-          setLoading(false);
-        });
-    }
-  }, [selectedSubject]);
+    fetch(`${BASE_URL}/api/test/questions?subject=${encodeURIComponent(selectedSubject)}`, {
+      credentials: "include", // ✅ required for session auth
+    })
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error(`Failed to fetch questions for ${selectedSubject}`);
+        }
+        return res.json();
+      })
+      .then((data) => {
+        if (data.success && Array.isArray(data.questions)) {
+          const formattedQuestions = data.questions.map((q) => ({
+            _id: q.question_id || q._id,
+            question: q.question_text || q.question,
+            options: q.options ? Object.values(q.options) : [],
+          }));
+          setQuestions(formattedQuestions);
+        } else {
+          setQuestions([]);
+          setError("No questions found for this subject.");
+        }
+        setLoading(false);
+      })
+      .catch((err) => {
+        console.error(err);
+        setError("Error fetching questions. Please try again later.");
+        setLoading(false);
+      });
+  }
+}, [selectedSubject]);
 
   const handleAnswer = (qId, selectedOption) => {
     setAnswers((prev) => ({ ...prev, [qId]: selectedOption }));
