@@ -1,5 +1,5 @@
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 
 import MainLayout from "./components/layout/MainLayout";
@@ -11,26 +11,61 @@ import TestPage from "./pages/TestPage";
 import DailyTestPage from "./pages/DailyTestPage";
 import SubjectTestPage from "./pages/SubjectTestPage";
 import StudentDashboard from "./pages/StudentDashboard";
-import AdminDashboard from "./pages/AdminDashboard"
+import AdminDashboard from "./pages/AdminDashboard";
 
 export default function App() {
-  const [isAuthenticated, setIsAuthenticated] = useState(false);
-   const [userRole, setUserRole] = useState(null);
+  // Initialize auth and role from localStorage so user stays logged in on refresh
+  const [isAuthenticated, setIsAuthenticated] = useState(
+    localStorage.getItem("isLoggedIn") === "true"
+  );
+  const [userRole, setUserRole] = useState(localStorage.getItem("userRole"));
 
+  // Logout function clears auth info
+  const logout = () => {
+    localStorage.removeItem("isLoggedIn");
+    localStorage.removeItem("userRole");
+    localStorage.removeItem("userEmail");
+    setIsAuthenticated(false);
+    setUserRole(null);
+  };
 
- 
   return (
     <Router>
       <Routes>
-        {/* Pass auth props to MainLayout */}
         <Route
-          element={<MainLayout isAuthenticated={isAuthenticated} setIsAuthenticated={setIsAuthenticated} />}
+          element={
+            <MainLayout
+              isAuthenticated={isAuthenticated}
+              setIsAuthenticated={setIsAuthenticated}
+              userRole={userRole}
+              logout={logout}
+            />
+          }
         >
           <Route path="/" element={<HomePage />} />
-          <Route path="/test" element={<TestPage />} />
-          <Route path="/test/daily" element={<DailyTestPage />} />
-          <Route path="/test/subjects" element={<SubjectTestPage />} />
- <Route
+          <Route
+            path="/test"
+            element={
+              isAuthenticated ? <TestPage /> : <Navigate to="/auth" replace />
+            }
+          />
+          <Route
+            path="/test/daily"
+            element={
+              isAuthenticated ? <DailyTestPage /> : <Navigate to="/auth" replace />
+            }
+          />
+          <Route
+            path="/test/subjects"
+            element={
+              isAuthenticated ? (
+                <SubjectTestPage />
+              ) : (
+                <Navigate to="/auth" replace />
+              )
+            }
+          />
+          <Route
             path="/dashboard"
             element={
               isAuthenticated ? (
@@ -40,14 +75,21 @@ export default function App() {
                   <StudentDashboard />
                 )
               ) : (
-                <Navigate to="/auth" />
+                <Navigate to="/auth" replace />
               )
             }
           />
         </Route>
 
-        {/* Auth page gets setIsAuthenticated to update on login */}
-        <Route path="/auth" element={<AuthPage setIsAuthenticated={setIsAuthenticated} />} />
+        <Route
+          path="/auth"
+          element={
+            <AuthPage
+              setIsAuthenticated={setIsAuthenticated}
+              setUserRole={setUserRole}
+            />
+          }
+        />
       </Routes>
     </Router>
   );

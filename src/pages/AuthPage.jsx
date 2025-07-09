@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { useGoogleLogin } from "@react-oauth/google";
 import { User, UserCheck, Mail, Lock } from "lucide-react";
@@ -21,7 +22,7 @@ function InputWithIcon({ icon: Icon, value, onChange, ...rest }) {
   );
 }
 
-export default function AuthPage({ setIsAuthenticated }) {
+export default function AuthPage({ setIsAuthenticated, setUserRole }) {
   const [isLogin, setIsLogin] = useState(true);
 
   const [firstName, setFirstName] = useState("");
@@ -29,7 +30,7 @@ export default function AuthPage({ setIsAuthenticated }) {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
-  const [userType] = useState("student"); // hidden fixed user type
+  const [userType] = useState("student");
   const [acceptedTerms, setAcceptedTerms] = useState(false);
 
   const [errors, setErrors] = useState({});
@@ -40,6 +41,7 @@ export default function AuthPage({ setIsAuthenticated }) {
   const googleLogin = useGoogleLogin({
     onSuccess: (tokenResponse) => {
       alert("Google login successful! Token: " + tokenResponse.access_token);
+      // You can add backend login with Google token here
     },
     onError: () => {
       alert("Google login failed!");
@@ -54,93 +56,87 @@ export default function AuthPage({ setIsAuthenticated }) {
   }
 
   async function handleSubmit(e) {
-  e.preventDefault();
+    e.preventDefault();
 
-  const newErrors = {};
+    const newErrors = {};
 
-  if (!email) newErrors.email = "Email is required";
-  if (!password) newErrors.password = "Password is required";
+    if (!email) newErrors.email = "Email is required";
+    if (!password) newErrors.password = "Password is required";
 
-  if (!isLogin) {
-    if (!firstName.trim()) newErrors.firstName = "First name is required";
-    if (!lastName.trim()) newErrors.lastName = "Last name is required";
+    if (!isLogin) {
+      if (!firstName.trim()) newErrors.firstName = "First name is required";
+      if (!lastName.trim()) newErrors.lastName = "Last name is required";
 
-    if (!validatePassword(password))
-      newErrors.password =
-        "Password must contain at least one uppercase letter, one number, and one special character.";
+      if (!validatePassword(password))
+        newErrors.password =
+          "Password must contain at least one uppercase letter, one number, and one special character.";
 
-    if (password !== confirmPassword)
-      newErrors.confirmPassword = "Passwords do not match";
+      if (password !== confirmPassword)
+        newErrors.confirmPassword = "Passwords do not match";
 
-    if (!acceptedTerms)
-      newErrors.acceptedTerms = "Please accept the terms and conditions";
-  }
+      if (!acceptedTerms)
+        newErrors.acceptedTerms = "Please accept the terms and conditions";
+    }
 
-  if (Object.keys(newErrors).length > 0) {
-    setErrors(newErrors);
-    return;
-  } else {
-    setErrors({});
-  }
-
-  const endpoint = isLogin
-    ? `${BASE_URL}/api/login`
-    : `${BASE_URL}/api/signup`;
-
-  const payload = isLogin
-    ? { email, password }
-    : { firstName, lastName, email, password, userType };
-
-  try {
-    const response = await fetch(endpoint, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload),
-    });
-
-    const text = await response.text();
-    let data;
-    try {
-      data = JSON.parse(text);
-    } catch {
-      alert("Received invalid JSON from server");
+    if (Object.keys(newErrors).length > 0) {
+      setErrors(newErrors);
       return;
-    }
-
-    if (response.ok) {
-      alert(`Success! Welcome ${email}`);
-
-      localStorage.setItem("isLoggedIn", "true");
-      localStorage.setItem("userEmail", email);
-
-      // Save role from response (assuming `data.role` exists)
-      if (data.role) {
-        localStorage.setItem("userRole", data.role);
-      } else {
-        // fallback role
-        localStorage.setItem("userRole", "student");
-      }
-
-      setIsAuthenticated(true);
-
-      // Redirect based on role
-      if (data.role === "admin") {
-        navigate("/admin-dashboard"); // admin dashboard route
-      } else {
-        navigate("/dashboard"); // student dashboard route
-      }
     } else {
-      if (data.errors && Array.isArray(data.errors)) {
-        alert("Errors:\n" + data.errors.join("\n"));
-      } else {
-        alert(`Error: ${data.message || "Unknown error"}`);
-      }
+      setErrors({});
     }
-  } catch (error) {
-    alert("Network error: " + error.message);
-  }
-}
 
+    const endpoint = isLogin
+      ? `${BASE_URL}/api/login`
+      : `${BASE_URL}/api/signup`;
+
+    const payload = isLogin
+      ? { email, password }
+      : { firstName, lastName, email, password, userType };
+
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+
+      const text = await response.text();
+      let data;
+      try {
+        data = JSON.parse(text);
+      } catch {
+        alert("Received invalid JSON from server");
+        return;
+      }
+
+      if (response.ok) {
+        alert(`Success! Welcome ${email}`);
+
+        localStorage.setItem("isLoggedIn", "true");
+        localStorage.setItem("userEmail", email);
+
+        const role = data.role || "student";
+        localStorage.setItem("userRole", role);
+
+        setIsAuthenticated(true);
+        setUserRole(role);
+
+        if (role === "admin") {
+          navigate("/dashboard");
+        } else {
+          navigate("/dashboard");
+        }
+      } else {
+        if (data.errors && Array.isArray(data.errors)) {
+          alert("Errors:\n" + data.errors.join("\n"));
+        } else {
+          alert(`Error: ${data.message || "Unknown error"}`);
+        }
+      }
+    } catch (error) {
+      alert("Network error: " + error.message);
+    }
+  }
 
   return (
     <div className="max-w-md mx-auto mt-20 p-8 border rounded-lg shadow-lg bg-white">
@@ -267,6 +263,7 @@ export default function AuthPage({ setIsAuthenticated }) {
             setFirstName("");
             setLastName("");
             setAcceptedTerms(false);
+            setErrors({});
           }}
         >
           {isLogin ? "Sign Up" : "Login"}
