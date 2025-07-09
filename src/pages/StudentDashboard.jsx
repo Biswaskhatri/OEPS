@@ -11,9 +11,10 @@ export default function Dashpage() {
   const [stats, setStats] = useState(null);
   const [recentTests, setRecentTests] = useState([]);
   const [loading, setLoading] = useState(true);
+  const BASE_URL = "http://192.168.18.9:3001"
 
   useEffect(() => {
-    fetch("http://localhost:3001/api/user/dashboard-summary", {
+    fetch('${BASE_URL}/api/user/dashboard-summary', {
     credentials: "include", // ✅ required for session auth
   })
       .then((res) => {
