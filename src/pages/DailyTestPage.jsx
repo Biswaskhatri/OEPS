@@ -27,7 +27,7 @@ export default function DailyTestPage() {
           return res.json();
         })
         .then((data) => {
-          setQuestions(data.questions || []);
+          setQuestions(data.uniqueQuestions || []);
           setLoading(false);
         })
         .catch((err) => {
