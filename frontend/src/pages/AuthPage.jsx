@@ -123,9 +123,9 @@ export default function AuthPage({ setIsAuthenticated, setUserRole }) {
         setUserRole(role);
 
         if (role === "admin") {
-          navigate("/dashboard");
+          navigate("/");
         } else {
-          navigate("/dashboard");
+          navigate("/");
         }
       } else {
         if (data.errors && Array.isArray(data.errors)) {
