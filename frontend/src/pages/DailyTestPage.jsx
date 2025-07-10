@@ -8,7 +8,7 @@ export default function DailyTestPage() {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
 
-  const BASE_URL =  "http://192.168.18.9:3001";
+  const BASE_URL =  "http://localhost:3001";
 
   useEffect(() => {
     // Automatically start test when page loads
