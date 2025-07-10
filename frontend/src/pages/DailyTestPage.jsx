@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Timer from "../components/test/Timer";
+const navigate = useNavigate();
 
 export default function DailyTestPage() {
   const [testStarted, setTestStarted] = useState(false);
@@ -62,7 +63,11 @@ export default function DailyTestPage() {
       })
       .then((data) => {
         alert("Test submitted! Thank you.");
-        console.log("Submission response:", data);
+        if (data.resultId) {
+        navigate(`/test/result/${data.resultId}`);
+      } else {
+        navigate('/test/result'); // fallback
+      }
       })
       .catch((err) => {
         console.error("Submit error:", err);

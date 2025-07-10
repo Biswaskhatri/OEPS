@@ -12,6 +12,7 @@ import DailyTestPage from "./pages/DailyTestPage";
 import SubjectTestPage from "./pages/SubjectTestPage";
 import StudentDashboard from "./pages/StudentDashboard";
 import AdminDashboard from "./pages/AdminDashboard";
+import ResultPage from "./pages/ResultPage"; 
 
 export default function App() {
   // Initialize auth and role from localStorage so user stays logged in on refresh
@@ -60,6 +61,17 @@ export default function App() {
             element={
               isAuthenticated ? (
                 <SubjectTestPage />
+              ) : (
+                <Navigate to="/auth" replace />
+              )
+            }
+          />
+           {/* Add this route for ResultPage */}
+          <Route
+            path="/test/result/:resultId"
+            element={
+              isAuthenticated ? (
+                <ResultPage />
               ) : (
                 <Navigate to="/auth" replace />
               )
