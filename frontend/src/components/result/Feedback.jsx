@@ -1,4 +1,4 @@
-export function FeedbackList({ feedback }) {
+export default function Feedback({ feedback }) {
   return (
     <div>
       <h3 className="text-xl font-semibold text-gray-700 mb-3">💬 Personalized Feedback</h3>

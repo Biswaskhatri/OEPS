@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Timer from "../components/test/Timer";
-const navigate = useNavigate();
+import { useNavigate } from "react-router-dom"; 
 
 export default function DailyTestPage() {
+  const navigate = useNavigate();  
   const [testStarted, setTestStarted] = useState(false);
   const [submitted, setSubmitted] = useState(false);
   const [answers, setAnswers] = useState({});

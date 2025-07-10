@@ -1,4 +1,4 @@
-import SubjectCard from './SubjectCard';
+
 
 export default function SubjectGrid({ subjectData, title = "Subject Performance" }) {
   return (

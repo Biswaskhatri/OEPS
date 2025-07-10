@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
-import StatsSummary from "./StatsSummary";  
-import PerformanceChart from "./PerformanceChart";
-import SubjectGrid from "./SubjectGrid";
-import DifficultyPerformance from "./DifficultyPerformance";
-import FeedbackList from "./FeedbackList";
+import StatsSummary from "../components/result/StatsSummary";  
+import PerformanceChart from "../components/result/PerformanceChart";
+import SubjectGrid from "../components/result/SubjectGrid";
+import DifficultyPerformance from "../components/result/DifficultyPerformance";
+import Feedback from "../components/result/Feedback";
+
 
 export default function TestResult({ resultId }) {
   const [result, setResult] = useState(null);
@@ -91,7 +92,7 @@ export default function TestResult({ resultId }) {
 
         {/* Personalized Feedback */}
         <div className="bg-white rounded-2xl shadow-xl p-6">
-          <FeedbackList feedback={result.feedback} title="💬 Personalized Feedback" />
+          <Feedback feedback={result.feedback} title="💬 Personalized Feedback" />
         </div>
 
         {/* Action Buttons */}
