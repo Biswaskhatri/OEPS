@@ -36,7 +36,7 @@ export default function AuthPage({ setIsAuthenticated, setUserRole }) {
   const [errors, setErrors] = useState({});
 
   const navigate = useNavigate();
-  const BASE_URL = "http://192.168.18.9:3001";
+  const BASE_URL = "http://localhost:3001";
 
   const googleLogin = useGoogleLogin({
     onSuccess: (tokenResponse) => {
