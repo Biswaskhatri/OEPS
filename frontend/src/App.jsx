@@ -4,14 +4,14 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 
 import MainLayout from "./components/layout/MainLayout";
 
-import HomePage from "../pages/HomePage";
-import AuthPage from "../pages/AuthPage";
+import HomePage from "./pages/HomePage";
+import AuthPage from "./pages/AuthPage";
 
-import TestPage from "../pages/TestPage";
-import DailyTestPage from "../pages/DailyTestPage";
-import SubjectTestPage from "../pages/SubjectTestPage";
-import StudentDashboard from "../pages/StudentDashboard";
-import AdminDashboard from "../pages/AdminDashboard";
+import TestPage from "./pages/TestPage";
+import DailyTestPage from "./pages/DailyTestPage";
+import SubjectTestPage from "./pages/SubjectTestPage";
+import StudentDashboard from "./pages/StudentDashboard";
+import AdminDashboard from "./pages/AdminDashboard";
 
 export default function App() {
   // Initialize auth and role from localStorage so user stays logged in on refresh
