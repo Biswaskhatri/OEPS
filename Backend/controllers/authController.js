@@ -18,66 +18,11 @@ let fetchPromise;
   }
 })();
 
-const GOOGLE_CLIENT_ID = "392074965716-9e70big7uv9d4r4t6nhrq6ot8msc7e1s.apps.googleusercontent.com";
 
-const GOOGLE_CLIENT_SECRET = "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";
 
 
 exports.postSignup = [
- /* check("firstName")
-  .trim()
-  .isLength({min: 2})
-  .withMessage("First Name should be atleast 2 characters long")
-  .matches(/^[A-Za-z\s]+$/)
-  .withMessage("First Name should contain only alphabets"),
-
-  check("lastName")
-  .matches(/^[A-Za-z\s]*$/)
-  .withMessage("Last Name should contain only alphabets"),
-
-  check("email")
-  .isEmail()
-  .withMessage("Please enter a valid email")
-  .normalizeEmail(),
-
-  check("password")
-  .isLength({min: 5})
-  .withMessage("Password should be atleast 5 characters long")
-  .matches(/[A-Z]/)
-  .withMessage("Password should contain atleast one uppercase letter")
-  .matches(/[a-z]/)
-  .withMessage("Password should contain atleast one lowercase letter")
-  .matches(/[0-9]/)
-  .withMessage("Password should contain atleast one number")
-  .matches(/[!@&]/)
-  .withMessage("Password should contain atleast one special character")
-  .trim(),
-
-  check("confirmPassword")
-  .trim()
-  .custom((value, {req}) => {
-    if (value !== req.body.password) {
-      throw new Error("Passwords do not match");
-    }
-    return true;
-  }),
-
-  check("userType")
-  .notEmpty()
-  .withMessage("Please select a user type")
-  .isIn(['student'])
-  .withMessage("Invalid user type"),
-
-  check("terms")
-  .notEmpty()
-  .withMessage("Please accept the terms and conditions")
-  .custom((value, {req}) => {
-    if (value !== "on") {
-      throw new Error("Please accept the terms and conditions");
-    }
-    return true;
-  }),
-  */
+ 
   
   async(req, res, next) => {
     const {firstName, lastName, email, password, role} = req.body;
