@@ -1,12 +1,14 @@
 
-export default function ProfileSummary({ user, stats }) {
+export default function ProfileSummary({ user, stats, latestTest }) {
+  const { totalTests, averageScore, lastTestDate } = stats;
   return (
-    <div className="bg-white p-8 rounded-3xl shadow-lg space-y-6 max-w-4xl mx-auto">
+    <div className="bg-white p-8 rounded-3xl shadow-lg space-y-6 max-w-5xl mx-auto">
+       
       {/* 👤 User Info */}
       <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center border-b border-gray-200 pb-4">
         <div>
           <h2 className="text-3xl font-extrabold text-gray-900 tracking-wide">
-            Welcome, <span className="text-blue-600">{user.name}</span> 👋
+            Welcome, <span className="text-blue-600">{user.firstName}</span> 
           </h2>
           <p className="mt-1 text-gray-500 text-base sm:text-lg">{user.email}</p>
         </div>

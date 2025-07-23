@@ -1,7 +1,7 @@
 export default function DifficultyPerformance({ difficultyData }) {
   return (
     <div>
-      <h3 className="text-xl font-semibold text-gray-700 mb-2">🎯 Difficulty-wise Performance</h3>
+      <h3 className="text-xl font-semibold text-gray-700 mb-2"> Difficulty-wise Performance</h3>
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         {Object.keys(difficultyData).map((difficulty) => (
           <div key={difficulty} className="bg-white border rounded-lg shadow-sm p-4 hover:bg-green-50 transition-colors">

@@ -22,10 +22,7 @@ export default function RecentTestsCard({ recentTests }) {
                 <p className="text-gray-900 font-bold text-lg">
                   {test.score}/{test.total}
                 </p>
-                {/* Optional: percentage
-                <p className="text-sm text-green-600">
-                  {Math.round((test.score / test.total) * 100)}%
-                </p> */}
+               
               </div>
             </div>
           ))}

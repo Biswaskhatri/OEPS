@@ -40,7 +40,12 @@ app.use(session({
   secret: "CSIT entrance preparation",
   resave: false,
   saveUninitialized: false,
-  store
+  store,
+  cookie: {
+    httpOnly: true,
+    //secure: false, // true if HTTPS
+   // sameSite: 'lax', // or 'none' if cross-site and HTTPS
+  }
 }));
 
 
@@ -53,7 +58,7 @@ app.use((req, res, next) => {
 
 app.use(express.json())
 
-app.use('/questions', questionsRouter);
+app.use('/api', questionsRouter);
 app.use("/api", authRouter);
 
 app.use( '/api/test',testRouter);
@@ -62,39 +67,7 @@ app.get('/add-question', (req, res) => {
   res.render('add-question', { message: null });
 });
 
-app.use( dashboardRouter);
-
-
-
-
-
-app.get('/', (req, res) => {
-  if (req.session.isLoggedIn && req.session.user) {
-    res.render('home-loggedin', {
-      currentPage: 'home',
-      user: req.session.user,
-      isLoggedIn: true
-    });
-  } else {
-    res.render('home-guest', {
-      currentPage: 'home',
-      isLoggedIn: false
-    });
-  }
-});
-
-
-
-
-app.use((req, res, next) => {
-  res.status(404).render('404', {
-    currentPage: null,
-    isLoggedIn: req.session.isLoggedIn || false,
-    user: req.session.user || null,
-    url: req.originalUrl
-  });
-});
-
+app.use('/api/user', dashboardRouter);
 
 
 const PORT = 3001;

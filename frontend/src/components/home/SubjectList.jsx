@@ -31,7 +31,7 @@ const subjects = [
    
   },
   {
-    subject: "General IT",
+    subject: "Computer",
     icon: MonitorCheck,
    
   },

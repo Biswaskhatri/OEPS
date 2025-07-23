@@ -6,11 +6,26 @@ const resultSchema = new mongoose.Schema({
     ref: 'User', // Links to the 'User' model
     required: true
   },
+
+   subject: {
+        type: String,
+        required: false 
+    },
+
   test_date: {
     type: Date,
     default: Date.now
   },
-  time_taken: String, 
+
+   type: {
+    type: String,
+    enum: ["full", "subject"],
+    default: "full"
+   },
+  time_taken: {
+    type: Number,
+    required: false 
+},
   total_questions: Number,
   attempted: Number,
   correct: Number,
@@ -38,12 +53,15 @@ const resultSchema = new mongoose.Schema({
   },
   difficulty_performance: {
     Basic: {
+      total: { type: Number, default: 0 },
       correct: { type: Number, default: 0 }
     },
     Intermediate: {
+      total: { type: Number, default: 0 },
       correct: { type: Number, default: 0 }
     },
     Hard: {
+      total: { type: Number, default: 0 },
       correct: { type: Number, default: 0 }
     }
   },
@@ -119,6 +137,16 @@ const resultSchema = new mongoose.Schema({
         total: { type: Number, default: 0 }
       }
     }
+  },
+
+  normalized_score: {
+  type: Number,
+  default: 0 
+},
+
+  percentile_rank: {
+    type: Number,
+    default: 0,
   },
 
   feedback: [String] // Example: ["Improve Math", "Strong in English"]
